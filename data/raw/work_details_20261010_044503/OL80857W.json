@@ -1,0 +1,46 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "When Zane shot Death, he learned, too late, that he would have to assume his place, speeding over the world riding his pale horse, and ending the lives of others. Sooner than he would have thought possible, Zane found himself being drawn to Satan's plot. Already the Prince of Evil was forging a trap in which Zane must act to destroy Luna, the woman he loved...unless he could discover the only way out....\r\nThe first novel of the INCARNATIONS OF IMMORTALITY series."
+  },
+  "covers": [
+    10093473,
+    207335
+  ],
+  "key": "/works/OL80857W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL19905A"
+      }
+    }
+  ],
+  "title": "On a pale horse",
+  "subjects": [
+    "Fiction",
+    "Fantasy",
+    "American Fantasy fiction",
+    "Fiction, fantasy, general",
+    "Magic",
+    "Death"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T04:57:55.334864"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T21:18:48.250284"
+  }
+}

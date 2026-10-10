@@ -1,0 +1,63 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The King of the Union lies on his deathbed, the peasants revolt, and the nobles scramble to steal his crown. No one believes that the shadow of war is about to fall across the heart of the Union. Only the First of the Magi can save the world, but there are risks."
+  },
+  "title": "Last Argument of Kings",
+  "key": "/works/OL8400952W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2801083A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, fantasy, historical",
+    "Fiction, war & military",
+    "Fiction, fantasy, general",
+    "Imaginary wars and battles",
+    "Fiction",
+    "Kings and rulers",
+    "Succession",
+    "FICTION / Fantasy / Epic",
+    "FICTION / Action & Adventure",
+    "FICTION / Fantasy / Historical",
+    "FICTION / War & Military",
+    "Fiction, fantasy, epic",
+    "Friendship, fiction",
+    "Wizards",
+    "Soldiers",
+    "Conspiracies",
+    "English Fantasy fiction",
+    "English Adventure stories",
+    "English War stories",
+    "Conspiration",
+    "Romans, nouvelles",
+    "Récits de guerre anglais",
+    "Fantasy fiction"
+  ],
+  "covers": [
+    6901175,
+    10451542
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:45:29.339312"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-02T23:51:59.708509"
+  }
+}

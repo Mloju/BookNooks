@@ -1,0 +1,60 @@
+{
+  "description": "Dragons. \r\n\r\nCreatures of legend. Stories told to children. \r\n\r\nBut now dragons have returned to Krynn. The darkness of war and destruction engulfs the land. \r\n\r\nA small band of heroes brings hope to the land. But the hope is fragile as a rose and may be lost completely, shattered by the bitter winds of winter. \r\n\r\nKnight and barbarian, warrior and half-elf, dwarf and kender and dark-souled mage; they begin a perilous search for two artifacts that may help them or lead to their destruction - \r\n\r\nthe Dragon Orb \r\n\r\nand the legendary Dragonlance.",
+  "covers": [
+    4292947,
+    10207482,
+    10875130,
+    12227083,
+    14119372,
+    14119373
+  ],
+  "key": "/works/OL73412W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19887A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL448253A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Dragons of Winter Night",
+  "subjects": [
+    "Fiction",
+    "Dragons in fiction",
+    "Dragons",
+    "Fiction, fantasy, general",
+    "Fantasy fiction",
+    "Comics & graphic novels, fantasy, general",
+    "Dungeons & Dragons Novel",
+    "collection:DragonLance"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_places": [
+    "Krynn (Imaginary place)"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T07:11:38.263313"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T11:12:27.777391"
+  }
+}

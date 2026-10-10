@@ -1,0 +1,62 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Stellarlune",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7051946A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL26348345W",
+  "subject_places": [
+    "Atlantis (Legendary place)"
+  ],
+  "subject_people": [
+    "Shannon Messenger"
+  ],
+  "subjects": [
+    "KOTLC",
+    "Fiction-Fantasy - General",
+    "Fantasy",
+    "Magic, fiction",
+    "Adventure and adventurers, fiction",
+    "Friendship, fiction",
+    "Fantasy fiction"
+  ],
+  "subject_times": [
+    "present day"
+  ],
+  "description": "Sophie Foster changed the game.\r\n\r\nNow she's facing impossible choices:\r\n\r\nWhen to act.\r\n\r\nWhen to trust.\r\n\r\nWhen to let go.\r\n\r\nHer friends are divided and scattered, and the Black Swan wants Sophie to focus on their projects. But her instincts are leading her somewhere else.\r\n\r\nStellarlune—and the mysterious Elysian—might be the key to everything. But finding truth in the Lost Cities always requires sacrifice. And as the Neverseen's plans sharpen into terrifying focus, it appears that everyone has miscalculated. The Lost Cities' greatest lie could destroy everything. And in the battle that follows, only one thing is certain: nothing will ever be the same.",
+  "covers": [
+    13316210,
+    13332152
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL330866L"
+      },
+      "position": "9"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-11-03T08:07:05.072849"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T04:33:07.326462"
+  }
+}

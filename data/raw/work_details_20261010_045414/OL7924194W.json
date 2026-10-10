@@ -1,0 +1,84 @@
+{
+  "subjects": [
+    "Rand al'Thor (Fictitious character)",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "Fiction, fantasy, epic",
+    "Civil war",
+    "Fantasy fiction",
+    "Adventure stories",
+    "Good and evil",
+    "Imaginary wars and battles",
+    "Fantasy",
+    "Fiction, science fiction, general",
+    "American literature"
+  ],
+  "key": "/works/OL7924194W",
+  "title": "Knife of Dreams",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL233594A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    871816,
+    183300,
+    603641,
+    9098385,
+    886213,
+    10226066,
+    6859029,
+    9355940,
+    10637726,
+    8623999,
+    10293498,
+    12156415,
+    12227146,
+    12305990,
+    13566798,
+    14096943,
+    14096942,
+    14119195,
+    14119196
+  ],
+  "first_publish_date": "2005",
+  "lc_classifications": [
+    "PS3560.O7617 K58 2005"
+  ],
+  "subtitle": "(The Wheel of Time, Book 11)",
+  "description": "In een gefantaseerde wereld maakt een ieder zich op voor de laatste strijd tussen Goed en Kwaad.",
+  "identifiers": {
+    "bookbrainz": [
+      "847fd245-d435-4f18-9e05-eca8b2ae68b6"
+    ],
+    "musicbrainz": [
+      "4b14fdbf-8280-4fdf-88db-5782c6e32afe"
+    ],
+    "wikidata": [
+      "Q2619164"
+    ]
+  },
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:13:35.559002"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T00:58:11.200592"
+  }
+}

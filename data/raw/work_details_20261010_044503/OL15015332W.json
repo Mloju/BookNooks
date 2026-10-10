@@ -1,0 +1,50 @@
+{
+  "description": "For Durzo Blint, assassination is an art. And he is the city's most accomplished artist, his talents required from alleyway to courtly boudoir.\r\nFor Azoth, survival is precarious. Something you never take for granted. As a guild rat, he's grown up in the slums, and learned the hard way to judge people quickly - and to take risks. Risks like apprenticing himself to Durzo Blint.\r\nBut to be accepted, Azoth must turn his back on his old life and embrace a new identity and name. As Kylar Stern, he must learn to navigate the assassins' world of dangerous politics and strange magics - and cultivate a flair for death.",
+  "title": "The Way of Shadows",
+  "covers": [
+    6306862,
+    7538075,
+    6452993
+  ],
+  "subjects": [
+    "fantasy",
+    "assassination",
+    "wetboy",
+    "Fiction",
+    "Assassins",
+    "Fiction, fantasy, epic",
+    "Fantasy fiction"
+  ],
+  "subject_people": [
+    "Kylar Stern",
+    "Durzo Blint",
+    "Logan Gyre"
+  ],
+  "key": "/works/OL15015332W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6791840A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-03-18T18:20:35.449467"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T09:13:15.812311"
+  }
+}

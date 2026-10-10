@@ -1,0 +1,83 @@
+{
+  "title": "Sourcery",
+  "covers": [
+    6927508
+  ],
+  "key": "/works/OL453659W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25712A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "When last seen, the singularly inept wizard Rincewind had fallen off the edge of the world. Now magically, he's turned up again, and this time he's brought the Luggage.But that's not all...Once upon a time, there was an eighth son of an eighth son who was, of course, a wizard. As if that wasn't complicated enough, said wizard then had seven sons. And then he had an eighth son -- a wizard squared (that's all the math, really). Who of course, was a source of magic -- a sorcerer.",
+  "subjects": [
+    "Discworld (Imaginary place)",
+    "Fiction",
+    "Fantasy",
+    "English Fantasy fiction",
+    "Wizards",
+    "Discworld (imaginary place), fiction",
+    "Fiction, fantasy, general",
+    "Fiction, humorous",
+    "Rincewind the wizard (fictitious character), fiction",
+    "Fiction, humorous, general",
+    "Literature and fiction, fantasy",
+    "Motion picture plays",
+    "English literature"
+  ],
+  "location": "/works/OL453828W",
+  "subject_people": [
+    "Rincewind (Fictitious character)",
+    "Nijel the Destroyer (Fictitious character)",
+    "Conina (Fictitious character)",
+    "Cohen the Barbarian (Fictitious character)",
+    "Death (Fictitious character)",
+    "The Luggage (Fictitious character)",
+    "The Librarian (Fictitious character)",
+    "Coin (Fictitious character)",
+    "Creosote (Fictitious character)",
+    "Marmaric Carding (Fictitious character)",
+    "Spelter (Fictitious character)"
+  ],
+  "identifiers": {
+    "bookbrainz": [
+      "d0e97859-1a15-4503-8297-5e33cce48647"
+    ],
+    "musicbrainz": [
+      "2ebf4043-50ec-4a00-9b23-c88b3c39e961"
+    ],
+    "wikidata": [
+      "Q2020225"
+    ]
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL339711L"
+      },
+      "position": "5"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL172T"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:21:44.262684"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-15T14:15:21.922020"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "description": "Dorothy and her friends follow the enchanted road to Oz and arrive in time for Ozma's birthday party.",
+  "title": "The Road to Oz",
+  "covers": [
+    8243922,
+    8431689,
+    8740020,
+    8863672,
+    8929301,
+    9106692,
+    9203848,
+    10459924,
+    11064305,
+    13308020,
+    13766895,
+    13557352
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "\"Please, miss,\" said the shaggy man, \"can you tell me the road to Butterfield?\""
+  },
+  "first_publish_date": "October 12, 1979",
+  "key": "/works/OL262390W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL23431A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "\"Please, miss,\" said the shaggy man, \"can you tell me the road to Butterfield?\""
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fairy tales",
+    "Juvenile Fiction",
+    "Fiction",
+    "Oz (Imaginary place)",
+    "Fantasy",
+    "Classic Literature",
+    "Children's fiction",
+    "Fantasy fiction",
+    "Oz (imaginary place), fiction",
+    "Fiction, fantasy, general"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL330984L"
+      },
+      "position": "5"
+    },
+    {
+      "series": {
+        "key": "/series/OL330989L"
+      },
+      "position": "5"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL174T"
+  ],
+  "latest_revision": 39,
+  "revision": 39,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-24T07:26:31.097043"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-02T20:05:46.620149"
+  }
+}

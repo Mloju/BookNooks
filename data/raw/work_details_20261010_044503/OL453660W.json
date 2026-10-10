@@ -1,0 +1,102 @@
+{
+  "title": "Wyrd Sisters",
+  "key": "/works/OL453660W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25712A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, fantasy, general",
+    "Discworld (imaginary place), fiction",
+    "Granny weatherwax (fictitious character), fiction",
+    "Fiction",
+    "Discworld (Imaginary place)",
+    "Occult fiction",
+    "Witches",
+    "Fantasy",
+    "MacBeth",
+    "satire",
+    "humor",
+    "kingdom",
+    "Fantasy fiction",
+    "Fiction, humorous",
+    "Fiction, humorous, general",
+    "Literature and fiction, fantasy",
+    "Fiction, science fiction, general",
+    "English Fantasy fiction",
+    "Translations into Turkish",
+    "Turkish Fantasy fiction",
+    "Translations from English",
+    "Disque-monde (Lieu imaginaire)",
+    "Romans, nouvelles",
+    "Sorcières",
+    "English literature",
+    "Witchcraft",
+    "Drama",
+    "Wizards",
+    "Occultism"
+  ],
+  "covers": [
+    14648051
+  ],
+  "description": "Granny Weatherwax, Nanny Ogg, and Maigrat have fairy godmother-dom thrust upon them.",
+  "subject_places": [
+    "Lancre (Imaginary place)",
+    "Ankh-Morpork (Imaginary place)"
+  ],
+  "subject_people": [
+    "Nanny Ogg (Fictional character)",
+    "Granny Weatherwax (Fictional character)",
+    "Magrat Garlick (Fictional character)",
+    "Greebo (Fictional character)",
+    "Verence (Fictional character)",
+    "Death (Fictional character)"
+  ],
+  "location": "/works/OL453884W",
+  "identifiers": {
+    "bookbrainz": [
+      "3fe391df-7806-4aab-a6b4-df7f28bb4ddf"
+    ],
+    "musicbrainz": [
+      "dba2c37f-526d-4d83-b497-d52cd0a3ada8"
+    ],
+    "wikidata": [
+      "Q1765450"
+    ]
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL339711L"
+      },
+      "position": "6"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL171T",
+    "/tags/OL178T",
+    "/tags/OL172T",
+    "/tags/OL179T",
+    "/tags/OL167T"
+  ],
+  "latest_revision": 23,
+  "revision": 23,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:21:44.262684"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T05:11:11.592055"
+  }
+}

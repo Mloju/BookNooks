@@ -1,0 +1,55 @@
+{
+  "description": "Three hundred years after the events of the Mistborn trilogy, Scadrial is now on the verge of modernity, with railroads to supplement the canals, electric lighting in the streets and the homes of the wealthy, and the first steel-framed skyscrapers racing for the clouds.\r\n\r\nKelsier, Vin, Elend, Sazed, Spook, and the rest are now part of history—or religion. Yet even as science and technology are reaching new heights, the old magics of Allomancy and Feruchemy continue to play a role in this reborn world. Out in the frontier lands known as the Roughs, they are crucial tools for the brave men and women attempting to establish order and justice.\r\n\r\nOne such is Waxillium Ladrian, a rare Twinborn who can Push on metals with his Allomancy and use Feruchemy to become lighter or heavier at will.\r\n\r\nAfter twenty years in the Roughs, Wax has been forced by family tragedy to return to the metropolis of Elendel. Now he must reluctantly put away his guns and assume the duties and dignity incumbent upon the head of a noble house. Or so he thinks, until he learns the hard way that the mansions and elegant tree-lined streets of the city can be even more dangerous than the dusty plains of the Roughs.",
+  "covers": [
+    14658081
+  ],
+  "key": "/works/OL16597059W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394865A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Alloy of Law",
+  "subjects": [
+    "Imaginary Places",
+    "Magic",
+    "Fiction",
+    "Fantasy",
+    "Fiction, fantasy, epic",
+    "New York Times bestseller",
+    "FICTION / Fantasy / Epic"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "location": "/works/OL16597059W",
+  "identifiers": {
+    "bookbrainz": [
+      "80c1a43e-d316-4108-ab20-805f0b0bb036"
+    ],
+    "musicbrainz": [
+      "https://musicbrainz.org/work/a439c22e-96c4-4453-a87c-623302e95cad"
+    ],
+    "wikidata": [
+      "Q6880077"
+    ]
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 25,
+  "revision": 25,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2012-04-18T08:10:13.305431"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T01:44:00.712739"
+  }
+}

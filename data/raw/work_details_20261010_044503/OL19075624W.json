@@ -1,0 +1,60 @@
+{
+  "title": "Nevernight",
+  "key": "/works/OL19075624W",
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8390850,
+    10085980,
+    14646478,
+    8422718,
+    8450142,
+    10136480,
+    10491223,
+    10497147,
+    10830531,
+    12219232,
+    13483965,
+    13523008
+  ],
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7327282A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"In a world where the suns almost never set, a woman gains entry to a school of infamous assassins, seeking vengeance against the powers that destroyed her family. Daughter of an executed traitor, Mia Corvere is barely able to escape her father's failed rebellion with her life. Alone and friendless, she wanders a city built from the bones of a dead god, hunted by the Senate and its thugs. But her gift for speaking with the shadows leads her to the hearth of a retired killer, and a future she never imagined. Now, Mia is apprenticed to the deadliest flock of assassins in the entire Republic-the Red Church. Deadly trials await her within the Church's halls: blades and poisons, treachery and death. If she survives to initiation, she'll be inducted among the chosen of the Lady of Blessed Murder, and be one step closer to the only thing she desires. Revenge. Nevernight will come on the heels of Kristoff's latest YA book, a collaboration with Amie Kaufman from Knopf Books for Young Readers, Illuminae. Knopf is planning a major publicity blitz and featuring Illuminae as its lead title for Fall, on sale October 20th. The marketing and publicity campaign include a multi-city USA tour in the fall, major outreach at consumer and industry events, a national paid advertising campaign, and extensive publicity outreach\"--"
+  },
+  "subjects": [
+    "Revenge",
+    "Fiction",
+    "Fiction, fantasy, historical",
+    "Fiction, fantasy, epic",
+    "Fiction, general",
+    "Fiction, fantasy, general",
+    "Fantasy",
+    "Epic",
+    "Historical"
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL170T"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-02-24T18:57:41.032783"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T10:10:43.728008"
+  }
+}

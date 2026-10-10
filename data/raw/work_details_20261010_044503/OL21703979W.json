@@ -1,0 +1,77 @@
+{
+  "title": "A Court of Silver Flames",
+  "key": "/works/OL21703979W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7115219A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, romance, fantasy",
+    "Fiction, fantasy, epic",
+    "Fiction, fantasy, romance",
+    "nyt:combined-print-and-e-book-fiction=2021-03-07",
+    "New York Times bestseller",
+    "collectionID:EanesChallenge",
+    "collectionID:AlpineChallenge",
+    "nyt:trade-fiction-paperback=2022-09-25",
+    "series:A_Court_of_Thorns_and_Roses",
+    "Imaginary wars and battles",
+    "Fiction",
+    "Women spies",
+    "Fairies",
+    "Magic",
+    "Courts and courtiers",
+    "FICTION / Fantasy / Romantic",
+    "FICTION / Fantasy / Action & Adventure",
+    "FICTION / Romance / Fantasy",
+    "Monsters"
+  ],
+  "covers": [
+    10643508,
+    10651205,
+    11953893,
+    12203570,
+    13126367
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Sarah J. Maas's sexy, richly imagined Court of Thorns and Roses series continues with the journey of Feyre's fiery sister, Nesta.\r\n\r\nNesta Archeron has always been prickly – proud, swift to anger and slow to forgive. And since the war – since being made High Fae against her will – she's struggled to forget the horrors she endured and find a place for herself within the strange and deadly Night Court.\r\n\r\nThe person who ignites her temper more than any other is Cassian, the battle-scarred, winged warrior who is there at Nesta's every turn. But her temper isn't the only thing Cassian ignites. And when they are forced to train in battle together, sparks become flame.\r\n\r\nAs the threat of war casts its shadow over them once again, Nesta and Cassian must fight monsters from within and without if they are to stand a chance of halting the enemies of their court. But the ultimate risk will be searching for acceptance – and healing – in each other's arms."
+  },
+  "subject_places": [
+    "Prythian"
+  ],
+  "subject_people": [
+    "Nesta Archeron",
+    "Rhysand",
+    "Feyre Archeron",
+    "Azriel",
+    "Cassian"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL327003L"
+      },
+      "position": "5"
+    }
+  ],
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-08-26T18:57:31.210055"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-17T22:00:51.896008"
+  }
+}

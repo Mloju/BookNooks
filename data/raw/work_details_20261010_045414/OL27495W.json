@@ -1,0 +1,88 @@
+{
+  "description": "A number-one New York Times bestseller when it was originally published, The Silmarillion is the core of J.R.R. Tolkien's imaginative writing, a work whose origins stretch back to a time long before The Hobbit.",
+  "title": "The Silmarillion",
+  "covers": [
+    14627042,
+    14627519,
+    13803902
+  ],
+  "subject_places": [
+    "Middle Earth",
+    "Valinor",
+    "Númenor",
+    "Fictional pre-historical world",
+    "Middle Earth (Imaginary place)"
+  ],
+  "first_publish_date": "June 1984",
+  "key": "/works/OL27495W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26320A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2623360A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fantasy fiction",
+    "Short stories",
+    "Middle Earth (Imaginary place)",
+    "Elves",
+    "Fiction",
+    "British and irish fiction (fictional works by one author)",
+    "Fiction, fantasy, epic",
+    "Middle earth (imaginary place), fiction",
+    "English Fantasy fiction",
+    "English literature",
+    "Engelse fiksie",
+    "fantasy",
+    "Bilbo Baggins (Fictitious character)",
+    "silmaril",
+    "Fiction, fairy tales, folk tales, legends & mythology",
+    "Fiction, fantasy, dragons & mythical creatures",
+    "Fiction, fantasy, action & adventure",
+    "English fiction"
+  ],
+  "subject_people": [
+    "Maglor",
+    "Maedhros",
+    "Fëanor",
+    "Eru",
+    "Morgoth",
+    "Fingolfin",
+    "Lúthien",
+    "Eärendil",
+    "Túrin"
+  ],
+  "subject_times": [
+    "The First Age",
+    "Fictional pre-history",
+    "First Age"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 54,
+  "revision": 54,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T02:46:28.838662"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T02:40:30.050448"
+  }
+}

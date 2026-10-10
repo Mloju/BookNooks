@@ -1,0 +1,172 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "[The Dark Tower][1] VI\r\n\r\nSusannah, now pregnant, has yet another taking control of her.  The demon-mother, Mia, uses Susannah and Black Thirteen to transport to New York City of 1999.  Jake, Oy, and Pere Callahan must rescue Susannah while Eddie and Roland transport to the Maine of 1977.  A vacant lot in New York is the prize that must be saved and ties these together.\r\n([source][2])\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL81600W/The_Dark_Tower_1-7\r\n  [2]: https://www.stephenking.com/library/novel/dark_tower_song_of_susannah_the.html"
+  },
+  "links": [
+    {
+      "title": "StephenKing.com - The Dark Tower: Song of Susannah",
+      "url": "https://www.stephenking.com/library/novel/dark_tower_song_of_susannah_the.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Dark Tower VI: Song of Susannah - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Tower_VI:_Song_of_Susannah",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Song of Susannah by Stephen King: Why King just keeps on trucking",
+      "url": "https://www.independent.co.uk/arts-entertainment/books/reviews/song-of-susannah-by-stephen-king-731304.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Fiction Book Review: THE DARK TOWER VI: Song of Susannah by ...",
+      "url": "https://www.publishersweekly.com/978-1-880418-59-8",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Song of Susannah by Stephen King book review",
+      "url": "http://www.fantasybookreview.co.uk/Stephen-King/Song-of-Susannah.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "the dark tower - How much of King's journal was true? - Science ...",
+      "url": "https://scifi.stackexchange.com/questions/35409/how-much-of-kings-journal-was-true",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Song of Susannah",
+  "covers": [
+    8393691,
+    10200746,
+    -1,
+    10981341,
+    13900735,
+    13646336,
+    12325186,
+    12338981,
+    13124423,
+    12275451
+  ],
+  "subject_places": [
+    "New York (N.Y.)",
+    "Maine",
+    "New York City",
+    "Doorway Cave",
+    "Castle Discordia",
+    "End-World",
+    "East Stoneham",
+    "World Trade Center",
+    "'Salem's Lot",
+    "Fedic",
+    "Thunderclap",
+    "Dixie Pig"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "\"How long will the magic stay?",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "first_publish_date": "June 8, 2004",
+  "subject_people": [
+    "The Crimson King",
+    "Mordred",
+    "Richard Sayre",
+    "Eddie Dean (Fictitious character)",
+    "Jake Chambers (Fictitious Character)",
+    "Enrico Balazar",
+    "Stephen King",
+    "Jack Andolini",
+    "Roland of Gilead (Fictitious character)",
+    "Susannah Dean (Fictitious character)",
+    "Roland (Fictitious character : King)",
+    "Susannah Dean",
+    "Calvin Tower",
+    "Susannah-Mia",
+    "Eddie Dean",
+    "Roland Deschain",
+    "Jake Chambers",
+    "Oy",
+    "Donald Frank Callahan"
+  ],
+  "key": "/works/OL149200W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19981A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "1999",
+    "1977"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "horror fiction",
+    "good and evil",
+    "heroes",
+    "literature",
+    "supernatural",
+    "dark fantasy",
+    "Fantasy fiction",
+    "Fiction",
+    "epic fiction",
+    "adventure fiction",
+    "wolves",
+    "Roland (Fictitious character)",
+    "Fiction, fantasy, epic",
+    "Roland (fictitious character : king), fiction",
+    "Dark tower (imaginary place), fiction",
+    "Roland (Fictitious character : King)",
+    "Fiction, fantasy, general",
+    "Roland of Gilead (Fictitious character)",
+    "Roland (Fictitious character : King) -- Fiction.",
+    "Science fiction, fantasy, horror"
+  ],
+  "genres": [
+    "/tags/OL171T",
+    "/tags/OL174T",
+    "/tags/OL169T",
+    "/tags/OL164T"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL343965L"
+      },
+      "position": "6"
+    }
+  ],
+  "latest_revision": 61,
+  "revision": 61,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-19T22:33:49.992711"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-20T22:22:56.351741"
+  }
+}

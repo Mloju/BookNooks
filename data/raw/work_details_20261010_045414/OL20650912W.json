@@ -1,0 +1,73 @@
+{
+  "covers": [
+    9289603,
+    10291432,
+    11051762,
+    11051765,
+    11051766,
+    10327410,
+    12203496,
+    12325411,
+    13122290
+  ],
+  "key": "/works/OL20650912W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7115219A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "House of Earth and Blood",
+  "subjects": [
+    "American literature",
+    "Fiction, fantasy, urban",
+    "Fiction, romance, paranormal",
+    "Fiction, fantasy, epic",
+    "Fiction, romance, fantasy",
+    "collectionID:EanesChallenge",
+    "Fiction, romance, paranormal, general",
+    "[series:SJM_Crescent:City]",
+    "fiction",
+    "angels",
+    "demonology",
+    "Fairies",
+    "fantasy fiction",
+    "murder"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "Bound by blood.\r\nTempted by desire.\r\nUnleashed by destiny.\r\n\r\nBryce Quinlan had the perfect life—working hard all day and partying all night—until a demon murdered her closest friends, leaving her bereft, wounded, and alone. When the accused is behind bars but the crimes start up again, Bryce finds herself at the heart of the investigation. She’ll do whatever it takes to avenge their deaths.\r\n\r\nHunt Athalar is a notorious Fallen angel, now enslaved to the Archangels he once attempted to overthrow. His brutal skills and incredible strength have been set to one purpose—to assassinate his boss’s enemies, no questions asked. But with a demon wreaking havoc in the city, he’s offered an irresistible deal: help Bryce find the murderer, and his freedom will be within reach.\r\n\r\nAs Bryce and Hunt dig deep into Crescent City’s underbelly, they discover a dark power that threatens everything and everyone they hold dear, and they find, in each other, a blazing passion—one that could set them both free, if they’d only let it.\r\n\r\nWith unforgettable characters, sizzling romance, and page-turning suspense, this richly inventive new fantasy series by #1 New York Times bestselling author Sarah J. Maas delves into the heartache of loss, the price of freedom—and the power of love.",
+  "subject_people": [
+    "Bryce Quinlan",
+    "Hunt Athalar"
+  ],
+  "subject_places": [
+    "Crescent City"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL334583L"
+      },
+      "position": "1"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 19,
+  "revision": 19,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-03-05T16:34:17.342986"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T11:07:57.571659"
+  }
+}

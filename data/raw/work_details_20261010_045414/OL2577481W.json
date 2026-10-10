@@ -1,0 +1,97 @@
+{
+  "covers": [
+    8309685,
+    8457624,
+    10394708,
+    10893698,
+    -1,
+    8742079,
+    13112790,
+    8741591,
+    12325265
+  ],
+  "first_publish_date": "1995",
+  "key": "/works/OL2577481W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL368638A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subjects": [
+    "Polish Fantasy fiction",
+    "Fiction, fantasy, epic",
+    "Monsters",
+    "Fiction",
+    "Assassins",
+    "Suffering",
+    "Murder",
+    "Magic",
+    "Prophecy",
+    "Wizards",
+    "Fiction, fantasy, general",
+    "Fiction, action & adventure",
+    "Criminals, fiction",
+    "fantasy",
+    "epic",
+    "Powieść fantastyczna polska",
+    "Assasins",
+    "Polish Science fiction",
+    "Bodyguards",
+    "Fantastischer Roman",
+    "Polnisch"
+  ],
+  "title": "Czas pogardy",
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "Świat Ciri i wiedźmina ogarniają płomienie. Nastał zapowiadany przez Ithlinne czas miecza i topora - czas pogardy. A w czasach pogardy na powierzchnię wypełzają Szczury, atakujące po szczurzemu, cicho, zdradziecko i okrutnie. To maruderzy z rozbitych armii, zabłąkane dzieciaki, zgwałcone dziewczyny, wieśniacy, których obejścia spalono, a rodziny wymordowano. Wyrzutki, dziwna zbieranina stworzona przez wojnę i na wojennym nieszczęściu żerująca.",
+  "subject_people": [
+    "Dandelion",
+    "Yennefer",
+    "Triss Merigold",
+    "Ciri (Cirilla Fiona Elen Riannon)",
+    "Iskra",
+    "Skomlik",
+    "Aplegatt",
+    "Francesca Findabair",
+    "Geralt of Rivia",
+    "Emhyr var Emreis",
+    "Sigismund Dijkstra",
+    "Philippa Eilhart",
+    "Margarita Laux–Antille",
+    "Tessaia de Vries",
+    "Codringher",
+    "Fenn",
+    "Vilgefortz",
+    "Giselher",
+    "Mistle",
+    "Kayleigh"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL329475L"
+      },
+      "position": "2"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 19,
+  "revision": 19,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T23:59:12.155266"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T11:02:53.874349"
+  }
+}

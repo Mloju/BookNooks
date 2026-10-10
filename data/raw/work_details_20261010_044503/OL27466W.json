@@ -1,0 +1,97 @@
+{
+  "first_publish_date": "1980",
+  "title": "Unfinished Tales of Númenor and Middle-earth",
+  "covers": [
+    9293458,
+    10292576,
+    -1,
+    12126141,
+    13478304,
+    13478305,
+    13478308,
+    14120071,
+    14120072,
+    13463273,
+    13197860
+  ],
+  "lc_classifications": [
+    "PR6039.O32 U5 1980"
+  ],
+  "key": "/works/OL27466W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26320A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2623360A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL14022388A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "823/.912"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "English Fantasy fiction",
+    "Middle Earth (Imaginary place)",
+    "Open Library Staff Picks",
+    "Fiction",
+    "Fantasy fiction, English",
+    "Short stories",
+    "Fiction, fantasy, general",
+    "Fiction, short stories (single author)",
+    "Middle earth (imaginary place), fiction",
+    "Fiction, fantasy, epic",
+    "Fantasy fiction",
+    "Fiction, fantasy, short stories"
+  ],
+  "description": "Unfinished Tales is a collection of narratives ranging in time from the Elder Days of Middle-earth to the end of the War of the Ring, and provides those who have read The Lord of the Rings with a whole collection of background and new stories from the twentieth century’s most acclaimed popular author.\r\n\r\nThe book concentrates on the realm of Middle-earth and comprises such elements as Gandalf’s lively account of how it was that he came to send the Dwarves to the celebrated party at Bag-End, the emergence of the sea-god Ulmo before the eyes of Tuor on the coast of Beleriand, and an exact description of the military organization of the Riders of Rohan.\r\n\r\nUnfinished Tales also contains the only story about the long ages of Numenor before its downfall, and all that is known about such matters as the Five Wizards, the Palantiri and the legend of Amroth. The tales were collated and edited by JRR Tolkien’s son and literary heir, Christopher Tolkien, who provides a short commentary on each story, helping the reader to fill in the gaps and put each story into the context of the rest of his father’s writings.",
+  "subject_times": [
+    "First Age",
+    "Second Age",
+    "Third Age",
+    "War of the Ring"
+  ],
+  "subject_people": [
+    "Frodo",
+    "Gandalf",
+    "Túrin",
+    "Tuor"
+  ],
+  "subject_places": [
+    "Middle-Earth",
+    "Númenor"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 28,
+  "revision": 28,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T02:46:28.838662"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T11:11:13.582330"
+  }
+}

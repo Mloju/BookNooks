@@ -1,0 +1,92 @@
+{
+  "description": "The novels of the Dresden Files have become synonymous with action-packed urban fantasy and non-stop fun. Storm Front is Jim Butcher's first novel and introduces his most famous and popular character-Harry Dresden, wizard for hire.For his first case, Harry is called in to consult on a grisly double murder committed with the blackest of magic. At first, the less-than-solvent Harry's eyes light up with dollar signs. But where there's black magic, there's a black mage. Now, that black mage knows Harry's name. And things are about to get very...interesting.",
+  "title": "Storm Front",
+  "covers": [
+    6414916,
+    294969,
+    1697922,
+    8993023,
+    730092,
+    1237205,
+    7974990,
+    11018314,
+    10184739,
+    10662254,
+    9262972
+  ],
+  "subject_places": [
+    "Chicago",
+    "Illinois (United States)"
+  ],
+  "subjects": [
+    "Mystery",
+    "Fiction",
+    "Fantasy",
+    "Wizards",
+    "Dresden, Harry (Fictitious characters)",
+    "Urban Fantasy",
+    "Wizards in fiction",
+    "science fiction",
+    "magic",
+    "wizardry",
+    "Fiction, fantasy, contemporary",
+    "Fiction, mystery & detective, general",
+    "Private investigators, fiction",
+    "Chicago (ill.), fiction",
+    "Harry Dresden (Fictitious character)",
+    "nyt:hardcover-graphic-books=2009-06-21",
+    "New York Times bestseller",
+    "Fiction, fantasy, general",
+    "Fiction, fantasy, urban",
+    "Fiction, mystery & detective, private investigators",
+    "Fiction, fantasy, paranormal",
+    "Private investigators",
+    "Murder",
+    "Juvenile fiction",
+    "Comics & graphic novels, fantasy, general",
+    "Comics & graphic novels, crime & mystery"
+  ],
+  "subject_people": [
+    "Harry Dresden",
+    "Bob Andrews",
+    "Donald Morgan",
+    "Ron Carmichael",
+    "Susan Rodriguez",
+    "Bob (Dresden Files)",
+    "John Marcone",
+    "Karrin Murphy",
+    "Harry Dresden (Fictitious character)"
+  ],
+  "key": "/works/OL5685119W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL5152266A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_times": [
+    "Contemporary"
+  ],
+  "genres": [
+    "/tags/OL175T",
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 21,
+  "revision": 21,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:04:59.368841"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T01:50:38.578046"
+  }
+}

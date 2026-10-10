@@ -1,0 +1,67 @@
+{
+  "description": "**The Manipulator**\r\n\r\nI can manipulate the emotions of anyone who lets me.\r\n\r\nI will make you hurt, make you cry, make you laugh and sigh.\r\n\r\nBut my words don't affect him. Especially not when I plead for him to leave.\r\n\r\nHe's always there, watching and waiting.\r\n\r\nAnd I can never look away.\r\n\r\nNot when I want him to come closer.\r\n\r\n**The Shadow**\r\n\r\nI didn't mean to fall in love.\r\n\r\nBut now that I have, I can't stay away.\r\n\r\nI'm mesmerized by her smile, by her eyes, and the way she moves.\r\n\r\nThe way she undresses...\r\n\r\nI'll keep watching and waiting. Until I can make her mine.\r\n\r\nAnd once she is, I'll never let her go.\r\n\r\nNot even when she begs me to.",
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Haunting Adeline",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL10218224A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL27310398W",
+  "subjects": [
+    "Dark Romance",
+    "Romance",
+    "Dark",
+    "Spicy",
+    "Smut",
+    "Stalker",
+    "Thriller",
+    "Fantasy",
+    "Enemies To Lovers",
+    "Horror",
+    "Fiction, romance, general",
+    "Fiction, thrillers, suspense",
+    "Young adult fiction, romance, general",
+    "Young adult fiction, fantasy, dark fantasy",
+    "nyt:trade-fiction-paperback=2024-09-15",
+    "New York Times bestseller",
+    "collectionID:YDarkromance"
+  ],
+  "covers": [
+    12992962
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL330244L"
+      },
+      "position": "1"
+    }
+  ],
+  "identifiers": {
+    "librarything": [
+      "26988786"
+    ]
+  },
+  "subject_people": [
+    "Zade",
+    "Adeline"
+  ],
+  "latest_revision": 26,
+  "revision": 26,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-02-24T01:36:10.105333"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-16T15:37:59.963347"
+  }
+}

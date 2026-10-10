@@ -1,0 +1,59 @@
+{
+  "description": "The first story collection by *New York Times* bestselling author Brandon Sanderson\r\n\r\nBrandon Sanderson creates worlds, and those worlds are linked. His universe spans the Stormlight Archive, the Mistborn series, the tales of Elantris, and others, comprising a unique constellation of vividly imagined realms known as the Cosmere.\r\n\r\nNow for the first time anywhere, stories representing each of these planets, and their fully realized and distinct magic systems, have been collected in a single spectacular volume. *Arcanum Unbounded: The Cosmere Collection* brings together tales spanning the known limits of Sanderson's universe--including the never-before-published *Edgedancer*, a thrilling new novella of the Stormlight Archive--along with charts, illustrations, notes...and secrets.\r\n\r\n*The Cosmere Collection* encompasses six worlds in all, explored across nine astonishing works of short fiction: **Sel** (\"The Hope of Elantris\" and *The Emperor's Soul*); **Scadrial** (\"The Eleventh Metal,\" \"Allomancer Jak and the Pits of Eltania, Episodes Twenty-eight Through Thirty,\" and *Mistborn: Secret History*); **Taldain** (\"White Sand\"); **Threnody** (Shadows for Silence in the Forests of Hell\"); **First of the Sun** (\"Sixth of the Dusk\"); and **Roshar** (*Edgedancer*).\r\n\r\nThese exciting tales will catapult you onto an unprecedented journey across a cosmos only Brandon Sanderson could have envisioned. *Arcanum Unbounded: The Cosmere Collection* is an indispensable volume no Sanderson fan can do without.\r\n\r\nThis description comes from the publisher.",
+  "key": "/works/OL17770504W",
+  "title": "Arcanum Unbounded",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394865A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    14658368,
+    12487341,
+    8452946,
+    8737943,
+    8841351,
+    8758197,
+    11946546
+  ],
+  "subjects": [
+    "Fiction, fantasy, short stories",
+    "Fiction, fantasy, collections & anthologies",
+    "Fiction, fantasy, general",
+    "Fantasy fiction, American"
+  ],
+  "location": "/works/OL17770504W",
+  "identifiers": {
+    "musicbrainz": [
+      "6fa18559-badb-4c58-af3c-7f4bb2795b56"
+    ],
+    "bookbrainz": [
+      "689929d0-10e3-4191-a8be-3842af8104c4"
+    ],
+    "wikidata": [
+      "Q28127676"
+    ]
+  },
+  "subtitle": "The Cosmere Collection",
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-08-25T01:46:24.646221"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T20:36:09.127555"
+  }
+}

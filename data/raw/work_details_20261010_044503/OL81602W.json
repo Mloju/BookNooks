@@ -1,0 +1,199 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The Eyes of the Dragon is a fantasy novel by American writer Stephen King, first published as a limited edition slipcased hardcover by Philtrum Press in 1984, illustrated by Kenneth R. Linkhauser. The novel would later be published for the mass market by Viking in 1987, with illustrations by David Palladini. This trade edition was slightly revised for publication. The 1995 French edition did not reproduce the American illustrations; it included brand new illustrations by Christian Heinrich, and a 2016 new French version also included brand new illustrations, by Nicolas Duffaut.\r\n\r\nAt the time of publication, it was a deviation from the norm for King, who was best known for his horror fiction. The book is a work of epic fantasy in a quasi-medieval setting, with a clearly established battle between good and evil, and magic playing a lead role. The Eyes of the Dragon was originally titled The Napkins.\r\n\r\n\r\n----------\r\nAlso contained in:\r\n[Ominbus](https://openlibrary.org/works/OL25080326W)"
+  },
+  "links": [
+    {
+      "title": "The Eyes of the Dragon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Eyes_of_the_Dragon",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Eyes of the Dragon | Stephen King Wiki | FANDOM powered by ...",
+      "url": "https://stephenking.fandom.com/wiki/The_Eyes_of_the_Dragon",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Fiction Book Review: The Eyes of the Dragon by Stephen King, Author ...",
+      "url": "https://www.publishersweekly.com/978-0-670-81458-9",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Rereading Stephen King, chapter 22: The Eyes of the Dragon",
+      "url": "https://www.theguardian.com/books/booksblog/2013/jun/20/rereading-stephen-king-eyes-of-the-dragon",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "stephenking.com/works/novel/eyes-of-the-dragon",
+      "url": "https://stephenking.com/works/novel/eyes-of-the-dragon.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Eyes of the Dragon",
+  "covers": [
+    8524085,
+    9335210,
+    10327735,
+    10593943,
+    -1,
+    10829864,
+    10723363,
+    11302139,
+    12108249,
+    12108511,
+    13782139,
+    13707932,
+    979791,
+    12274485,
+    12274865,
+    13813397,
+    13915734,
+    13915735,
+    12370881
+  ],
+  "subject_places": [
+    "Delain",
+    "The Needle",
+    "In-World"
+  ],
+  "subjects": [
+    "suspense",
+    "horror",
+    "epic fantasy",
+    "Fantasy",
+    "Fiction",
+    "Thriller",
+    "Princes",
+    "Dragons",
+    "Wizards",
+    "Horror fiction",
+    "Fantasy fiction",
+    "Fantasy genre",
+    "good and evil",
+    "Inheritance and succession",
+    "Horror tales",
+    "American literature",
+    "Tales",
+    "Legends",
+    "Fiction, horror",
+    "Fiction, fantasy, general",
+    "Fantastic fiction",
+    "nyt:mass-market-monthly=2022-07-10",
+    "New York Times bestseller",
+    "Children's fiction",
+    "Fiction, science fiction, general",
+    "Fiction, ghost"
+  ],
+  "subject_people": [
+    "2 Headed Parrot",
+    "Alan",
+    "Alan II",
+    "Alhazred",
+    "Alren",
+    "Bonsey",
+    "Brandon",
+    "Browson",
+    "Cracker",
+    "Curran",
+    "Dennis",
+    "Devil",
+    "Flagg",
+    "Frisky",
+    "God",
+    "John",
+    "Josef",
+    "Kyla",
+    "Landry",
+    "Lita",
+    "Niner",
+    "Peoney",
+    "Peter",
+    "Puckerstring",
+    "Rhiannon",
+    "Roland",
+    "Sasha",
+    "Snapper",
+    "Stag Pool",
+    "Thomas",
+    "Yosef",
+    "Prince Ailon",
+    "Aron Beson",
+    "Anna Crookbrows",
+    "Mr. Crookbrows",
+    "The Dark Man",
+    "Quentin Ellender",
+    "Halvay",
+    "Bill Hinch",
+    "Petie King",
+    "Roger King",
+    "Sarah King. Anders Peyna",
+    "Charles Reechul",
+    "Bill Squathings",
+    "Andrew Staad",
+    "Ben Staad",
+    "Emmaline Staad",
+    "Susan Staad",
+    "Lord Towson",
+    "Eleanor Valera",
+    "Leven Valera",
+    "Ulrich Wicks"
+  ],
+  "key": "/works/OL81602W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19981A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "Once, in a kingdom called Delain, there was a King with two sons.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Once, in a kingdom called Delain, there was a King with two sons."
+  },
+  "first_publish_date": "December 8, 1987",
+  "cover_edition": {
+    "key": "/books/OL7572976M"
+  },
+  "genres": [
+    "/tags/OL180T",
+    "/tags/OL171T",
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 61,
+  "revision": 61,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T04:57:55.334864"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T15:12:24.697567"
+  }
+}

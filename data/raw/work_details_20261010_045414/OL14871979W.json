@@ -1,0 +1,50 @@
+{
+  "description": "The Shadow of the Torturer is the first volume in the four-volume series, The Book of the New Sun. It is the tale of young Severian, an apprentice in the Guild of Torturers on the world called Urth, exiled for committing the ultimate sin of his profession -- showing mercy toward his victim -- and follows subsequent journey out of his home city of Nessus.",
+  "title": "The Shadow of the Torturer",
+  "covers": [
+    7029509,
+    1047614,
+    2291220,
+    6970056,
+    8508153,
+    8772721,
+    8791378,
+    10097350,
+    10309661,
+    10850847
+  ],
+  "first_publish_date": "1980",
+  "key": "/works/OL14871979W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL24856A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.5/4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fantasy fiction"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T01:35:17.157487"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-15T11:51:34.648073"
+  }
+}

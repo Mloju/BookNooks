@@ -1,0 +1,69 @@
+{
+  "covers": [
+    8536739,
+    9319310,
+    12097164,
+    13179578,
+    12115275
+  ],
+  "key": "/works/OL19623241W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7528534A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The City of Brass",
+  "subjects": [
+    "Middle Eastern Fantasy",
+    "Historical Fantasy",
+    "Imaginary places, fiction",
+    "Fiction, action & adventure",
+    "Fiction, fantasy, historical",
+    "Fiction, fantasy, epic",
+    "Imaginary places",
+    "Jinn",
+    "Fiction",
+    "New York Times reviewed",
+    "FICTION / Fantasy / Historical",
+    "FICTION / Fantasy / Epic",
+    "FICTION / Action & Adventure",
+    "Genies"
+  ],
+  "subject_times": [
+    "18th Century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "\"Step into The City of Brass, the spellbinding debut from S. A. Chakraborty--an imaginative alchemy of The Golem and the Jinni, The Grace of Kings, and Uprooted, in which the future of a magical Middle Eastern kingdom rests in the hands of a clever and defiant young con artist with miraculous healing gifts. Nahri has never believed in magic. Certainly, she has power; on the streets of eighteenth-century Cairo, she's a con woman of unsurpassed talent. But she knows better than anyone that the trade she uses to get by--palm readings, zars, healings--are all tricks, sleights of hand, learned skills; a means to the delightful end of swindling Ottoman nobles and a reliable way to survive. But when Nahri accidentally summons an equally sly, darkly mysterious djinn warrior to her side during one of her cons, she's forced to question all she believes. For the warrior tells her an extraordinary tale: across hot, windswept sands teeming with creatures of fire, and rivers where the mythical marid sleep; past ruins of once-magnificent human metropolises, and mountains where the circling birds of prey are not what they seem, lies Daevabad, the legendary city of brass--a city to which Nahri is irrevocably bound. In Daevabad, behind gilded brass walls laced with enchantments, behind the six gates of the six djinn tribes, old resentments are simmering. A young prince dreams of rebellion. And when Nahri decides to enter this world, she learns that true power is fierce and brutal. That magic cannot shield her from the dangerous web of court politics. That even the cleverest of schemes can have deadly consequences. After all, there is a reason they say to be careful what you wish for\"--\r\n\r\n\"A brilliantly imagined historical fantasy in which a young con artist in eighteenth century Cairo discovers she's the last descendant of a powerful family of djinn healers. With the help of an outcast immortal warrior and a rebellious prince, she must claim her magical birthright in order to prevent a war that threatens to destroy the entire djinn kingdom. Perfect for fans of The Grace of Kings, The Golem and the Jinni, and The Queen of the Tearling\"--"
+  },
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2017/12/15/books/review/city-of-brass-s-a-chakraborty.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "genres": [
+    "/tags/OL164T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-04-11T00:26:37.991889"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-14T10:44:37.684176"
+  }
+}

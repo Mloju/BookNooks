@@ -1,0 +1,84 @@
+{
+  "title": "Homeland",
+  "covers": [
+    1005941,
+    4736035,
+    8074362,
+    4736036,
+    547554,
+    4962251,
+    7313681,
+    6955790,
+    7313682,
+    7313680,
+    676965,
+    979367,
+    8457326,
+    13122883,
+    960463,
+    1006116,
+    10850462,
+    1047667,
+    14119107,
+    14119108
+  ],
+  "key": "/works/OL516681W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL35996A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "The strange and exotic Menzoberranzan—the great city of the Underdark, founded millennia ago by the dark elves after they left the surface world—is the home of Drizzt Do'Urden, the hero of *The Icewind Dale*.\r\n\r\nDrizzt, the young prince of one of the ruling houses, comes of age in his race's cruel and ruthless world, where the only ray of hope is his weapons master, Zaknafein, who teaches him how—and why—to wield a sword.\r\n\r\nPossessing a sense of honor incomprehensible to the unprincipled society around him—a society intent only on satisfying the vile whims of the Spider Queen—young Drizzt faces an inevitable dilemma: can he live in a world that rejects integrity?"
+  },
+  "subject_places": [
+    "Forgotten Realms (imaginary place)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Fantasy",
+    "Dark Elf",
+    "Fiction, fantasy, general",
+    "Integrity",
+    "Fiction, fantasy, epic",
+    "fiction\"",
+    "Comic books, strips",
+    "Elves",
+    "Magic",
+    "Good and evil",
+    "Comics & graphic novels, fantasy, general",
+    "Dungeons & Dragons Novel",
+    "collection:Forgotten Realms",
+    "Forgotten realms (Imaginary place)",
+    "Drizzt Do'Urden (Fictitious character)"
+  ],
+  "subject_people": [
+    "Drizzt Do'Urden (Fictitious character)"
+  ],
+  "subject_times": [
+    "Menzoberranzan",
+    "1297 DR"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T04:16:23.271204"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-19T10:28:36.112785"
+  }
+}

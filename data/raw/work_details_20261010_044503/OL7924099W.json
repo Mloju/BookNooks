@@ -1,0 +1,92 @@
+{
+  "title": "Crossroads of Twilight",
+  "key": "/works/OL7924099W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL233594A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fantasy fiction",
+    "Rand al'Thor (Fictitious character)",
+    "Fiction",
+    "Fiction, science fiction, general",
+    "Fiction, fantasy, epic",
+    "Rand al'thor (fictitious character), fiction",
+    "Russian language edition",
+    "Fiction, fantasy, general",
+    "Good and evil",
+    "Imaginary wars and battles",
+    "Adventure stories",
+    "Heroes",
+    "Fantasy",
+    "American literature"
+  ],
+  "covers": [
+    604208,
+    1442996,
+    886180,
+    886135,
+    8659268,
+    6817915,
+    5021141,
+    9355937,
+    7786371,
+    8052550,
+    8452597,
+    8660169,
+    8660041,
+    1008708,
+    8632306,
+    10977911,
+    12305970,
+    12316249,
+    12317392,
+    13955071,
+    14119197,
+    14119198
+  ],
+  "first_publish_date": "2000",
+  "lc_classifications": [
+    "PS3560.O7617 C75 2003"
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "subtitle": "(The Wheel of Time, Book 10)",
+  "description": "Mat Cauthon flees the Shadow and the Seanchan Empire with the kidnapped Daughter of the Nine Moons, while Perrin Aybara seeks to free his captive wife, and Egwere al'Vere seeks to reunite the Aes Sedai.",
+  "identifiers": {
+    "bookbrainz": [
+      "359b6976-2424-43bd-abc7-30008ef68f4c"
+    ],
+    "musicbrainz": [
+      "9696255e-c5be-46d9-960a-6ae30ae19ed3"
+    ],
+    "wikidata": [
+      "Q2235177"
+    ]
+  },
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:13:35.559002"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-14T09:41:21.071514"
+  }
+}

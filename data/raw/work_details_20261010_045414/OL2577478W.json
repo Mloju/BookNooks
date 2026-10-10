@@ -1,0 +1,92 @@
+{
+  "first_publish_date": "1997",
+  "key": "/works/OL2577478W",
+  "title": "Wieża jaskółki",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL368638A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    4297939,
+    -1,
+    8737736,
+    12757853,
+    9358452,
+    10376586
+  ],
+  "description": "Jesienne Ekwinokcjum tegoż dziwnego roku przyniosło rozmaite znaki na niebie i na ziemi, które jakoweś klęski niechybnie zwiastowały.\r\n\r\nTuż przed północą zerwała się straszliwa zawierucha, zadął potępieńczy wicher, a pędzone po niebie chmury przybrały fantastyczne kształty, wśród których najczęściej powtarzały się sylwetki galopujących koni i jednorożców. Lelki dzikimi głosami wyśpiewywały konajączkę, zaskowyczała beann''shie, zwiastunka rychłej i gwałtownej śmierci. A gdy przecwałował Dziki Gon i rozwiały się chmury, ludzie zobaczyli księżyc – malejący, jak zwykle w czas Zrównania. Ale tej nocy księżyc miał barwę krwi.\r\n\r\nW świątyni bogini Melitele trzy osoby śnią ten sam sen. \"Krew na jej twarzy... Tyle krwi...”",
+  "subjects": [
+    "Slavic philology",
+    "Fiction, fantasy, general",
+    "Outlaws",
+    "Heiresses",
+    "Fiction",
+    "Imaginary wars and battles",
+    "Monsters",
+    "Magic",
+    "FICTION / Fantasy / Epic",
+    "FICTION / Action & Adventure",
+    "Science fiction",
+    "Fantasy fiction",
+    "fantasy",
+    "polish literature",
+    "adventure",
+    "adult"
+  ],
+  "subject_people": [
+    "Dandelion",
+    "Yennefer",
+    "Triss Merigold",
+    "Ciri (Cirilla Fiona Elen Riannon)",
+    "Iskra",
+    "Geralt of Rivia",
+    "Rience",
+    "Sigismund Dijkstra",
+    "Vilgefortz",
+    "Giselher",
+    "Mistle",
+    "Milva",
+    "Emiel Regis Rohellec Terzieff-Godefroy",
+    "Cahir Mawr Dyffryn aep Ceallach",
+    "Vysogota of Corvo",
+    "Leo Bonhart",
+    "Stefan \"Tawny Owl\" Skellen",
+    "Angouleme",
+    "Esterad Thyssen",
+    "Crach an Craite",
+    "Joanna \"Kenna\" Selborne",
+    "Schirrù"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL329475L"
+      },
+      "position": "4"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T23:59:12.155266"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T17:06:35.905372"
+  }
+}

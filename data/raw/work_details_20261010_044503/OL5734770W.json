@@ -1,0 +1,52 @@
+{
+  "subjects": [
+    "Fiction, science fiction, space opera",
+    "Fantasy fiction",
+    "Fantasy",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "Prophets",
+    "Imaginary wars and battles"
+  ],
+  "key": "/works/OL5734770W",
+  "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1394250A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    525197,
+    524438,
+    10654789,
+    1006096,
+    8764001,
+    10186636,
+    13461669
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "The second book in Steven Erikson's thrilling epic fantasy series chronicling the ill-fated Malazan Empire.Weakened by events in Darujhistan, the Malazan Empire teeters on the brink of anarchy. In the vast dominion of Seven Cities, in the Holy Desert Raraku, the seer Sha'ik gathers an army around her in preparation for the long-prophesied uprising named the Whirlwind. Unprecedented in its size and savagery, it will embroil in one of the bloodiest conflicts it has ever known: a maelstrom of fanaticism and bloodlust that will shape destinies and give birth to legends... In the Otataral mines, Felisin, youngest daughter of the disgraced House of Paran, dreams of revenge against the sister who sentenced her to a life of slavery. Escape leads her to raraku, where her soul will be reborn and her future made clear. The now-outlawed Bridgeburners, Fiddler and the assassin Kalam, have vowed to return the once god-possessed Apsalar to her homeland, and to confront and kill the Empress Laseen, but events will overtake them too. Meanwhile, Coltaine, the charismatic commander of the Malaz 7th Army, will lead his battered, war-weary troops in a last, valient running battle to save the lives of thirty thousand refugees and, in so doing, secure an illustrious place in the Empire's chequered history. And into this blighted land come two ancient wanderers, Mappo and his half-Jaghut companion Icarium, bearers of a devastating secret that threatens to break free of its chains... Set in a brilliantly-realized world ravaged by anarchy and dark, uncontrollable magic, Deadhouse Gates is the thrilling, brutal second chapter in the Malazan Book of the Fallen. A powerful novel of war, intrigue and betrayal, it confirms Steven Erikson as a storyteller of breathtaking skill, imagination and originality - a new master of epic fantasy."
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:10:48.256984"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T14:50:11.991968"
+  }
+}

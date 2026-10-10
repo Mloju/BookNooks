@@ -1,0 +1,2591 @@
+{
+  "numFound": 119331,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 119331,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "subject:fantasy",
+  "offset": null,
+  "docs": [
+    {
+      "author_name": [
+        "Joe Abercrombie"
+      ],
+      "first_publish_year": 2001,
+      "key": "/works/OL8400950W",
+      "title": "The Blade Itself",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Fantasy fiction",
+        "Fantasy",
+        "Fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2008,
+      "key": "/works/OL5738154W",
+      "title": "The Hero of Ages",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Epic Fantasy",
+        "Fantasy fiction",
+        "Fiction, fantasy, general",
+        "Children's fiction",
+        "Imaginary places",
+        "Magic"
+      ]
+    },
+    {
+      "author_name": [
+        "Scott Lynch"
+      ],
+      "first_publish_year": 2001,
+      "key": "/works/OL8369445W",
+      "title": "The Lies of Locke Lamora",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Fantasy",
+        "Fiction",
+        "American Science Fiction And Fantasy",
+        "Fiction - Fantasy",
+        "Fantasy - Epic",
+        "Fiction / Fantasy / Epic",
+        "Juvenile fiction",
+        "Gangsters",
+        "Swindlers and swindling",
+        "Orphans",
+        "Adventure stories",
+        "Fantasy fiction",
+        "Robbers and outlaws",
+        "Fiction, fantasy, epic"
+      ]
+    },
+    {
+      "author_name": [
+        "Sarah J. Maas"
+      ],
+      "first_publish_year": 2014,
+      "key": "/works/OL17546674W",
+      "title": "The Assassin’s Blade",
+      "subject": [
+        "Fiction, fantasy, collections & anthologies",
+        "Female assassins in fiction",
+        "Young adult fiction, fantasy, dark fantasy",
+        "[series:Throne_of_Glass]",
+        "Fantasy",
+        "Assassins",
+        "Fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Goodkind"
+      ],
+      "first_publish_year": 1994,
+      "key": "/works/OL2010436W",
+      "title": "Wizard's First Rule",
+      "subject": [
+        "Fiction",
+        "Wizards",
+        "Wizards in fiction",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, epic",
+        "Amnell, kahlan (fictitious character), fiction",
+        "D'haran empire (imaginary place), fiction",
+        "Richard Rahl (Fictitious character)",
+        "Fantasy",
+        "Fantasy fiction",
+        "Magic",
+        "Epic Fantasy",
+        "High Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "author_name": [
+        "Andrzej Sapkowski"
+      ],
+      "first_publish_year": 1994,
+      "key": "/works/OL2577486W",
+      "title": "Krew elfów",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Science fiction, fantasy, horror",
+        "Assassins",
+        "Polish Fantasy fiction",
+        "Fiction, fantasy, epic",
+        "Vampires, fiction",
+        "nyt:trade-fiction-paperback=2022-01-09",
+        "New York Times bestseller",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Fiction, fantasy, paranormal"
+      ]
+    },
+    {
+      "author_name": [
+        "R. F. Kuang"
+      ],
+      "first_publish_year": 2018,
+      "key": "/works/OL19351054W",
+      "title": "The Poppy War",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Historical",
+        "Epic",
+        "Cultural Heritage",
+        "Goddesses",
+        "Imaginary wars and battles",
+        "Magic",
+        "Military education",
+        "Shamans",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, paranormal",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Fantasy / Paranormal"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1990,
+      "key": "/works/OL7924103W",
+      "title": "The Eye of the World",
+      "subject": [
+        "series:The Wheel of Time",
+        "Fantasy fiction",
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Reader recommended, 2001-02",
+        "Fantasy .",
+        "American Fantasy",
+        "al'Thor Rand (Fictitious character)",
+        "Good and evil",
+        "Monsters",
+        "Rand al'thor (fictitious character), fiction",
+        "Fiction, fantasy, epic",
+        "Science fiction",
+        "Children's fiction",
+        "Fiction, fantasy, general",
+        "Comics & graphic novels, fantasy",
+        "Comic books, strips",
+        "nyt:hardcover-graphic-books=2013-02-17",
+        "New York Times bestseller",
+        "Fantasy",
+        "Children's stories",
+        "American literature"
+      ]
+    },
+    {
+      "author_name": [
+        "William Goldman"
+      ],
+      "first_publish_year": 1973,
+      "key": "/works/OL486967W",
+      "title": "The Princess Bride",
+      "subject": [
+        "Castles",
+        "Fiction",
+        "Princesses",
+        "Good and evil",
+        "Princes",
+        "Fiction, action & adventure",
+        "Fiction, fantasy, general",
+        "Fiction, romance, fantasy",
+        "Romance fiction",
+        "Fantasy",
+        "Juvenile fiction",
+        "Fantasy fiction",
+        "Pirates"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1994,
+      "key": "/works/OL7924208W",
+      "title": "Lord of Chaos",
+      "subject": [
+        "Fantasy fiction",
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "Rand al'thor (fictitious character), fiction",
+        "American Fantasy fiction",
+        "Dragons",
+        "Fiction, fantasy, general",
+        "American literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2001,
+      "key": "/works/OL16597059W",
+      "title": "The Alloy of Law",
+      "subject": [
+        "Imaginary Places",
+        "Magic",
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "New York Times bestseller",
+        "FICTION / Fantasy / Epic"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett",
+        "Ray Friesen"
+      ],
+      "first_publish_year": 1992,
+      "key": "/works/OL453697W",
+      "title": "Small Gods",
+      "subject": [
+        "Discworld (Imaginary place)",
+        "Science fiction",
+        "Fantasy fiction",
+        "Fiction",
+        "Fantasy",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, humorous",
+        "Comics & graphic novels, fantasy",
+        "Science fiction, fantasy, horror",
+        "Fiction, humorous, general",
+        "English literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2005,
+      "key": "/works/OL5738147W",
+      "title": "Elantris",
+      "subject": [
+        "Princes",
+        "Blessing and cursing",
+        "Fiction",
+        "Princesses",
+        "City and town life",
+        "Fiction, fantasy, epic",
+        "FICTION / Fantasy / Epic",
+        "Fantasy fiction",
+        "Fiction, fantasy, general",
+        "Bénédiction et malédiction",
+        "Romans, nouvelles",
+        "Vie urbaine",
+        "Fantasy",
+        "Epic",
+        "Klątwa",
+        "Wojna"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2010,
+      "key": "/works/OL15358691W",
+      "title": "The Way of Kings",
+      "subject": [
+        "New York Times Bestseller",
+        "Fantasy",
+        "Epic Fantasy",
+        "Imaginary places",
+        "Kings and rulers",
+        "Magic",
+        "Imaginary wars and battles",
+        "Manuscripts",
+        "Slavery",
+        "Fiction",
+        "Fiction, fantasy, epic",
+        "high fantasy",
+        "nyt:hardcover-fiction=2010-09-19",
+        "Fiction, fantasy, general",
+        "American literature",
+        "series:Stormlight Archive"
+      ]
+    },
+    {
+      "author_name": [
+        "George MacDonald"
+      ],
+      "first_publish_year": 1850,
+      "key": "/works/OL15450W",
+      "title": "Phantastes",
+      "subject": [
+        "Fairy tales",
+        "Scottish Fantasy fiction",
+        "Fiction, romance, fantasy",
+        "Fiction, science fiction, general",
+        "Fiction, fantasy, general",
+        "Classic Literature",
+        "Fantasy",
+        "Fiction",
+        "English literature",
+        "Fairies",
+        "Fairyland (Imaginary place)",
+        "English Fantasy fiction",
+        "Scottish authors",
+        "Fantasy fiction",
+        "Fiction, general",
+        "Imaginary places"
+      ]
+    },
+    {
+      "author_name": [
+        "J.R.R. Tolkien",
+        "Christopher Tolkien"
+      ],
+      "first_publish_year": 1977,
+      "key": "/works/OL27495W",
+      "title": "The Silmarillion",
+      "subject": [
+        "Fantasy fiction",
+        "Short stories",
+        "Middle Earth (Imaginary place)",
+        "Elves",
+        "Fiction",
+        "British and irish fiction (fictional works by one author)",
+        "Fiction, fantasy, epic",
+        "Middle earth (imaginary place), fiction",
+        "English Fantasy fiction",
+        "English literature",
+        "Engelse fiksie",
+        "fantasy",
+        "Bilbo Baggins (Fictitious character)",
+        "silmaril",
+        "Fiction, fairy tales, folk tales, legends & mythology",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Fiction, fantasy, action & adventure",
+        "English fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "R. A. Salvatore"
+      ],
+      "first_publish_year": 1991,
+      "key": "/works/OL516683W",
+      "title": "Sojourn",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, epic",
+        "Comics & graphic novels, fantasy, general",
+        "Dungeons & Dragons Novel",
+        "collection:Forgotten Realms"
+      ]
+    },
+    {
+      "author_name": [
+        "David Eddings"
+      ],
+      "first_publish_year": 1982,
+      "key": "/works/OL1922990W",
+      "title": "Pawn of Prophecy",
+      "subject": [
+        "Fiction",
+        "Literature",
+        "High fantasy",
+        "Buildungsroman",
+        "Fantasy fiction",
+        "Juvenile fiction",
+        "Magic",
+        "Heroes",
+        "Good and evil",
+        "Garion (fictitious character), fiction",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Steven Erikson"
+      ],
+      "first_publish_year": 1999,
+      "key": "/works/OL5734756W",
+      "title": "Gardens of the Moon",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Prophets",
+        "Battles",
+        "Imaginary places",
+        "Fiction, fantasy, general",
+        "Geographical myths",
+        "Literature & Fiction",
+        "Science Fiction & Fantasy -- Authors, A-Z -- ( E ) -- Erikson, Steven",
+        "Science Fiction & Fantasy -- Fantasy -- Epic",
+        "malazan",
+        "sorcery",
+        "dragons",
+        "empire",
+        "epic",
+        "Fiction, fantasy, epic",
+        "series:Malazan Book of the Fallen"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1992,
+      "key": "/works/OL7924199W",
+      "title": "The Shadow Rising",
+      "subject": [
+        "Fiction",
+        "Good and evil",
+        "Rand Al'Thor (Fictitious character)",
+        "Fiction, fantasy, epic",
+        "Rand al'thor (fictitious character), fiction",
+        "Fantasy fiction",
+        "American Fantasy fiction",
+        "Fantastic fiction",
+        "Fiction, fantasy, general",
+        "American literature",
+        "Literature and fiction, fantasy"
+      ]
+    },
+    {
+      "author_name": [
+        "Gene Wolfe"
+      ],
+      "first_publish_year": 1980,
+      "key": "/works/OL14871979W",
+      "title": "The Shadow of the Torturer",
+      "subject": [
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Andrzej Sapkowski"
+      ],
+      "first_publish_year": 1992,
+      "key": "/works/OL2577472W",
+      "title": "Miecz przeznaczenia",
+      "subject": [
+        "Fiction, fantasy, general",
+        "New York Times bestseller",
+        "Fiction, fantasy, short stories",
+        "Polish Fantasy fiction",
+        "Assassins",
+        "Monsters",
+        "Fiction",
+        "adventure",
+        "fantasy",
+        "Fiction, fantasy, collections & anthologies",
+        "Action & Adventure",
+        "Epic",
+        "Historical",
+        "Magic"
+      ]
+    },
+    {
+      "author_name": [
+        "David Eddings",
+        "David Eddings"
+      ],
+      "first_publish_year": 1984,
+      "key": "/works/OL1923013W",
+      "title": "Enchanters' End Game (The Belgariad)",
+      "subject": [
+        "American Fantasy fiction",
+        "Fantasy",
+        "Fiction",
+        "Imaginary wars and battles",
+        "Garion (fictitious character), fiction",
+        "Fiction, fantasy, epic",
+        "Children's fiction",
+        "Fantasy fiction",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Robin Hobb"
+      ],
+      "first_publish_year": 1998,
+      "key": "/works/OL2707209W",
+      "title": "Ship of Magic",
+      "subject": [
+        "The Realm of the Elderlings",
+        "The Liveship Traders",
+        "English Fantasy fiction",
+        "Fantasy",
+        "Fiction",
+        "Fantasy fiction",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, general",
+        "American Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Brent Weeks"
+      ],
+      "first_publish_year": 2008,
+      "key": "/works/OL15015332W",
+      "title": "The Way of Shadows",
+      "subject": [
+        "fantasy",
+        "assassination",
+        "wetboy",
+        "Fiction",
+        "Assassins",
+        "Fiction, fantasy, epic",
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Joe Abercrombie"
+      ],
+      "first_publish_year": 2009,
+      "key": "/works/OL8400949W",
+      "title": "Best served cold",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Revenge",
+        "Fiction, fantasy, epic",
+        "Fiction, general",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Lauren Roberts"
+      ],
+      "first_publish_year": 2023,
+      "key": "/works/OL34774028W",
+      "title": "Powerless",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Fiction, romance, general",
+        "Fiction, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2012,
+      "key": "/works/OL19960448W",
+      "title": "The Emperor's Soul",
+      "subject": [
+        "Forgery",
+        "Forgers",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, action & adventure",
+        "Fiction, fantasy, epic",
+        "series:Elantris"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1993,
+      "key": "/works/OL7924172W",
+      "title": "The Fires of Heaven",
+      "subject": [
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "Rand al'thor (fictitious character), fiction",
+        "Fantasy fiction",
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "American literature",
+        "Fiction, science fiction, general"
+      ]
+    },
+    {
+      "author_name": [
+        "R. A. Salvatore"
+      ],
+      "first_publish_year": 1990,
+      "key": "/works/OL261586W",
+      "title": "Exile",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, epic",
+        "Comics & graphic novels, fantasy, general",
+        "Dungeons & Dragons Novel",
+        "collection:Forgotten Realms"
+      ]
+    },
+    {
+      "author_name": [
+        "Stephen King"
+      ],
+      "first_publish_year": 1997,
+      "key": "/works/OL81594W",
+      "title": "Wolves of the Calla",
+      "subject": [
+        "lightsabers",
+        "snitches",
+        "androids",
+        "Action and adventure fiction",
+        "Adventure fiction",
+        "epic fiction",
+        "Fiction",
+        "Heroes",
+        "Good and evil",
+        "Fantasy fiction",
+        "Adventure stories",
+        "Good and evil -- Fiction",
+        "thrillers",
+        "supernatural",
+        "fantasy",
+        "dark fantasy",
+        "Roland (Fictitious character)",
+        "Science fiction, fantasy, horror",
+        "Fiction, fantasy, epic",
+        "Roland (fictitious character : king), fiction",
+        "Dark tower (imaginary place), fiction",
+        "Chang pian xiao shuo",
+        "Fiction, fantasy, general",
+        "Roland (Fictitious character : King)",
+        "Maine in fiction",
+        "German language materials",
+        "Translations into German",
+        "American fiction",
+        "King, Stephen - Prose & Criticism",
+        "Fiction - Fantasy",
+        "Fantasy - Dark/Horror",
+        "Fiction / General",
+        "Fantasy - General"
+      ]
+    },
+    {
+      "author_name": [
+        "Sarah J. Maas"
+      ],
+      "first_publish_year": 2019,
+      "key": "/works/OL20650912W",
+      "title": "House of Earth and Blood",
+      "subject": [
+        "American literature",
+        "Fiction, fantasy, urban",
+        "Fiction, romance, paranormal",
+        "Fiction, fantasy, epic",
+        "Fiction, romance, fantasy",
+        "collectionID:EanesChallenge",
+        "Fiction, romance, paranormal, general",
+        "[series:SJM_Crescent:City]",
+        "fiction",
+        "angels",
+        "demonology",
+        "Fairies",
+        "fantasy fiction",
+        "murder"
+      ]
+    },
+    {
+      "author_name": [
+        "Andrzej Sapkowski"
+      ],
+      "first_publish_year": 1993,
+      "key": "/works/OL2577482W",
+      "title": "Ostatnie Życzenie",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Translations into English",
+        "Polish fiction",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, short stories",
+        "nyt:mass-market-paperback=2015-07-05",
+        "New York Times bestseller",
+        "Fiction, fantasy, collections & anthologies",
+        "Sorcerers",
+        "nyt:trade-fiction-paperback=2020-01-26"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1990,
+      "key": "/works/OL7924135W",
+      "title": "The Great Hunt (The Wheel of Time Book 2)",
+      "subject": [
+        "series:The Wheel of Time",
+        "Fiction",
+        "Fantasy fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, historical",
+        "Fiction, fantasy, general",
+        "Aes Sedai",
+        "Rand al'Thor",
+        "wheel of time",
+        "robert jordon",
+        "American Fantasy fiction",
+        "Imaginary places",
+        "Good and evil",
+        "Adventure stories",
+        "Heroes",
+        "Magic",
+        "Imaginary wars and battles",
+        "Sex role",
+        "Prophecies",
+        "Reincarnation",
+        "American literature",
+        "Novela estadounidense",
+        "Novela fantástica estadounidense"
+      ]
+    },
+    {
+      "author_name": [
+        "Piers Anthony"
+      ],
+      "first_publish_year": 1983,
+      "key": "/works/OL80857W",
+      "title": "On a pale horse",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "American Fantasy fiction",
+        "Fiction, fantasy, general",
+        "Magic",
+        "Death"
+      ]
+    },
+    {
+      "author_name": [
+        "Robin Hobb"
+      ],
+      "first_publish_year": 1995,
+      "key": "/works/OL2707183W",
+      "title": "Assassin's Apprentice",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Assassins",
+        "Fiction",
+        "The Realm of the Elderlings",
+        "The Farseer Trilogy",
+        "Fantasy",
+        "Fantasy fiction",
+        "Ke xue huan xiang xiao shuo",
+        "Fiction, fantasy, epic",
+        "Magic",
+        "Ability",
+        "Kings, queens, rulers",
+        "Fantastischer Roman",
+        "Amerikanisches Englisch"
+      ]
+    },
+    {
+      "author_name": [
+        "Rebecca Yarros"
+      ],
+      "first_publish_year": 2025,
+      "key": "/works/OL41943074W",
+      "title": "Onyx Storm",
+      "subject": [
+        "American literature",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, romance",
+        "Fiction, romance, fantasy",
+        "Serie:The_Empyrean",
+        "Onyx Storm",
+        "Rebecca Yarros",
+        "Onyx Storm Rebecca Yarros",
+        "Roman Empire",
+        "Books",
+        "Rare books"
+      ]
+    },
+    {
+      "author_name": [
+        "Ursula K. Le Guin"
+      ],
+      "first_publish_year": 1973,
+      "key": "/works/OL15056584W",
+      "title": "The ones who walk away from Omelas",
+      "subject": [
+        "Fantasy",
+        "Conduct of life",
+        "Fiction",
+        "Children's fiction",
+        "Fantasy fiction",
+        "Fiction, science fiction, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2016,
+      "key": "/works/OL17770504W",
+      "title": "Arcanum Unbounded",
+      "subject": [
+        "Fiction, fantasy, short stories",
+        "Fiction, fantasy, collections & anthologies",
+        "Fiction, fantasy, general",
+        "Fantasy fiction, American"
+      ]
+    },
+    {
+      "author_name": [
+        "Stephanie Garber"
+      ],
+      "first_publish_year": 2021,
+      "key": "/works/OL24706481W",
+      "title": "Once Upon a Broken Heart",
+      "subject": [
+        "Children's fiction",
+        "nyt:young-adult-hardcover=2021-10-17",
+        "New York Times bestseller",
+        "American literature",
+        "Series:Once_Upon_a_Broken_Heart",
+        "Fantasy",
+        "Fantasy fiction",
+        "Fantasy Romance",
+        "Fiction",
+        "Magic",
+        "Romance",
+        "Romantasy",
+        "Serie:Once_Upon_a_Broken_Heart",
+        "Young Adult",
+        "Young Adult Fantasy"
+      ]
+    },
+    {
+      "author_name": [
+        "H. D. Carlton"
+      ],
+      "first_publish_year": 2021,
+      "key": "/works/OL27310398W",
+      "title": "Haunting Adeline",
+      "subject": [
+        "Dark Romance",
+        "Romance",
+        "Dark",
+        "Spicy",
+        "Smut",
+        "Stalker",
+        "Thriller",
+        "Fantasy",
+        "Enemies To Lovers",
+        "Horror",
+        "Fiction, romance, general",
+        "Fiction, thrillers, suspense",
+        "Young adult fiction, romance, general",
+        "Young adult fiction, fantasy, dark fantasy",
+        "nyt:trade-fiction-paperback=2024-09-15",
+        "New York Times bestseller",
+        "collectionID:YDarkromance"
+      ]
+    },
+    {
+      "author_name": [
+        "Piers Anthony"
+      ],
+      "first_publish_year": 1977,
+      "key": "/works/OL80870W",
+      "title": "A Spell for Chameleon",
+      "subject": [
+        "Xanth (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "Magic",
+        "Xanth (imaginary place), fiction",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Shannon Messenger"
+      ],
+      "first_publish_year": 2022,
+      "key": "/works/OL26348345W",
+      "title": "Stellarlune",
+      "subject": [
+        "KOTLC",
+        "Fiction-Fantasy - General",
+        "Fantasy",
+        "Magic, fiction",
+        "Adventure and adventurers, fiction",
+        "Friendship, fiction",
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Stephanie Garber"
+      ],
+      "first_publish_year": 2022,
+      "key": "/works/OL27090610W",
+      "title": "The Ballad of Never After",
+      "subject": [
+        "young-adult",
+        "New York Times bestseller",
+        "Love",
+        "Blessing and Cursing",
+        "Magic",
+        "Fantasy fiction",
+        "Young adult fiction, fantasy, dark fantasy",
+        "Young adult fiction, fairy tales & folklore, general",
+        "Young adult fiction, fantasy, romance",
+        "Serie:Once_Upon_a_Broken_Heart",
+        "Fantasy",
+        "Fantasy Romance",
+        "Fiction",
+        "Romance",
+        "Romantasy",
+        "Young Adult",
+        "Young Adult Fantasy"
+      ]
+    },
+    {
+      "author_name": [
+        "Erin Hunter"
+      ],
+      "first_publish_year": 2005,
+      "key": "/works/OL5714297W",
+      "title": "Midnight",
+      "subject": [
+        "Cats",
+        "Fantasy",
+        "Fantasy Fiction",
+        "Feral Cats",
+        "Fiction",
+        "Juvenile Fiction",
+        "Children's fiction",
+        "Cats, fiction",
+        "Cats -- Fiction.",
+        "Fantasy.",
+        "Horror stories",
+        "series:warriors_the_new_prophecy",
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Rebecca Yarros"
+      ],
+      "first_publish_year": 2023,
+      "key": "/works/OL34028551W",
+      "title": "Iron Flame",
+      "subject": [
+        "nyt:combined-print-and-e-book-fiction=2023-11-26",
+        "New York Times bestseller",
+        "Fiction, fantasy, action & adventure",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Fiction, fantasy, epic",
+        "Serie:The_Empyrean"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett"
+      ],
+      "first_publish_year": 1987,
+      "key": "/works/OL453658W",
+      "title": "Mort",
+      "subject": [
+        "Death",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Fiction",
+        "satire",
+        "humor",
+        "anthropomorphic.",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Death (fictitious character : pratchett), fiction",
+        "Fiction, humorous",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Science fiction",
+        "Fantasy fiction",
+        "Disque-monde (Lieu imaginaire)",
+        "collection:Name"
+      ]
+    },
+    {
+      "author_name": [
+        "Peter S. Beagle"
+      ],
+      "first_publish_year": 1968,
+      "key": "/works/OL26459W",
+      "title": "The Last Unicorn",
+      "subject": [
+        "Unicorns",
+        "Fiction",
+        "Legends and stories",
+        "Juvenile literature",
+        "American Fantasy fiction",
+        "Large type books",
+        "Fiction, fantasy, general",
+        "Fantasy fiction",
+        "Fiction, general",
+        "Fiction, science fiction, general",
+        "American literature",
+        "Comics & graphic novels, fantasy, general",
+        "Unicornios",
+        "Novelas"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 2004,
+      "key": "/works/OL1946682W",
+      "title": "New Spring (The Wheel of Time, Book 0)",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Prophecy",
+        "Fiction",
+        "Good and evil",
+        "Fiction, fantasy, epic",
+        "American literature",
+        "series:The Wheel of Time",
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Jeanne DuPrau"
+      ],
+      "first_publish_year": 1998,
+      "key": "/works/OL4132752W",
+      "title": "The City of Ember (The First Book of Ember)",
+      "subject": [
+        "Fiction",
+        "Juvenile Fiction",
+        "Science Fiction",
+        "Fantasy fiction",
+        "Children's fiction",
+        "Children's stories",
+        "Fiction, fantasy, general",
+        "Fantasy",
+        "Occupations",
+        "Good and evil",
+        "Messengers",
+        "City planning",
+        "Romans, nouvelles, etc. pour la jeunesse",
+        "Science-fiction",
+        "Constructions souterraines",
+        "Liberté",
+        "Comics & graphic novels, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Neil Gaiman"
+      ],
+      "first_publish_year": 1996,
+      "key": "/works/OL679333W",
+      "title": "Neverwhere",
+      "subject": [
+        "Fiction",
+        "Underground areas",
+        "Underground homeless persons",
+        "Businessmen",
+        "Subways",
+        "Fantasy fiction",
+        "Fantasy",
+        "London (england), fiction",
+        "Fiction, fantasy, contemporary",
+        "Fiction, horror",
+        "London Below",
+        "Rats",
+        "nyt:e-book-fiction=2012-03-04",
+        "New York Times bestseller",
+        "Fiction, fantasy, general",
+        "FICTION / Fantasy / Contemporary",
+        "FICTION / Fantasy / Urban Life",
+        "FICTION / Literary",
+        "Zones souterraines",
+        "Romans, nouvelles",
+        "Hommes d'affaires",
+        "Métros",
+        "Personas desamparadas",
+        "Novela",
+        "Áreas subterráneas",
+        "Negociantes",
+        "Ferrocarriles subterráneos",
+        "English Authors"
+      ]
+    },
+    {
+      "author_name": [
+        "George R. R. Martin"
+      ],
+      "first_publish_year": 1998,
+      "key": "/works/OL257939W",
+      "title": "A Clash of Kings",
+      "subject": [
+        "Fantasy fiction",
+        "Fiction",
+        "Fantasy",
+        "New York Times bestseller",
+        "nyt:trade_fiction_paperback=2011-12-31",
+        "Fiction - Fantasy",
+        "Fantasy - Epic",
+        "Fantasy - Series",
+        "Fiction / Fantasy / Epic",
+        "Fiction, fantasy, epic",
+        "Seven kingdoms (imaginary place), fiction",
+        "Civil war",
+        "Imaginary places",
+        "Magic",
+        "Action & Adventure",
+        "Dragons",
+        "Science Fiction",
+        "Epic",
+        "Refugees",
+        "Good and evil",
+        "American Fantasy fiction",
+        "Kings and rulers",
+        "Imaginary wars and battles",
+        "Alchemy",
+        "Seven Kingdoms (Imaginary place)",
+        "Guerras imaginarias",
+        "Betrayal",
+        "Revenge",
+        "Voyages and travels",
+        "Traición",
+        "Viajes",
+        "Alquimia",
+        "Ficción",
+        "Reyes y soberanos",
+        "American literature",
+        "Brothers",
+        "Novela",
+        "Dystopian",
+        "Romans, nouvelles",
+        "series:A Song of Ice and Fire",
+        "Rois et souverains",
+        "Frères",
+        "Guerres et batailles imaginaires"
+      ]
+    },
+    {
+      "author_name": [
+        "Holly Black"
+      ],
+      "first_publish_year": 2018,
+      "key": "/works/OL17850410W",
+      "title": "The Cruel Prince",
+      "subject": [
+        "Fairies--Fiction.",
+        "Sisters--Fiction.",
+        "Orphans--Fiction.",
+        "Princes--Fiction.",
+        "Courts and courtiers--Fiction.",
+        "Fantasy",
+        "Princes",
+        "Courts and courtiers",
+        "Orphans",
+        "Fairies",
+        "Fiction",
+        "Sisters",
+        "Juvenile fiction",
+        "Sisters, fiction",
+        "Fairies, fiction",
+        "Orphans, fiction",
+        "Princes, fiction",
+        "Courts and courtiers, fiction",
+        "Fantasy fiction",
+        "Children's fiction",
+        "nyt:young-adult-hardcover=2018-01-21",
+        "New York Times bestseller",
+        "Fiction, romance, paranormal, general",
+        "Young Adult Fiction",
+        "Romance",
+        "Fiction, fantasy, general",
+        "Fiction, general",
+        "Young adult fiction, fantasy, dark fantasy",
+        "Young adult fiction, royalty",
+        "Young adult fiction, social themes, bullying",
+        "Young adult fiction, fantasy, romance"
+      ]
+    },
+    {
+      "author_name": [
+        "J.R.R. Tolkien",
+        "Christopher Tolkien",
+        "ʻImanuʼel Loṭem"
+      ],
+      "first_publish_year": 1980,
+      "key": "/works/OL27466W",
+      "title": "Unfinished Tales of Númenor and Middle-earth",
+      "subject": [
+        "English Fantasy fiction",
+        "Middle Earth (Imaginary place)",
+        "Open Library Staff Picks",
+        "Fiction",
+        "Fantasy fiction, English",
+        "Short stories",
+        "Fiction, fantasy, general",
+        "Fiction, short stories (single author)",
+        "Middle earth (imaginary place), fiction",
+        "Fiction, fantasy, epic",
+        "Fantasy fiction",
+        "Fiction, fantasy, short stories"
+      ]
+    },
+    {
+      "author_name": [
+        "Erin Hunter"
+      ],
+      "first_publish_year": 2003,
+      "key": "/works/OL5714289W",
+      "title": "Fire and Ice",
+      "subject": [
+        "Cats",
+        "Fantasy",
+        "Fantasy Fiction",
+        "Feral Cats",
+        "Fiction",
+        "Juvenile Fiction",
+        "Children's fiction",
+        "Cats, fiction",
+        "Young adult fiction",
+        "Animals",
+        "Action & Adventure",
+        "Fantasy & Magic",
+        "series:warriors_the_prophecies_begin",
+        "Adventure and adventurers, fiction",
+        "Fantasy fiction",
+        "Friendship, fiction",
+        "Family, fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "L. Frank Baum"
+      ],
+      "first_publish_year": 1909,
+      "key": "/works/OL262390W",
+      "title": "The Road to Oz",
+      "subject": [
+        "Fairy tales",
+        "Juvenile Fiction",
+        "Fiction",
+        "Oz (Imaginary place)",
+        "Fantasy",
+        "Classic Literature",
+        "Children's fiction",
+        "Fantasy fiction",
+        "Oz (imaginary place), fiction",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Stephen King"
+      ],
+      "first_publish_year": 1959,
+      "key": "/works/OL81602W",
+      "title": "The Eyes of the Dragon",
+      "subject": [
+        "suspense",
+        "horror",
+        "epic fantasy",
+        "Fantasy",
+        "Fiction",
+        "Thriller",
+        "Princes",
+        "Dragons",
+        "Wizards",
+        "Horror fiction",
+        "Fantasy fiction",
+        "Fantasy genre",
+        "good and evil",
+        "Inheritance and succession",
+        "Horror tales",
+        "American literature",
+        "Tales",
+        "Legends",
+        "Fiction, horror",
+        "Fiction, fantasy, general",
+        "Fantastic fiction",
+        "nyt:mass-market-monthly=2022-07-10",
+        "New York Times bestseller",
+        "Children's fiction",
+        "Fiction, science fiction, general",
+        "Fiction, ghost"
+      ]
+    },
+    {
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "first_publish_year": 1937,
+      "key": "/works/OL27482W",
+      "title": "The Hobbit",
+      "subject": [
+        "Fantasy",
+        "Arkenstone",
+        "Battle of Five Armies",
+        "invisibility",
+        "thrushes",
+        "eagles",
+        "hobbits",
+        "wizards",
+        "dragons",
+        "dwarves",
+        "elves",
+        "men",
+        "trolls",
+        "goblins",
+        "giant spiders",
+        "the one ring",
+        "juvenile fantasy",
+        "YOUNG ADULT FICTION",
+        "Fantasy fiction",
+        "Juvenile fiction",
+        "Fiction",
+        "Classics",
+        "General",
+        "Media Tie-In",
+        "children's books",
+        "juvenile works",
+        "Teen & Young Adult literature",
+        "English Fantasy fiction",
+        "Specimens",
+        "Juvenile Fantasy fiction",
+        "Toy and movable books",
+        "Magic in fiction",
+        "Open Library Staff Picks",
+        "juvenile literature",
+        "Pictorial works",
+        "Magic",
+        "Quests (Expeditions)",
+        "Graphic novels",
+        "Dragons in fiction",
+        "Children's stories",
+        "Ficción fantástica inglesa",
+        "Fantasy in fiction",
+        "Translations into Russian",
+        "Ficción",
+        "Middle Earth (Imaginary place)",
+        "Tierra Media (Lugar imaginario)",
+        "Bilbo Baggins (Fictitious character)",
+        "Dwarfs",
+        "Comic books, strips",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 12",
+        "British and irish fiction (fictional works by one author)",
+        "Fiction, fantasy, general",
+        "Middle earth (imaginary place), fiction",
+        "Comics & graphic novels, fantasy",
+        "Science fiction, fantasy, horror",
+        "Child and youth fiction",
+        "Gollum (Fictitious character)",
+        "Hobbits (Fictitious characters)",
+        "Baggins, bilbo (fictitious character), fiction",
+        "Children's fiction",
+        "Gandalf (fictitious character), fiction",
+        "Baggins, frodo (fictitious character), fiction",
+        "Characters",
+        "Characters and characteristics",
+        "Hobbit, an unexpected journey (Motion picture)",
+        "Hobbit (Tolkien, J.R.R.)",
+        "YOUNG ADULT FICTION / Classics",
+        "YOUNG ADULT FICTION / Fantasy / General",
+        "YOUNG ADULT FICTION / Media Tie-In",
+        "Motion pictures",
+        "Fiction, fantasy, epic",
+        "English literature",
+        "Fiction, media tie-in",
+        "Courage",
+        "Literatura angielska dla młodzieży",
+        "Tłumaczenia polskie",
+        "Novela Inglesa",
+        "Spanish language materials",
+        "Untranslated",
+        "Terre du Milieu (Lieu imaginaire)",
+        "Romans, nouvelles",
+        "Hobbits (Personnages fictifs)",
+        "Novela fantástica",
+        "Magiciens",
+        "Schultheater",
+        "Fiction, fairy tales, folk tales, legends & mythology",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Comics & graphic novels, fantasy, general",
+        "Good and evil",
+        "English Fantasy literature",
+        "English fiction",
+        "Adventure stories"
+      ]
+    },
+    {
+      "author_name": [
+        "V. E. Schwab"
+      ],
+      "first_publish_year": 2015,
+      "key": "/works/OL20796936W",
+      "title": "The Invisible Life of Addie LaRue",
+      "subject": [
+        "nyt:combined-print-and-e-book-fiction=2020-10-25",
+        "New York Times bestseller",
+        "Fiction, fantasy, historical",
+        "LGBTQ science fiction & fantasy",
+        "Memory",
+        "Fiction",
+        "Immortalism",
+        "Deals",
+        "Man-woman relationships",
+        "FICTION / Fantasy / Historical",
+        "FICTION / Literary"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett"
+      ],
+      "first_publish_year": 1988,
+      "key": "/works/OL453659W",
+      "title": "Sourcery",
+      "subject": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "English Fantasy fiction",
+        "Wizards",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, humorous",
+        "Rincewind the wizard (fictitious character), fiction",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Motion picture plays",
+        "English literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 2005,
+      "key": "/works/OL7924194W",
+      "title": "Knife of Dreams",
+      "subject": [
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, epic",
+        "Civil war",
+        "Fantasy fiction",
+        "Adventure stories",
+        "Good and evil",
+        "Imaginary wars and battles",
+        "Fantasy",
+        "Fiction, science fiction, general",
+        "American literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett"
+      ],
+      "first_publish_year": 1994,
+      "key": "/works/OL453707W",
+      "title": "Interesting Times",
+      "subject": [
+        "Fantasy fiction",
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "Drama (dramatic works by one author)",
+        "Fiction, fantasy, general",
+        "Drama",
+        "English Fantasy drama",
+        "Discworld (imaginary place), fiction",
+        "Fiction, humorous",
+        "Rincewind the wizard (fictitious character), fiction",
+        "Science fiction, fantasy, horror",
+        "Wizards",
+        "Disque-monde (Lieu imaginaire)",
+        "Romans, nouvelles",
+        "English literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Erin Hunter"
+      ],
+      "first_publish_year": 2004,
+      "key": "/works/OL5714310W",
+      "title": "The Darkest Hour",
+      "subject": [
+        "Cats",
+        "Fantasy",
+        "Fantasy Fiction",
+        "Feral Cats",
+        "Fiction",
+        "Juvenile Fiction",
+        "JUVENILE FICTION / Animals / Cats",
+        "JUVENILE FICTION / Action & Adventure / General",
+        "JUVENILE FICTION / Fantasy & Magic",
+        "Children's fantasy fiction",
+        "Children's fiction",
+        "Cats, fiction",
+        "series:warriors_the_prophecies_begin",
+        "Adventure and adventurers, fiction",
+        "Fantasy fiction",
+        "Friendship, fiction",
+        "Family, fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Tamsyn Muir"
+      ],
+      "first_publish_year": 2019,
+      "key": "/works/OL20128158W",
+      "title": "Gideon the Ninth",
+      "subject": [
+        "Fiction, science fiction, action & adventure",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, dark fantasy",
+        "paranormal",
+        "necromancy",
+        "LGBTQ science fiction & fantasy",
+        "Women authors",
+        "Lesbians",
+        "Butch Lesbians",
+        "horror",
+        "Mystery",
+        "Swordplay",
+        "Fiction",
+        "Magic",
+        "Swordsmen",
+        "Serie:The_Locked_Tomb",
+        "Sneak Peek"
+      ]
+    },
+    {
+      "author_name": [
+        "Shannon Messenger"
+      ],
+      "first_publish_year": 2012,
+      "key": "/works/OL17710016W",
+      "title": "Exile",
+      "subject": [
+        "Fantasy",
+        "Psychic ability",
+        "Ability",
+        "Memory",
+        "Juvenile fiction",
+        "Elves",
+        "Fiction",
+        "Children's fiction",
+        "Fairies, fiction",
+        "Fantasy fiction",
+        "Parapsychology, fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett",
+        "Nurit Sharʻabi"
+      ],
+      "first_publish_year": 1987,
+      "key": "/works/OL453670W",
+      "title": "Equal Rites",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Samuel Vimes (Fictitious character)",
+        "Discworld (Imaginary place)",
+        "Fiction, science fiction, general",
+        "Science fiction",
+        "Wizards",
+        "Fantasy fiction",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, humorous",
+        "English Fantasy fiction",
+        "Translations into Spanish",
+        "Spanish Fantasy fiction",
+        "Translations from English",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Granny weatherwax (fictitious character), fiction",
+        "Fiction, satire",
+        "Margaret A. Edwards Award",
+        "English literature",
+        "Paranormal fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Sarah J. Maas"
+      ],
+      "first_publish_year": 2021,
+      "key": "/works/OL21703979W",
+      "title": "A Court of Silver Flames",
+      "subject": [
+        "Fiction, romance, fantasy",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, romance",
+        "nyt:combined-print-and-e-book-fiction=2021-03-07",
+        "New York Times bestseller",
+        "collectionID:EanesChallenge",
+        "collectionID:AlpineChallenge",
+        "nyt:trade-fiction-paperback=2022-09-25",
+        "series:A_Court_of_Thorns_and_Roses",
+        "Imaginary wars and battles",
+        "Fiction",
+        "Women spies",
+        "Fairies",
+        "Magic",
+        "Courts and courtiers",
+        "FICTION / Fantasy / Romantic",
+        "FICTION / Fantasy / Action & Adventure",
+        "FICTION / Romance / Fantasy",
+        "Monsters"
+      ]
+    },
+    {
+      "author_name": [
+        "Margaret Weis",
+        "Tracy Hickman"
+      ],
+      "first_publish_year": 1985,
+      "key": "/works/OL73412W",
+      "title": "Dragons of Winter Night",
+      "subject": [
+        "Fiction",
+        "Dragons in fiction",
+        "Dragons",
+        "Fiction, fantasy, general",
+        "Fantasy fiction",
+        "Comics & graphic novels, fantasy, general",
+        "Dungeons & Dragons Novel",
+        "collection:DragonLance"
+      ]
+    },
+    {
+      "author_name": [
+        "R. A. Salvatore"
+      ],
+      "first_publish_year": 1988,
+      "key": "/works/OL516728W",
+      "title": "The Crystal Shard",
+      "subject": [
+        "Fiction",
+        "Dungeons & Dragons Novel",
+        "Epic",
+        "Elves",
+        "goblins",
+        "Fantasy",
+        "american fantasy",
+        "dwarfs",
+        "american fiction",
+        "war",
+        "Open Library Staff Picks",
+        "sorcery",
+        "american authors",
+        "adventure",
+        "Magical thinking",
+        "magic",
+        "drow",
+        "orcs",
+        "Epic Fantasy",
+        "Wizards",
+        "Epic fiction",
+        "Artemis Entrei (Fictitious character)",
+        "Fiction, fantasy, general",
+        "Comics & graphic novels, fantasy",
+        "Kings and rulers",
+        "Comics & graphic novels, fantasy, general",
+        "collection:Forgotten Realms",
+        "Dwarfs (Persons)",
+        "Forgotten realms (Imaginary place)"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1998,
+      "key": "/works/OL1946687W",
+      "title": "The Path of Daggers",
+      "subject": [
+        "Fantasy fiction",
+        "Fiction",
+        "Imaginary wars and battles",
+        "Rand al'Thor (Fictitious character)",
+        "Science fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "Rand al'thor (fictitious character), fiction",
+        "series",
+        "dragon reborn",
+        "wheel of time",
+        "Fiction, fantasy, general",
+        "American Fantasy fiction",
+        "Rand Al'Thor (Fictitious character.)",
+        "American literature",
+        "Bibliography"
+      ]
+    },
+    {
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "first_publish_year": 1956,
+      "key": "/works/OL71124W",
+      "title": "The Last Battle",
+      "subject": [
+        "Juvenile Fiction",
+        "Science Fiction & Fantasy",
+        "Fiction",
+        "Fantasy",
+        "Children's fiction",
+        "Narnia (imaginary place), fiction",
+        "Fantasy fiction",
+        "Juvenile",
+        "Narnia (Imaginary place)",
+        "Magic",
+        "Child and youth fiction",
+        "Good and evil",
+        "English Fantasy fiction",
+        "English literature",
+        "20th century",
+        "Adventure and adventurers, fiction",
+        "Fiction, fantasy, general",
+        "Voyages and travels",
+        "Narnia (Lugar imaginario)",
+        "Ficción juvenil",
+        "Bien y mal",
+        "Viajes",
+        "Novela fantástica",
+        "Good and evil, fiction",
+        "Lions"
+      ]
+    },
+    {
+      "author_name": [
+        "Steven Erikson"
+      ],
+      "first_publish_year": 2000,
+      "key": "/works/OL5734770W",
+      "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
+      "subject": [
+        "Fiction, science fiction, space opera",
+        "Fantasy fiction",
+        "Fantasy",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Prophets",
+        "Imaginary wars and battles"
+      ]
+    },
+    {
+      "author_name": [
+        "Erin Hunter"
+      ],
+      "first_publish_year": 2004,
+      "key": "/works/OL5714301W",
+      "title": "Rising Storm",
+      "subject": [
+        "Cats",
+        "Fantasy",
+        "Fantasy Fiction",
+        "Feral Cats",
+        "Fiction",
+        "Juvenile Fiction",
+        "Children's fiction",
+        "Cats, fiction",
+        "series:warriors_the_prophecies_begin",
+        "Adventure and adventurers, fiction",
+        "Fantasy fiction",
+        "Friendship, fiction",
+        "Family, fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "R. A. Salvatore"
+      ],
+      "first_publish_year": 1990,
+      "key": "/works/OL516681W",
+      "title": "Homeland",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Dark Elf",
+        "Fiction, fantasy, general",
+        "Integrity",
+        "Fiction, fantasy, epic",
+        "fiction\"",
+        "Comic books, strips",
+        "Elves",
+        "Magic",
+        "Good and evil",
+        "Comics & graphic novels, fantasy, general",
+        "Dungeons & Dragons Novel",
+        "collection:Forgotten Realms",
+        "Forgotten realms (Imaginary place)",
+        "Drizzt Do'Urden (Fictitious character)"
+      ]
+    },
+    {
+      "author_name": [
+        "Piers Anthony"
+      ],
+      "first_publish_year": 1979,
+      "key": "/works/OL80869W",
+      "title": "The Source of Magic",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Xanth (Imaginary place)",
+        "Fantasy fiction",
+        "Xanth (imaginary place), fiction",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "R. F. Kuang",
+        "Michel Pagel"
+      ],
+      "first_publish_year": 2022,
+      "key": "/works/OL26443093W",
+      "title": "Babel",
+      "subject": [
+        "nyt:combined-print-and-e-book-fiction=2022-09-11",
+        "New York Times bestseller",
+        "Translators",
+        "Fiction",
+        "Chinese",
+        "Imperialism",
+        "Magic",
+        "History",
+        "University of Oxford",
+        "Fiction, fantasy, historical",
+        "Fiction, alternative history",
+        "Fiction, fantasy, dark fantasy",
+        "Fiction, fantasy, epic",
+        "award:nebula_award=novel"
+      ]
+    },
+    {
+      "author_name": [
+        "Joe Abercrombie"
+      ],
+      "first_publish_year": 2008,
+      "key": "/works/OL8400952W",
+      "title": "Last Argument of Kings",
+      "subject": [
+        "Fiction, fantasy, historical",
+        "Fiction, war & military",
+        "Fiction, fantasy, general",
+        "Imaginary wars and battles",
+        "Fiction",
+        "Kings and rulers",
+        "Succession",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Action & Adventure",
+        "FICTION / Fantasy / Historical",
+        "FICTION / War & Military",
+        "Fiction, fantasy, epic",
+        "Friendship, fiction",
+        "Wizards",
+        "Soldiers",
+        "Conspiracies",
+        "English Fantasy fiction",
+        "English Adventure stories",
+        "English War stories",
+        "Conspiration",
+        "Romans, nouvelles",
+        "Récits de guerre anglais",
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Jim Butcher"
+      ],
+      "first_publish_year": 2000,
+      "key": "/works/OL5685119W",
+      "title": "Storm Front",
+      "subject": [
+        "Mystery",
+        "Fiction",
+        "Fantasy",
+        "Wizards",
+        "Dresden, Harry (Fictitious characters)",
+        "Urban Fantasy",
+        "Wizards in fiction",
+        "science fiction",
+        "magic",
+        "wizardry",
+        "Fiction, fantasy, contemporary",
+        "Fiction, mystery & detective, general",
+        "Private investigators, fiction",
+        "Chicago (ill.), fiction",
+        "Harry Dresden (Fictitious character)",
+        "nyt:hardcover-graphic-books=2009-06-21",
+        "New York Times bestseller",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, urban",
+        "Fiction, mystery & detective, private investigators",
+        "Fiction, fantasy, paranormal",
+        "Private investigators",
+        "Murder",
+        "Juvenile fiction",
+        "Comics & graphic novels, fantasy, general",
+        "Comics & graphic novels, crime & mystery"
+      ]
+    },
+    {
+      "author_name": [
+        "Andrzej Sapkowski"
+      ],
+      "first_publish_year": 1997,
+      "key": "/works/OL2577478W",
+      "title": "Wieża jaskółki",
+      "subject": [
+        "Slavic philology",
+        "Fiction, fantasy, general",
+        "Outlaws",
+        "Heiresses",
+        "Fiction",
+        "Imaginary wars and battles",
+        "Monsters",
+        "Magic",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Action & Adventure",
+        "Science fiction",
+        "Fantasy fiction",
+        "fantasy",
+        "polish literature",
+        "adventure",
+        "adult"
+      ]
+    },
+    {
+      "author_name": [
+        "Stephen King"
+      ],
+      "first_publish_year": 1999,
+      "key": "/works/OL149200W",
+      "title": "Song of Susannah",
+      "subject": [
+        "horror fiction",
+        "good and evil",
+        "heroes",
+        "literature",
+        "supernatural",
+        "dark fantasy",
+        "Fantasy fiction",
+        "Fiction",
+        "epic fiction",
+        "adventure fiction",
+        "wolves",
+        "Roland (Fictitious character)",
+        "Fiction, fantasy, epic",
+        "Roland (fictitious character : king), fiction",
+        "Dark tower (imaginary place), fiction",
+        "Roland (Fictitious character : King)",
+        "Fiction, fantasy, general",
+        "Roland of Gilead (Fictitious character)",
+        "Roland (Fictitious character : King) -- Fiction.",
+        "Science fiction, fantasy, horror"
+      ]
+    },
+    {
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "first_publish_year": 2017,
+      "key": "/works/OL17834026W",
+      "title": "Oathbringer",
+      "subject": [
+        "Imaginary places",
+        "Kings and rulers",
+        "Fiction",
+        "Magic",
+        "Imaginary wars and battles",
+        "Action & Adventure",
+        "Slavery",
+        "Fantasy",
+        "Military",
+        "Epic",
+        "nyt:combined-print-and-e-book-fiction=2017-12-03",
+        "New York Times bestseller",
+        "Fiction, fantasy, epic",
+        "nyt:hardcover-fiction=2017-12-03",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Fantasy / Military",
+        "FICTION / Fantasy / Action & Adventure"
+      ]
+    },
+    {
+      "author_name": [
+        "Andrzej Sapkowski"
+      ],
+      "first_publish_year": 1995,
+      "key": "/works/OL2577481W",
+      "title": "Czas pogardy",
+      "subject": [
+        "Polish Fantasy fiction",
+        "Fiction, fantasy, epic",
+        "Monsters",
+        "Fiction",
+        "Assassins",
+        "Suffering",
+        "Murder",
+        "Magic",
+        "Prophecy",
+        "Wizards",
+        "Fiction, fantasy, general",
+        "Fiction, action & adventure",
+        "Criminals, fiction",
+        "fantasy",
+        "epic",
+        "Powieść fantastyczna polska",
+        "Assasins",
+        "Polish Science fiction",
+        "Bodyguards",
+        "Fantastischer Roman",
+        "Polnisch"
+      ]
+    },
+    {
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "first_publish_year": 2025,
+      "key": "/works/OL43426400W",
+      "title": "Sunrise on the Reaping",
+      "subject": [
+        "Dystopia",
+        "Young Adult",
+        "Fantasy",
+        "Fiction",
+        "Science Fiction",
+        "Romance",
+        "Adventure",
+        "Science Fiction Fantasy",
+        "Juegos del hambre",
+        "Serie:The_Hunger_Games"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett"
+      ],
+      "first_publish_year": 1988,
+      "key": "/works/OL453660W",
+      "title": "Wyrd Sisters",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Granny weatherwax (fictitious character), fiction",
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Occult fiction",
+        "Witches",
+        "Fantasy",
+        "MacBeth",
+        "satire",
+        "humor",
+        "kingdom",
+        "Fantasy fiction",
+        "Fiction, humorous",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Fiction, science fiction, general",
+        "English Fantasy fiction",
+        "Translations into Turkish",
+        "Turkish Fantasy fiction",
+        "Translations from English",
+        "Disque-monde (Lieu imaginaire)",
+        "Romans, nouvelles",
+        "Sorcières",
+        "English literature",
+        "Witchcraft",
+        "Drama",
+        "Wizards",
+        "Occultism"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett"
+      ],
+      "first_publish_year": 1991,
+      "key": "/works/OL453668W",
+      "title": "Witches Abroad",
+      "subject": [
+        "English Fantasy fiction",
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "Witches",
+        "Occult fiction",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Granny weatherwax (fictitious character), fiction",
+        "Fiction, humorous",
+        "Fiction, occult & supernatural"
+      ]
+    },
+    {
+      "author_name": [
+        "Jay Kristoff"
+      ],
+      "first_publish_year": 2016,
+      "key": "/works/OL19075624W",
+      "title": "Nevernight",
+      "subject": [
+        "Revenge",
+        "Fiction",
+        "Fiction, fantasy, historical",
+        "Fiction, fantasy, epic",
+        "Fiction, general",
+        "Fiction, fantasy, general",
+        "Fantasy",
+        "Epic",
+        "Historical"
+      ]
+    },
+    {
+      "author_name": [
+        "David Eddings"
+      ],
+      "first_publish_year": 1995,
+      "key": "/works/OL11374780W",
+      "title": "Belgarath the sorcerer",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "American Fantasy fiction",
+        "Wizards",
+        "Magic",
+        "Fantasy fiction",
+        "Fiction, fantasy, general",
+        "Economic conditions",
+        "Economic policy"
+      ]
+    },
+    {
+      "author_name": [
+        "Patrick Rothfuss"
+      ],
+      "first_publish_year": 2011,
+      "key": "/works/OL8479869W",
+      "title": "The Wise Man’s Fear",
+      "subject": [
+        "The Kingkiller Chronicle",
+        "Magicians",
+        "Attempted assassination",
+        "Fairies",
+        "Fiction",
+        "Fantasy",
+        "New York Times bestseller",
+        "Heroes",
+        "Mercenary troops",
+        "nyt:hardcover_fiction=2011-05-28",
+        "Epic Fantasy",
+        "Paranormal Fiction",
+        "Wizards",
+        "Magic",
+        "Phantastischer Roman",
+        "Fantasy fiction",
+        "Amerikanisches Englisch",
+        "Fiction, fantasy, general",
+        "Heroes and heroines",
+        "Mercenary soldiers",
+        "Assassination",
+        "Spanish language",
+        "Reading materials"
+      ]
+    },
+    {
+      "author_name": [
+        "Terry Pratchett"
+      ],
+      "first_publish_year": 1992,
+      "key": "/works/OL453787W",
+      "title": "Lords and Ladies",
+      "subject": [
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Granny weatherwax (fictitious character), fiction",
+        "Drama",
+        "Fiction, humorous",
+        "Literature and fiction (general)",
+        "Literature and fiction, fantasy",
+        "English Fantasy fiction",
+        "Translations into Dutch",
+        "Witches",
+        "English literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Stephen King"
+      ],
+      "first_publish_year": 1987,
+      "key": "/works/OL81616W",
+      "title": "The Drawing of the Three",
+      "subject": [
+        "sociopaths",
+        "dissociative identity disorder",
+        "civil rights",
+        "heroin",
+        "cocaine",
+        "lobstrosities",
+        "tarot cards",
+        "horror fiction",
+        "American fantasy fiction",
+        "horror tales",
+        "Fiction",
+        "second volume (The Dark Tower saga)",
+        "fantasy fiction",
+        "Parallel universes",
+        "Post-apocalpytic",
+        "Apocalyptic literature",
+        "Roland (Fictitious character : King)",
+        "Fantastic fiction",
+        "Good and evil",
+        "Fiction, fantasy, epic",
+        "Dark tower (imaginary place), fiction",
+        "Roland (fictitious character : king), fiction",
+        "American Authors",
+        "Fiction, fantasy, general",
+        "Science fiction, fantasy, horror",
+        "Roland (Fictitious character)"
+      ]
+    },
+    {
+      "author_name": [
+        "Shannon A. Chakraborty"
+      ],
+      "first_publish_year": 2017,
+      "key": "/works/OL19623241W",
+      "title": "The City of Brass",
+      "subject": [
+        "Middle Eastern Fantasy",
+        "Historical Fantasy",
+        "Imaginary places, fiction",
+        "Fiction, action & adventure",
+        "Fiction, fantasy, historical",
+        "Fiction, fantasy, epic",
+        "Imaginary places",
+        "Jinn",
+        "Fiction",
+        "New York Times reviewed",
+        "FICTION / Fantasy / Historical",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Action & Adventure",
+        "Genies"
+      ]
+    },
+    {
+      "author_name": [
+        "Robin Hobb"
+      ],
+      "first_publish_year": 1999,
+      "key": "/works/OL2707221W",
+      "title": "Mad Ship",
+      "subject": [
+        "Sailing ships",
+        "Fiction",
+        "Pirates",
+        "Magic",
+        "Quests (Expeditions)",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, epic"
+      ]
+    },
+    {
+      "author_name": [
+        "Sarah J. Maas"
+      ],
+      "first_publish_year": 2014,
+      "key": "/works/OL17367560W",
+      "title": "Heir of Fire",
+      "subject": [
+        "Magic",
+        "YA",
+        "High Fantasy",
+        "Fiction",
+        "Romance",
+        "Fantasy",
+        "Court",
+        "Assassins",
+        "Identity",
+        "Identity (Psychology)",
+        "Children's fiction",
+        "Kings, queens, rulers, etc., fiction",
+        "Criminals, fiction",
+        "Identity, fiction",
+        "Fantasy fiction",
+        "Young adult fiction",
+        "[series:Throne_of_Glass]",
+        "Young Adult",
+        "Female assassins"
+      ]
+    },
+    {
+      "author_name": [
+        "Scott Lynch"
+      ],
+      "first_publish_year": 2007,
+      "key": "/works/OL8369450W",
+      "title": "Red Seas Under Red Skies (Gentlemen Bastards #2)",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Swindlers and swindling",
+        "Fiction, fantasy, epic",
+        "Brigands and robbers",
+        "Robbers and outlaws",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "first_publish_year": 1995,
+      "key": "/works/OL7924099W",
+      "title": "Crossroads of Twilight",
+      "subject": [
+        "Fantasy fiction",
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Fiction, science fiction, general",
+        "Fiction, fantasy, epic",
+        "Rand al'thor (fictitious character), fiction",
+        "Russian language edition",
+        "Fiction, fantasy, general",
+        "Good and evil",
+        "Imaginary wars and battles",
+        "Adventure stories",
+        "Heroes",
+        "Fantasy",
+        "American literature"
+      ]
+    },
+    {
+      "author_name": [
+        "Alix E. Harrow"
+      ],
+      "first_publish_year": 2019,
+      "key": "/works/OL20074045W",
+      "title": "The Ten Thousand Doors of January",
+      "subject": [
+        "Fantasy fiction.",
+        "American literature",
+        "Fiction, fantasy, general"
+      ]
+    },
+    {
+      "author_name": [
+        "Steven Erikson"
+      ],
+      "first_publish_year": 1998,
+      "key": "/works/OL5734759W",
+      "title": "House of Chains",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Military Fantasy",
+        "Imaginary wars and battles",
+        "Battles",
+        "Imaginary places",
+        "Fantasy fiction"
+      ]
+    },
+    {
+      "author_name": [
+        "Sarah J. Maas"
+      ],
+      "first_publish_year": 2015,
+      "key": "/works/OL17718538W",
+      "title": "Queen of Shadows",
+      "subject": [
+        "Magic",
+        "YA",
+        "High Fantasy",
+        "Fiction",
+        "Romance",
+        "Fantasy",
+        "Royalty",
+        "Court",
+        "Rebellion",
+        "Assassins",
+        "Insurgency",
+        "Juvenile fiction",
+        "Identity",
+        "Homecoming",
+        "Demoniac possession",
+        "Identity (Philosophical concept)",
+        "Queens",
+        "Children's fiction",
+        "Fantasy fiction",
+        "Identity, fiction",
+        "Criminals, fiction",
+        "[series:Throne_of_Glass]",
+        "Swords"
+      ]
+    },
+    {
+      "author_name": [
+        "V. E. Schwab"
+      ],
+      "first_publish_year": 2015,
+      "key": "/works/OL17332803W",
+      "title": "A Darker Shade of Magic",
+      "subject": [
+        "Quantum theory",
+        "Magic",
+        "FICTION / Fantasy / Historical",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "London (England) - Fiction",
+        "Magic - Fiction",
+        "Witches and warlocks - Fiction",
+        "Fantasy",
+        "Quantum theory - Fiction",
+        "London (england), fiction",
+        "Magic -- Fiction",
+        "Smugglers -- Fiction",
+        "Pickpockets -- Fiction",
+        "Quantum theory -- Fiction",
+        "Space and time -- Fiction",
+        "Contrebandiers -- Romans, nouvelles, etc",
+        "Pickpockets -- Romans, nouvelles, etc",
+        "Théorie quantique -- Romans, nouvelles, etc",
+        "FICTION / Fantasy / Action & Adventure",
+        "FICTION / Fantasy / Gaslamp",
+        "Pickpockets",
+        "Smugglers",
+        "Space and time",
+        "London (England) -- Fiction",
+        "England -- London",
+        "Fiction, science fiction, general",
+        "Fiction, romance, fantasy",
+        "Fantasy & Magic",
+        "Blood & magic",
+        "Parallel worlds",
+        "Magic, fiction",
+        "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+        "Young adult fiction",
+        "Young Adult",
+        "Adult",
+        "Adventure",
+        "Historical Fiction",
+        "Urban Fantasy",
+        "Young Adult Fantasy"
+      ]
+    },
+    {
+      "author_name": [
+        "George R. R. Martin"
+      ],
+      "first_publish_year": 1996,
+      "key": "/works/OL257943W",
+      "title": "A Game of Thrones",
+      "subject": [
+        "Adult",
+        "Action & Adventure",
+        "Fantasy",
+        "High Fantasy",
+        "Epic",
+        "Epic Fantasy",
+        "Epic Fiction",
+        "Epic Literature",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, general",
+        "Science Fiction",
+        "Fantastic Fiction",
+        "Fiction",
+        "Ficción",
+        "Moral Ambiguity",
+        "Betrayal",
+        "Loyalty",
+        "Family",
+        "Revenge",
+        "Vengeance",
+        "Bien y mal",
+        "Civil War",
+        "War and Conflict",
+        "Imaginary Wars and Battles",
+        "Guerras imaginarias",
+        "Politics",
+        "Intrigue",
+        "Feudalism",
+        "Royalty and Nobility",
+        "Kings and Rulers",
+        "Knights",
+        "Courts and Courtiers",
+        "Seasons",
+        "Invierno",
+        "Trial by Combat",
+        "Voyages and Travels",
+        "Walls",
+        "Penal Colonies",
+        "Magic",
+        "Dragons",
+        "Supernatural",
+        "Wights",
+        "Folk Healers",
+        "Incest",
+        "Forced Marriage",
+        "Persistent Vegetative States",
+        "Imaginary Places",
+        "Seven Kingdoms (Imaginary Place)",
+        "Hugo Award Winner",
+        "Ignotus Award Winner",
+        "Locus Award Winner",
+        "New York Times Bestseller",
+        "Fantasy fiction",
+        "Novela",
+        "Reyes y soberanos",
+        "Guerra civil",
+        "nyt:trade_fiction_paperback=2011-09-10",
+        "Accessible book",
+        "Protected DAISY",
+        "OverDrive",
+        "nyt:mass-market-paperback=2011-04-10",
+        "Seven kingdoms (imaginary place), fiction",
+        "American Fantasy fiction",
+        "general",
+        "good and evil",
+        "winter",
+        "series:A Song of Ice and Fire"
+      ]
+    }
+  ]
+}

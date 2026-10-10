@@ -1,0 +1,88 @@
+{
+  "title": "Interesting Times",
+  "covers": [
+    14646167
+  ],
+  "key": "/works/OL453707W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25712A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "\"May you live in interesting times\" is the worst thing one can wish on a citizen of Discworld -- especially on the distinctly unmagical sorcerer Rincewind, who has had far too much perilous excitement in his life. But when a request for a \"Great Wizzard\" arrives in Ankh-Morpork via carrier albatross from the faraway Counterweight Continent, it's he who's sent as emissary. Chaos threatens to follow the impending demise of the Agatean Empire's current ruler. And, for some incomprehensible reason, someone believes Rincewind will have a mythic role in the war and wholesale bloodletting that will surely ensue. (Carnage is pretty much a given, since Cohen the Barbarian and his extremely elderly Silver Horde are busily formulating their own plan for looting, pillaging, and, er, looking wistfully at girls.) However, Rincewind firmly believes there are too many heroes already in the world, yet only one Rincewind. And he owes it to the world to keep that one alive for as long as possible.",
+  "subjects": [
+    "Fantasy fiction",
+    "Discworld (Imaginary place)",
+    "Fiction",
+    "Fantasy",
+    "Drama (dramatic works by one author)",
+    "Fiction, fantasy, general",
+    "Drama",
+    "English Fantasy drama",
+    "Discworld (imaginary place), fiction",
+    "Fiction, humorous",
+    "Rincewind the wizard (fictitious character), fiction",
+    "Science fiction, fantasy, horror",
+    "Wizards",
+    "Disque-monde (Lieu imaginaire)",
+    "Romans, nouvelles",
+    "English literature"
+  ],
+  "location": "/works/OL453750W",
+  "subject_people": [
+    "Rincewind (Fictional character)",
+    "Twoflower (Fictional character)",
+    "The Luggage (Fictional character)",
+    "Cohen the Barbarian (Fictional character)",
+    "Havelock Vetinari (Fictional character)",
+    "Mustrum Ridcully (Fictional character)",
+    "Ronald Saveloy (Fictional character)",
+    "Boy Willie (Fictional character)",
+    "Caleb the Ripper (Fictional character)",
+    "Truckle the Uncivil (Fictional character)",
+    "Old Vincent (Fictional character)",
+    "Mad Hamish (Fictional character)",
+    "Lord Hong (Fictional character)"
+  ],
+  "identifiers": {
+    "bookbrainz": [
+      "040812e4-f1b4-4ef8-98a7-5fff49394b8d"
+    ],
+    "musicbrainz": [
+      "212f8778-2065-46ce-91ac-318a27345a28"
+    ],
+    "wikidata": [
+      "Q2357201"
+    ]
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL339711L"
+      },
+      "position": "17"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL167T"
+  ],
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:21:44.262684"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-26T12:24:36.715777"
+  }
+}

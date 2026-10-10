@@ -1,0 +1,85 @@
+{
+  "title": "Lords and Ladies",
+  "covers": [
+    14646144
+  ],
+  "key": "/works/OL453787W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25712A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "The fairies are back - but this time they don't just want your teeth...\r\n\r\nGranny Weatherwax and her tiny coven are up against real elves.\r\n\r\nIt's Midsummer Night.\r\n\r\nNo times for dreaming...\r\n\r\nWith full supporting cast of dwarfs, wizards, trolls, Morris dancers and one orang-utan. And lots of hey-nonny-nonny and blood all over the place.",
+  "subject_places": [
+    "Discworld (Imaginary place)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Discworld (Imaginary place)",
+    "Fantasy",
+    "Fiction, fantasy, general",
+    "Discworld (imaginary place), fiction",
+    "Granny weatherwax (fictitious character), fiction",
+    "Drama",
+    "Fiction, humorous",
+    "Literature and fiction (general)",
+    "Literature and fiction, fantasy",
+    "English Fantasy fiction",
+    "Translations into Dutch",
+    "Witches",
+    "English literature"
+  ],
+  "subject_people": [
+    "Granny Weatherwax (Fictional character)",
+    "Nanny Ogg (Fictional character)",
+    "Magrat Garlick (Fictional character)"
+  ],
+  "lc_classifications": [
+    "PS"
+  ],
+  "dewey_number": [
+    "813"
+  ],
+  "location": "/works/OL453787W",
+  "identifiers": {
+    "bookbrainz": [
+      "b45fd431-22da-4421-a5ab-299198878338"
+    ],
+    "musicbrainz": [
+      "7746ba9d-7f92-4b9c-8676-81820335f6e0"
+    ],
+    "wikidata": [
+      "Q2078525"
+    ]
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL339711L"
+      },
+      "position": "14"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL167T"
+  ],
+  "latest_revision": 22,
+  "revision": 22,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:21:44.262684"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T10:35:10.342790"
+  }
+}

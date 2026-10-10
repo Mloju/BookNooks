@@ -1,0 +1,81 @@
+{
+  "description": "Pozycja, która przedstawia początki historii słynnego Geralta z Rivii. Sięgnij po tę lekturę i zanurz się w świecie, pełnym niebezpiecznych stworzeń, nierzadko napadających na ludzkie osady.\r\n\r\n\"Ostatnie życzenie\" to jeden ze zbiorów opowiadań z cyklu wiedźmińskiego, który zdobył ogromną popularność nie tylko w Polsce, ale i na całym świecie, między innymi za sprawą gry komputerowej, a następnie dzięki serialowi, wyprodukowanemu przez platformę Netflix.\r\n\r\nGłówny bohater, Geralt z Rivii, jest wiedźminem, czyli osobą, która w zamian za wynagrodzenie, pozbywa się rozlicznych potworów. Działa według ściśle określonego systemu moralnego, dzieląc wszystko na to, co dobre i na to, co złe, nie uznając natomiast niczego pośrodku. Nie zabija, jeśli nie musi tego robić. Woli stawiać na uroki, które czasem też mogą rozwiązać problem. W trakcie swoich przygód poznaje piękną czarodziejkę, Yennefer, która wzbudza w nim fascynację. Jakie zlecenia czekają na niego w najbliższej przyszłości?",
+  "first_publish_date": "2007",
+  "title": "Ostatnie Życzenie",
+  "covers": [
+    7360819,
+    8747762,
+    2379022,
+    8964191,
+    8769871,
+    11412849,
+    8458308,
+    14862229,
+    12855306,
+    14431470
+  ],
+  "lc_classifications": [
+    "PG7178.A65 O8613 2007"
+  ],
+  "key": "/works/OL2577482W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL368638A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "891.8536"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fantasy",
+    "Fiction",
+    "Translations into English",
+    "Polish fiction",
+    "Fiction, fantasy, general",
+    "Fiction, fantasy, short stories",
+    "nyt:mass-market-paperback=2015-07-05",
+    "New York Times bestseller",
+    "Fiction, fantasy, collections & anthologies",
+    "Sorcerers",
+    "nyt:trade-fiction-paperback=2020-01-26"
+  ],
+  "subject_people": [
+    "Dandelion",
+    "Yennefer",
+    "Geralt of Rivia",
+    "Nenneke",
+    "The White Wolf"
+  ],
+  "subject_places": [
+    "Kaer Morhen"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL329475L"
+      },
+      "position": "0.5"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 24,
+  "revision": 24,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T23:59:12.155266"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T09:15:18.292155"
+  }
+}

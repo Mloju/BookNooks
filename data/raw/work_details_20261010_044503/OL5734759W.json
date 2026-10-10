@@ -1,0 +1,51 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The awesome - and acclaimed - fourth instalment in Steven Erikson's epic fantasy sequence THE MALAZAN BOOK OF THE FALLEN.In Northern Genabackis, just before the events recounted in GARDENS OF THE MOON, a raiding party of savage tribal warriors descends from the mountains into the southern flat lands. Their intention is to wreak havoc among the despised lowlanders, but for the one named Karsa Orlong it marks the beginning of what will prove an extraordinary destiny. Some years later, it is the aftermath of the Chain of Dogs. Coltaine, revered commander of the Malazan 7th Army is dead. And now Tavore, elder sister of Ganoes Paran and Adjunct to the Empress, has arrived in the last remaining Malazan stronghold of the Seven Cities to take charge. Untested and new to command, she must hone a small army of twelve thousand soldiers, mostly raw recruits, into a viable fighting force and lead them into battle against the massed hordes of Sha'ik's Whirlwind. Her only hope lies in resurrecting the shattered faith of the few remaining survivors from Coltaine's legendary march, veterans one and all.In distant Raraku, in the heart of the Holy Desert, the seer Sha'ik waits with her rebel army. But waiting is never easy. Her disparate collection of warlords - tribal chiefs, High Mages, a renegade Malazan Fist and his sorceror - is locked in a vicious power struggle that threatens to tear the rebellion apart from within. And Sha'ik herself suffers, haunted by the private knowledge of her nemesis, Tavore...her own sister.So begins the awesome new chapter in Steven Erikson's MALAZAN BOOK OF THE FALLEN - an epic novel of war, intrigue, magic and betrayal from a writer regarded as one of the most original, imaginative and exciting storytellers in fantasy today."
+  },
+  "covers": [
+    374327,
+    386145,
+    524440,
+    11053909,
+    8430221
+  ],
+  "key": "/works/OL5734759W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1394250A"
+      }
+    }
+  ],
+  "title": "House of Chains",
+  "subjects": [
+    "Fantasy",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "Military Fantasy",
+    "Imaginary wars and battles",
+    "Battles",
+    "Imaginary places",
+    "Fantasy fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:10:48.256984"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T05:57:55.322599"
+  }
+}

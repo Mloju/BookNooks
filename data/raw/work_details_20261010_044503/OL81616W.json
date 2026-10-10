@@ -1,0 +1,150 @@
+{
+  "description": "[The Dark Tower][1] II\r\n\r\nPart II of an epic saga. Roland, the last gunslinger, encounters three mysterious doorways on the beach. Each one enters into a different person living in New York. Through these doorways, Roland draws the companions who will assist him on his quest to save the Dark Tower. \r\n([source][2])\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL81600W/The_Dark_Tower_1-7\r\n  [2]: https://stephenking.com/library/novel/dark_tower_the_drawing_of_the_three_the.html",
+  "links": [
+    {
+      "title": "StephenKing.com - The Drawing of the Three",
+      "url": "https://stephenking.com/library/novel/dark_tower_the_drawing_of_the_three_the.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Dark Tower II: The Drawing of the Three - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Tower_II:_The_Drawing_of_the_Three",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Drawing of the Three | Stephen King Wiki | FANDOM powered by ...",
+      "url": "https://stephenking.fandom.com/wiki/The_Drawing_of_the_Three",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Fiction Book Review: The Drawing of the Three by Stephen King ...",
+      "url": "https://www.publishersweekly.com/978-0-452-26214-0",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Drawing of the Three by Stephen King book review",
+      "url": "http://www.fantasybookreview.co.uk/Stephen-King/Drawing-of-the-Three.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Amazon",
+      "url": "https://www.amazon.com/Dark-Tower-II-Drawing-Three/dp/1501143530/ref=m_pd_aw_sbs_sccl_3/145-4203546-9473155?pd_rd_w=Jncp7&content-id=amzn1.sym.b8ef237d-cb2f-4daf-9c7e-0fbaa2015387&pf_rd_p=b8ef237d-cb2f-4daf-9c7e-0fbaa2015387&pf_rd_r=YHPZT7CG0JEEXHW12WV4&pd_rd_wg=oLd6H&pd_rd_r=73626ace-4b1d-4e04-b168-de350e5976d3&pd_rd_i=1501143530&psc=1",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Drawing of the Three",
+  "covers": [
+    14651245,
+    12275438,
+    12325129,
+    13491313
+  ],
+  "subject_places": [
+    "New York City"
+  ],
+  "subjects": [
+    "sociopaths",
+    "dissociative identity disorder",
+    "civil rights",
+    "heroin",
+    "cocaine",
+    "lobstrosities",
+    "tarot cards",
+    "horror fiction",
+    "American fantasy fiction",
+    "horror tales",
+    "Fiction",
+    "second volume (The Dark Tower saga)",
+    "fantasy fiction",
+    "Parallel universes",
+    "Post-apocalpytic",
+    "Apocalyptic literature",
+    "Roland (Fictitious character : King)",
+    "Fantastic fiction",
+    "Good and evil",
+    "Fiction, fantasy, epic",
+    "Dark tower (imaginary place), fiction",
+    "Roland (fictitious character : king), fiction",
+    "American Authors",
+    "Fiction, fantasy, general",
+    "Science fiction, fantasy, horror",
+    "Roland (Fictitious character)"
+  ],
+  "subject_people": [
+    "Jake Chambers",
+    "Susannah Dean",
+    "Jack Mort",
+    "Roland of Gilead (Fictitious character)",
+    "Roland (Fictitious character : King)",
+    "Randall Flagg",
+    "The Man in Black",
+    "Roland Deschain",
+    "Odetta Holmes",
+    "Enrico Balazar",
+    "Eddie Dean"
+  ],
+  "key": "/works/OL81616W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19981A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "The gunslinger came awake from a confused dram which seemed to consist of a single image: that of the Sailor in the Tarot deck from which the man in black had dealt (or purported to deal) the gunslinger's own moaning future.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_times": [
+    "1987",
+    "1964",
+    "1977"
+  ],
+  "first_publish_date": "January 3, 1990",
+  "genres": [
+    "/tags/OL171T",
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL343965L"
+      },
+      "position": "2"
+    }
+  ],
+  "latest_revision": 65,
+  "revision": 65,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T04:57:55.334864"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-20T22:22:56.351741"
+  }
+}

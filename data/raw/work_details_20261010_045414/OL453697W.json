@@ -1,0 +1,97 @@
+{
+  "identifiers": {
+    "bookbrainz": [
+      "a0ccc87b-8bd1-4d57-afb4-9ba6b35521c1"
+    ],
+    "musicbrainz": [
+      "d15bcad0-2a7e-4c08-96f2-c29122bb4ca9"
+    ],
+    "wikidata": [
+      "Q1307144"
+    ]
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "In the beginning was the Word.\r\n\r\nAnd the Word was: \"Hey, you!\"\r\n\r\nFor Brutha the novice is the Chosen One. He wants peace and justice and brotherly love.\r\n\r\nHe also wants the Inquisition to stop torturing him now, please..."
+  },
+  "title": "Small Gods",
+  "covers": [
+    14648232
+  ],
+  "key": "/works/OL453697W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25712A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL3027191A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "Small God's Wikipedia page.",
+      "url": "http://en.wikipedia.org/wiki/Small_Gods_%28novel%29",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "Discworld (Imaginary place)"
+  ],
+  "subjects": [
+    "Discworld (Imaginary place)",
+    "Science fiction",
+    "Fantasy fiction",
+    "Fiction",
+    "Fantasy",
+    "Discworld (imaginary place), fiction",
+    "Fiction, fantasy, general",
+    "Fiction, humorous",
+    "Comics & graphic novels, fantasy",
+    "Science fiction, fantasy, horror",
+    "Fiction, humorous, general",
+    "English literature"
+  ],
+  "subject_people": [
+    "Brutha (Fictional character)",
+    "Vorbis (Fictional character)"
+  ],
+  "location": "/works/OL453697W",
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL339711L"
+      },
+      "position": "13"
+    }
+  ],
+  "genres": [
+    "/tags/OL179T",
+    "/tags/OL169T",
+    "/tags/OL172T"
+  ],
+  "latest_revision": 22,
+  "revision": 22,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:21:44.262684"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T10:17:53.201191"
+  }
+}

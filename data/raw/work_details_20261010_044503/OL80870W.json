@@ -1,0 +1,53 @@
+{
+  "subjects": [
+    "Xanth (Imaginary place)",
+    "Fiction",
+    "Fantasy",
+    "Magic",
+    "Xanth (imaginary place), fiction",
+    "Fiction, fantasy, general"
+  ],
+  "key": "/works/OL80870W",
+  "title": "A Spell for Chameleon",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19905A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    6453925,
+    4412114,
+    8757827,
+    10428787,
+    8090741,
+    13770674
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Xanth was the enchanted land where magic ruled - where every citizen had a special spell only he could cast. It was a land of centaurs, dragons and basiliks.But poor Bink alone had no magic. And unless he got some - and fast - he would be exiled.\r\n\r\nThe Good Magician Humfrey was convined that Bink did indeed have magic, magic as powerful as any possessed by the King or Good Magician Humfrey himself. But no one could fathom the nature of Bink's very special magic. Bink was in despair. This was worse than having no magic at all...and he would still be exiled."
+  },
+  "subject_people": [
+    "Bink"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T04:57:55.334864"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T19:19:23.353545"
+  }
+}

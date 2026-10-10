@@ -1,0 +1,52 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Iron Flame",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7825177A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL34028551W",
+  "subjects": [
+    "nyt:combined-print-and-e-book-fiction=2023-11-26",
+    "New York Times bestseller",
+    "Fiction, fantasy, action & adventure",
+    "Fiction, fantasy, dragons & mythical creatures",
+    "Fiction, fantasy, epic",
+    "Serie:The_Empyrean"
+  ],
+  "covers": [
+    14405746
+  ],
+  "description": "“The first year is when some of us lose our lives. The second year is when the rest of us lose our humanity.” —Xaden Riorson\r\n\r\nEveryone expected Violet Sorrengail to die during her first year at Basgiath War College—Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.\r\n\r\nNow the real training begins, and Violet’s already wondering how she’ll get through. It’s not just that it’s grueling and maliciously brutal, or even that it’s designed to stretch the riders’ capacity for pain beyond endurance. It’s the new vice commandant, who’s made it his personal mission to teach Violet exactly how powerless she is–unless she betrays the man she loves.\r\n\r\nAlthough Violet’s body might be weaker and frailer than everyone else’s, she still has her wits—and a will of iron. And leadership is forgetting the most important lesson Basgiath has taught her: Dragon riders make their own rules.\r\n\r\nBut a determination to survive won’t be enough this year.\r\n\r\nBecause Violet knows the real secret hidden for centuries at Basgiath War College—and nothing, not even dragon fire, may be enough to save them in the end.",
+  "identifiers": {
+    "librarything": [
+      "29785859"
+    ]
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL331363L"
+      },
+      "position": "2"
+    }
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-01-17T05:25:14.732779"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-12T21:37:57.695170"
+  }
+}

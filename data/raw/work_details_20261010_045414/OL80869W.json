@@ -1,0 +1,46 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Ordered by King Trent to determine the source of Xanth's magic, Bink and his companions were harried by an unseen enemy determined to thwart them. When even their protector turned against them, Blink still managed to reach his goal and carry out the King's orders...but the king did not expect Blink's next act--to destroy utterly the magic of Xanth!From the Paperback edition."
+  },
+  "covers": [
+    2404614,
+    5080596
+  ],
+  "key": "/works/OL80869W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL19905A"
+      }
+    }
+  ],
+  "title": "The Source of Magic",
+  "subjects": [
+    "Fantasy",
+    "Fiction",
+    "Xanth (Imaginary place)",
+    "Fantasy fiction",
+    "Xanth (imaginary place), fiction",
+    "Fiction, fantasy, general"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T04:57:55.334864"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-14T12:23:14.595449"
+  }
+}

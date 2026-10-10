@@ -1,0 +1,85 @@
+{
+  "description": "Everyone Celaena Sardothien loves has been taken from her. But she's at last returned to the empire-for vengeance, to rescue her once-glorious kingdom, and to confront the shadows of her past...\r\n\r\nShe has embraced her identity as Aelin Galathynius, Queen of Terrasen. But before she can reclaim her throne, she must fight.\r\n\r\nShe will fight for her cousin, a warrior prepared to die just to see her again. She will fight for her friend, a young man trapped in an unspeakable prison. And she will fight for her people, enslaved to a brutal king and awaiting their lost queen's triumphant return.\r\n\r\nCelaena's epic journey has captured the hearts and imaginations of millions across the globe. This fourth volume will hold readers rapt as Celaena's story builds to a passionate, agonizing crescendo that might just shatter her world.",
+  "covers": [
+    7994583,
+    12474453,
+    10841443,
+    8174285,
+    10850248,
+    12881322,
+    13520201
+  ],
+  "key": "/works/OL17718538W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7115219A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Queen of Shadows",
+  "subjects": [
+    "Magic",
+    "YA",
+    "High Fantasy",
+    "Fiction",
+    "Romance",
+    "Fantasy",
+    "Royalty",
+    "Court",
+    "Rebellion",
+    "Assassins",
+    "Insurgency",
+    "Juvenile fiction",
+    "Identity",
+    "Homecoming",
+    "Demoniac possession",
+    "Identity (Philosophical concept)",
+    "Queens",
+    "Children's fiction",
+    "Fantasy fiction",
+    "Identity, fiction",
+    "Criminals, fiction",
+    "[series:Throne_of_Glass]",
+    "Swords"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_people": [
+    "Aelin Galathynius",
+    "Rowan Whitehorn",
+    "Dorian Hallivard",
+    "Chaol Westfall",
+    "Manon Blackbeak",
+    "Aedion Ashryver"
+  ],
+  "subject_places": [
+    "Rifthold"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL334582L"
+      },
+      "position": "4"
+    }
+  ],
+  "genres": [
+    "/tags/OL177T",
+    "/tags/OL169T"
+  ],
+  "latest_revision": 19,
+  "revision": 19,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-06-01T18:48:02.135227"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-11T19:03:10.162029"
+  }
+}

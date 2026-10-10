@@ -1,0 +1,63 @@
+{
+  "description": "Darkness, air, water, and sky will come together... and shake the forest to its roots. \r\n\r\nThe wild cat Clans have lived in peace and harmony for many moons - but now, strange messages from their warrior ancestors speak of terrifying new prophecies and a mysterious danger. \r\n\r\nAll the signs point to young warrior Brambleclaw as the cat with the fate of the forest in his paws. But who are the other cats mentioned in the prophecy? All he knows for sure is that the strength and courage of the greatest warriors will be needed now, as the quest to save the Clans begins.\r\n\r\n----------\r\n**Books in this arc**\r\n\r\n 1. Midnight\r\n 2. [Moonrise][2]\r\n 3. [Dawn][3]\r\n 4. [Starlight][4]\r\n 5. [Twilight][5]\r\n 6. [Sunset][6]\r\n\r\n  [2]: https://openlibrary.org/works/OL5714300W\r\n  [3]: https://openlibrary.org/works/OL5714287W\r\n  [4]: https://openlibrary.org/works/OL5714312W\r\n  [5]: https://openlibrary.org/works/OL5714319W\r\n  [6]: https://openlibrary.org/works/OL5714318W\r\n\r\n----------\r\n**Arcs in this series**\r\n\r\n 1. [The Prophecies Begin][a]\r\n 2. The New Prophecy\r\n 3. [The Power of Three][c]\r\n 4. [Omen of the Stars][d]\r\n 5. [Dawn of the Clans][e]\r\n 6. [A Vision of Shadows][f]\r\n 7. [The Broken Code][g]\r\n 8. [A Starless Clan][h]\r\n S. [Super Editions][s]\r\n\r\n  [a]: https://openlibrary.org/books/OL9228970M/INTO\r\n  [b]: https://openlibrary.org/books/OL9235572M/Midnight_(Warriors_The_New_Prophecy_Book_1)\r\n  [c]: https://openlibrary.org/books/OL7283723M/The_Sight_(Warriors_Power_of_Three_Book_1)\r\n  [d]: https://openlibrary.org/books/OL24084711M/Warriors_Omen_of_the_Stars_1\r\n  [e]: https://openlibrary.org/books/OL25995097M/Dawn_of_the_Clans\r\n  [f]: https://openlibrary.org/books/OL26884472M/The_apprentice's_quest\r\n  [g]: https://openlibrary.org/books/OL27958224M/Warriors_The_Broken_Code_1\r\n  [h]: https://openlibrary.org/books/OL32444897M/River/\r\n  [s]: https://openlibrary.org/books/OL7288445M/Firestar's_Quest",
+  "covers": [
+    9392106,
+    10133230,
+    10491900,
+    10827876,
+    12121278,
+    13002779
+  ],
+  "key": "/works/OL5714297W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1389873A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Midnight",
+  "subjects": [
+    "Cats",
+    "Fantasy",
+    "Fantasy Fiction",
+    "Feral Cats",
+    "Fiction",
+    "Juvenile Fiction",
+    "Children's fiction",
+    "Cats, fiction",
+    "Cats -- Fiction.",
+    "Fantasy.",
+    "Horror stories",
+    "series:warriors_the_new_prophecy",
+    "Fantasy fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL332692L"
+      },
+      "position": "1"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL171T"
+  ],
+  "latest_revision": 42,
+  "revision": 42,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:08:02.498184"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T11:12:08.130098"
+  }
+}

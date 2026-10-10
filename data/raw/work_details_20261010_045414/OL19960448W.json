@@ -1,0 +1,69 @@
+{
+  "subjects": [
+    "Forgery",
+    "Forgers",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "Fiction, fantasy, action & adventure",
+    "Fiction, fantasy, epic",
+    "series:Elantris"
+  ],
+  "description": "WINNER, 2013 Hugo Award for Best Novella! Nominee, 2013 World Fantasy Award for Novella! From #1 New York Times bestselling author Brandon Sanderson, The Emperor's Soul showcases a fascinating magic system as the clock ticks down for a condemned criminal. When Shai is caught replacing the Moon Scepter with her nearly flawless forgery, she must bargain for her life. An assassin has left the Emperor Ashravan without consciousness, a circumstance concealed only by the death of his wife. If the emperor does not emerge after his hundred-day mourning period, the rule of the Heritage Faction will be forfeit and the empire will fall into chaos. Shai is given an impossible task: to create—to Forge—a new soul for the emperor in less than one hundred days. But her soul-Forgery is considered an abomination by her captors. She is confined to a tiny, dirty chamber, guarded by a man who hates her, spied upon by politicians, and trapped behind a door sealed in her own blood. Shai's only possible ally is the emperor's most loyal councillor, Gaotona, who struggles to understand her true talent. Time is running out for Shai. Forging, while deducing the motivations of her captors, she needs a perfect plan to escape…",
+  "key": "/works/OL19960448W",
+  "title": "The Emperor's Soul",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394865A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    14658408,
+    14418972,
+    8762888,
+    10461159,
+    10293421,
+    10329752
+  ],
+  "location": "/works/OL19960448W",
+  "identifiers": {
+    "bookbrainz": [
+      "fd3a8afc-c76a-4dee-974f-76c276407cd2"
+    ],
+    "musicbrainz": [
+      "62ef4288-82b3-4d0c-84ed-32db3c29b372"
+    ],
+    "wikidata": [
+      "Q17060438"
+    ]
+  },
+  "links": [
+    {
+      "title": "Sanderson Starter Set — 3-Book Collection",
+      "url": "https://www.tiktok.com/shop/pdp/sanderson-starter-set-tiktok-exclusive-3-book-collection/1732062207585325359?source=ecommerce_store&enter_method=feed_list_store_list_product&first_entrance=unknown&first_entrance_tt_scene=third_party",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-17T22:41:39.179980"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T13:01:00.688059"
+  }
+}

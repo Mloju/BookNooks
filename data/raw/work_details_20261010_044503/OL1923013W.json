@@ -1,0 +1,68 @@
+{
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "THERE WAS, GARION decided, something definitely mournful about the sound of mule bells."
+  },
+  "first_publish_date": "July 16, 1992",
+  "key": "/works/OL1923013W",
+  "title": "Enchanters' End Game (The Belgariad)",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL230514A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9893522A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    209046,
+    6690242,
+    366643,
+    6457838,
+    1941474
+  ],
+  "subjects": [
+    "American Fantasy fiction",
+    "Fantasy",
+    "Fiction",
+    "Imaginary wars and battles",
+    "Garion (fictitious character), fiction",
+    "Fiction, fantasy, epic",
+    "Children's fiction",
+    "Fantasy fiction",
+    "Fiction, fantasy, general"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "The final book of the Belgariad.A magnificent epic set against a history of seven thousand years of the struggles of Gods and Kings and men - of strange lands and events - of fate and a prophecy that must be fulfilled!THE BELGARIADThe quest was over. The Orb of Aldur was restored. And once again, with the crowning of Garion, there was a descendant of Riva Iron-grip to rule as Overlord of the West.But the Prophecy was unfulfilled. In the east, the evil God Torak was about to awaken and seek dominion. Somehow, Garion had to face the God, to kill or be killed. On the outcome of that dread duel rested the destiny of the world. Now, accompanied by his grandfather, the ancient sorcerer Belgarath, Garion headed towards the City of Endless Night, where Torak awaited him.To the south, the Princess Ce'Nedra led the armies of the West in a desperate effort to divert the forces of Torak's followers from the man she loved.The Prophecy drove Garion on. But it gave no answer to the question that haunted him: How does a man kill an immortal God?THUS ENDS THE EPIC STORY OF THE BELGARIAD"
+  },
+  "dewey_number": [
+    "813/.54"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:34:37.946853"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T07:21:45.289108"
+  }
+}

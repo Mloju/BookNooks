@@ -1,0 +1,74 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "The Ballad of Never After",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7387659A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL27090610W",
+  "subjects": [
+    "young-adult",
+    "New York Times bestseller",
+    "Love",
+    "Blessing and Cursing",
+    "Magic",
+    "Fantasy fiction",
+    "Young adult fiction, fantasy, dark fantasy",
+    "Young adult fiction, fairy tales & folklore, general",
+    "Young adult fiction, fantasy, romance",
+    "Serie:Once_Upon_a_Broken_Heart",
+    "Fantasy",
+    "Fantasy Romance",
+    "Fiction",
+    "Romance",
+    "Romantasy",
+    "Young Adult",
+    "Young Adult Fantasy"
+  ],
+  "covers": [
+    12945180,
+    13709156
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "After the discovery of a murderous curse, Evangaline Fox once again enters into a tenuous partnership with Jacks, the Prince of Hearts, and to break the spell they go on a journey of magic, mystery, and possible heartbreak."
+  },
+  "identifiers": {
+    "librarything": [
+      "27466279"
+    ]
+  },
+  "subject_people": [
+    "Jacks",
+    "Evangeline Fox",
+    "Apollo Acadian",
+    "Ariel “LaLa” Lagrimas",
+    "Marisol Tourmaline",
+    "Luc Navarro"
+  ],
+  "subject_places": [
+    "The Magnificent North"
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL177T"
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-01-27T19:02:15.408991"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-26T14:13:42.804766"
+  }
+}

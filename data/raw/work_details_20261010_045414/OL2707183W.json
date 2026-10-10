@@ -1,0 +1,74 @@
+{
+  "title": "Assassin's Apprentice",
+  "covers": [
+    4915230,
+    372446,
+    8792707,
+    4915089,
+    4869,
+    369621,
+    10106362,
+    10957099,
+    8775134,
+    8781663,
+    10458048,
+    8761332,
+    8792062,
+    12327244,
+    13454118
+  ],
+  "first_publish_date": "January 2003",
+  "key": "/works/OL2707183W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL395837A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "A HISTORY OF THE SIX Duchies is of necessity a history of its ruling family, the Farseers."
+  },
+  "excerpts": [
+    {
+      "excerpt": "A HISTORY OF THE SIX Duchies is of necessity a history of its ruling family, the Farseers."
+    }
+  ],
+  "subjects": [
+    "Fiction, fantasy, general",
+    "Assassins",
+    "Fiction",
+    "The Realm of the Elderlings",
+    "The Farseer Trilogy",
+    "Fantasy",
+    "Fantasy fiction",
+    "Ke xue huan xiang xiao shuo",
+    "Fiction, fantasy, epic",
+    "Magic",
+    "Ability",
+    "Kings, queens, rulers",
+    "Fantastischer Roman",
+    "Amerikanisches Englisch"
+  ],
+  "description": "Young Fitz is the bastard son of the noble Prince Chivalry, raised in the shadow of the royal court by his father's gruff stableman.  He is treated like an outcast by all the royalty except the devious King Shrewd, who has him secretly tutored in the arts of the assassin.  For in Fitz's blood runs the magic Skill--and the darker knowledge of a child raised with the stable hounds and rejected by his family.  As barbarous raiders ravage the coasts, Fitz is growing to manhood.  Soon he will face his first dangerous, soul-shattering mission.  And though some regard him as a threat to the throne, he may just be the key to the survival of the kingdom.From the Paperback edition.",
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T00:16:15.409999"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-14T03:10:34.602488"
+  }
+}

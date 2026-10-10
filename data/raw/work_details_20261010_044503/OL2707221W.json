@@ -1,0 +1,48 @@
+{
+  "first_publish_date": "April 6, 1999",
+  "key": "/works/OL2707221W",
+  "title": "Mad Ship",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL395837A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    368046,
+    1180,
+    5010663,
+    10186186
+  ],
+  "subjects": [
+    "Sailing ships",
+    "Fiction",
+    "Pirates",
+    "Magic",
+    "Quests (Expeditions)",
+    "Fantasy",
+    "Fiction, fantasy, general",
+    "Fiction, fantasy, epic"
+  ],
+  "description": "In the second breathtaking volume of Robin Hobb's Liveship Traders trilogy, a new tide of glory and terror sweeps forward the story of the Vestrit clan, their liveship Vivacia, and all who strive to possess her.As the ancient tradition of Bingtown's Old Traders slowly erodes under the cold new order of a corrupt ruler, the Vestrits anxiously await the return of their liveship--a rare magic ship carved from sentient wizardwood, which bonds the ships mystically with those who sail them. And Althea Vestrit waits even more avidly, living only to reclaim the ship as her lost inheritance and captain her on the high seas. But the Vivacia has been seized by the ruthless pirate captain Kennit, who holds Althea's nephew and his father hostage. Althea and her onetime sea mate Brashen resolve to liberate the liveship--but their plan may prove more dangerous than leaving the Vivacia in Kennit's ambitious grasp....From the Paperback edition.",
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T00:16:15.409999"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-08T02:32:51.470850"
+  }
+}

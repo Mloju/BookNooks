@@ -1,0 +1,94 @@
+{
+  "first_publish_date": "1998",
+  "title": "The Path of Daggers",
+  "covers": [
+    182462,
+    1928011,
+    8291334,
+    1968379,
+    8573767,
+    8659252,
+    8662113,
+    10117298,
+    14096949,
+    14096950,
+    14119199,
+    14119200,
+    10094051,
+    12277322,
+    12316248,
+    12363996
+  ],
+  "lc_classifications": [
+    "PS3560.O7617 P38 1998"
+  ],
+  "key": "/works/OL1946687W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL233594A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fantasy fiction",
+    "Fiction",
+    "Imaginary wars and battles",
+    "Rand al'Thor (Fictitious character)",
+    "Science fiction",
+    "Fantasy",
+    "Fiction, fantasy, epic",
+    "Rand al'thor (fictitious character), fiction",
+    "series",
+    "dragon reborn",
+    "wheel of time",
+    "Fiction, fantasy, general",
+    "American Fantasy fiction",
+    "Rand Al'Thor (Fictitious character.)",
+    "American literature",
+    "Bibliography"
+  ],
+  "description": "From Publishers Weekly\r\nThe eighth book of Jordan's bestselling The Wheel of Time saga (A Crown of Swords, etc.) opens with a renewed invasion by the Seanchans, a conquering race whose arsenal includes man-carrying flying reptiles and enslaved female magic-workers as well as powerful soldiers, many of whom have joined the Seanchans out of fear of the Dragon Reborn. The Dragon himself, Rand al'Thor, appears in only a small part of the narrative, but during that time he endures the ugly experience of seeing his magic kill his friends, heightening his fear that his destiny is to slay everyone he cares about. The first third of the book is a little slower paced than is usual for Jordan, emphasizing the growth of relationships, but the action picks up soon enough. More compact than some previous volumes in the saga, this one has the virtues readers have come to expect from the author: meticulous world-building; deft use of multiple viewpoints; highly original and intelligent systems of magic; an admirable wit; and a continuous awareness of the fate of the turnip farmer or peddler caught in the path of the heroes' armies. Unlike some authors of megasagas, Jordan chooses his words with care, creating people and events that have earned him an enormous readership. For sheer imagination and storytelling skill, if not quite for mythic resonance, The Wheel of Time now rivals Tolkien's The Lord of the Rings.",
+  "subject_places": [
+    "illian",
+    "stone of tear",
+    "cairhien",
+    "shadar logoth",
+    "tar valon",
+    "mayene",
+    "shayol ghul"
+  ],
+  "subject_people": [
+    "aes sedai",
+    "perrin",
+    "rand al'thor",
+    "egwene",
+    "nynaeve",
+    "matt cauthon",
+    "aiel"
+  ],
+  "subtitle": "(The Wheel of Time, Book 8)",
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:36:42.564748"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T10:25:14.211168"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Gardens of the Moon",
+  "covers": [
+    374277,
+    525196,
+    524437,
+    6304201,
+    6601060,
+    6806209,
+    9552848,
+    10543183,
+    6304091,
+    1006091,
+    8635399,
+    8770831,
+    10543108
+  ],
+  "key": "/works/OL5734756W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394250A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "The opening chapter in an epic fantasy masterpiece....Bled dry by interminable warfare, infighting and bloody confrontations with Lord Anomander Rake and his Tiste Andii, the vast, sprawling Malazan empire simmers with discontent.Even its imperial legions yearn for some respite. For Sergeant Whiskeyjack and his Bridgeburners and for Tattersail, sole surviving sorceress of the Second Legion, the aftermath of the siege of Pale should have been a time to mourn the dead. But Darujhistan, last of the Free Cities of Genabackis, still holds out - and Empress Lasseen's ambition knows no bounds. However, it seems the empire is not alone in this great game. Sinister forces gather as the gods themselves prepare to play their hand... Conceived and written on an epic scale, Gardens of the Moon is a breathtaking achievement - a novel in which grand design, a dark and complex mythology, wild and wayward magic and a host of enduring characters combine with thrilling, powerful storytelling to resounding effect. Acclaimed by writers, critics and readers alike, here is the opening chapter in what has been hailed a landmark of epic fantasy: the awesome 'The Malazan Book of the Fallen'.",
+  "subjects": [
+    "Fantasy",
+    "Fiction",
+    "Prophets",
+    "Battles",
+    "Imaginary places",
+    "Fiction, fantasy, general",
+    "Geographical myths",
+    "Literature & Fiction",
+    "Science Fiction & Fantasy -- Authors, A-Z -- ( E ) -- Erikson, Steven",
+    "Science Fiction & Fantasy -- Fantasy -- Epic",
+    "malazan",
+    "sorcery",
+    "dragons",
+    "empire",
+    "epic",
+    "Fiction, fantasy, epic",
+    "series:Malazan Book of the Fallen"
+  ],
+  "subject_times": [
+    "fictional"
+  ],
+  "identifiers": {
+    "bookbrainz": [
+      "cdbfd345-501e-4a13-bcbc-5f1d34fca965"
+    ],
+    "musicbrainz": [
+      "01649990-d1ba-4cab-bed1-48fb510c51c3"
+    ],
+    "wikidata": [
+      "Q441055"
+    ]
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:10:48.256984"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T14:45:36.692814"
+  }
+}

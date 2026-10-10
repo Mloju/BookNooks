@@ -1,0 +1,61 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Once Upon a Broken Heart",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7387659A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "covers": [
+    11427092,
+    12528320,
+    -1
+  ],
+  "key": "/works/OL24706481W",
+  "subjects": [
+    "Children's fiction",
+    "nyt:young-adult-hardcover=2021-10-17",
+    "New York Times bestseller",
+    "American literature",
+    "Series:Once_Upon_a_Broken_Heart",
+    "Fantasy",
+    "Fantasy fiction",
+    "Fantasy Romance",
+    "Fiction",
+    "Magic",
+    "Romance",
+    "Romantasy",
+    "Serie:Once_Upon_a_Broken_Heart",
+    "Young Adult",
+    "Young Adult Fantasy"
+  ],
+  "description": "***How far would you go for happily ever after?***\r\n\r\nFor as long as she can remember, Evangeline Fox has believed in true love and happy endings... until she learns that the love of her life will marry another.\r\n\r\nDesperate to stop the wedding and to heal her wounded heart, Evangeline strikes a deal with the charismatic but wicked Prince of Hearts. In exchange for his help, he asks for three kisses, to be given at the time and place of his choosing.\r\n\r\nBut after Evangeline's first promised kiss, she learns that bargaining with an immortal is a dangerous game―and that the Prince of Hearts wants far more from her than she'd pledged. He has plans for Evangeline, plans that will either end in the greatest happily ever after or the most exquisite tragedy...",
+  "subject_people": [
+    "Jacks",
+    "Evangeline Fox",
+    "Apollo Acadian",
+    "Ariel “LaLa” Lagrimas",
+    "Marisol Tourmaline",
+    "Luc Navarro"
+  ],
+  "subject_places": [
+    "The Magnificent North"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-07-14T14:06:45.674685"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-13T11:39:16.764781"
+  }
+}

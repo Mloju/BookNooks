@@ -1,0 +1,19 @@
+{
+  "collection_date_utc": "2026-10-10T04:43:44.145842+00:00",
+  "source": "Open Library API",
+  "query": "subject:fantasy",
+  "requested_sample_size": 10,
+  "total_records_collected": 10,
+  "description_word_threshold": 50,
+  "usable_descriptions": 9,
+  "usable_descriptions_percent": 90.0,
+  "records_with_genres": 10,
+  "records_with_genres_percent": 100.0,
+  "records_with_mood_derivable": 9,
+  "records_with_mood_derivable_percent": 90.0,
+  "records_with_all_three": 9,
+  "records_with_all_three_percent": 90.0,
+  "note": "Mood availability means a description meets the word threshold. Mood tags have not yet been generated or validated by human review.",
+  "raw_search_file": "data/raw/search_20261010_044344.json",
+  "processed_csv": "data/processed/books_sample_20261010_044344.csv"
+}

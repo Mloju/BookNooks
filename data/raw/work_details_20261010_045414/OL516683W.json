@@ -1,0 +1,62 @@
+{
+  "title": "Sojourn",
+  "covers": [
+    1005943,
+    960483,
+    7236576,
+    6952575,
+    960474,
+    10534948,
+    11727270,
+    10852309,
+    14302061,
+    1005946,
+    1005945,
+    979334,
+    14119103,
+    14119104
+  ],
+  "key": "/works/OL516683W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL35996A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "Now in paperback, the third installment in the classic tales of the Legend of Drizzt. When a lone drow emerges from the Underdark into the blinding light of day, the Forgotten Realms world will be changed forever.From the Paperback edition.",
+  "subject_places": [
+    "Forgotten Realms (Imaginary place)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Fantasy",
+    "Fiction, fantasy, general",
+    "Fiction, fantasy, epic",
+    "Comics & graphic novels, fantasy, general",
+    "Dungeons & Dragons Novel",
+    "collection:Forgotten Realms"
+  ],
+  "subject_people": [
+    "Drizzt Do'Urden (Fictitious character)"
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T04:16:23.271204"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T05:11:32.328637"
+  }
+}

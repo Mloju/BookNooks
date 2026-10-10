@@ -1,0 +1,76 @@
+{
+  "description": "The bonds and wards that hold the Great Lord of the Dark are slowly failing, but still his fragile prison holds. The Forsaken, immortal servants of the shadow, weave their snares and tighten their grip upon the realms of men, sure in the knowledge that their master will soon break free...\r\nRand al' Thor, the Dragon Reborn, knows that he must strike at the Enemy, but his forces are divided by treachery and by ambition. Even the Aes Sedai, ancient guardians of the Light, are riven by civil war. Betrayed by his allies, pursued by his enemies and beset by the madness that comes to the male wielders of the One Power, Rand rides out to meet the foe.",
+  "covers": [
+    603821,
+    182397,
+    4637484,
+    9361023,
+    908835,
+    2950241,
+    8407749,
+    8515832,
+    10293439,
+    12388107,
+    12507718,
+    13123995,
+    14096958,
+    14096959,
+    8457317
+  ],
+  "key": "/works/OL7924172W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL233594A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Fires of Heaven",
+  "subjects": [
+    "Fantasy",
+    "Fiction, fantasy, epic",
+    "Rand al'thor (fictitious character), fiction",
+    "Fantasy fiction",
+    "Rand al'Thor (Fictitious character)",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "American literature",
+    "Fiction, science fiction, general"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "first_publish_date": "1993",
+  "lc_classifications": [
+    "PS3560.O7617 F57 1993"
+  ],
+  "subtitle": "(The Wheel of Time, Book 5)",
+  "identifiers": {
+    "bookbrainz": [
+      "21954e44-4a02-43fd-9bce-cacc6060f261"
+    ],
+    "musicbrainz": [
+      "8a704137-ae2b-4c26-bfdb-5e2c40c3c064"
+    ],
+    "wikidata": [
+      "Q2308541"
+    ]
+  },
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:13:35.559002"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-08T02:11:25.367064"
+  }
+}

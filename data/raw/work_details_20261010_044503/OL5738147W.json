@@ -1,0 +1,105 @@
+{
+  "description": "Elantris: gigantic, beautiful, radiant-----filled with powerful individuals who use their magical abilities to benefit all the people of Arelon. Yet each of these godlike beings was once an ordinary person until touched by the mysterious transforming power of Shaod. Then, ten years ago, without warning, the magic failed. Elantrians became wizened, feeble, leper-like creatures, and Elantris itself dark, filthy, and crumbling. The Shaod became a curse.\r\n\r\nArelon's new capital city, Kae, crouches in the shadow of Elantris, which its people do their best to ignore. Princess Sarene of Teod has come to Kae for a marriage of state with Crown Prince Raoden, hoping also to find love. Sarene learns instead that Raoden has died, and she is considered his widow.\r\n\r\nBoth Teod and Arelon are under threat from the imperial ambitions of Fjordell, a city filled with ruthless religious fanatics, and whose high priest, Hrathen, intends to convert Arelon and claim it for his emperor and his god. Now Sarene alone stands in his way.\r\n\r\nBut neither Sarene nor Hrathen suspects the truth about Prince Raoden's disappearance. Taken by the same strange malady that felled the gods of Elantris, Raoden was secretly imprisoned within the dark city. His struggle to create a society for the wretches trapped there begins a series of events that will bring hope to Arelon, and reveal the secret of Elantris itself.\r\n\r\n-- From the hardback inside cover",
+  "title": "Elantris",
+  "covers": [
+    14658083,
+    12316376,
+    6640742,
+    524533,
+    7443081,
+    8452698,
+    8573069,
+    9089037,
+    10293545,
+    10605453,
+    12043502,
+    12315957,
+    12535361,
+    10291190,
+    10293442,
+    10293443,
+    8420716,
+    12850582,
+    13940611
+  ],
+  "subject_places": [
+    "Elantris",
+    "Arelon",
+    "Kae",
+    "Teod",
+    "Fjordell"
+  ],
+  "subjects": [
+    "Princes",
+    "Blessing and cursing",
+    "Fiction",
+    "Princesses",
+    "City and town life",
+    "Fiction, fantasy, epic",
+    "FICTION / Fantasy / Epic",
+    "Fantasy fiction",
+    "Fiction, fantasy, general",
+    "Bénédiction et malédiction",
+    "Romans, nouvelles",
+    "Vie urbaine",
+    "Fantasy",
+    "Epic",
+    "Klątwa",
+    "Wojna"
+  ],
+  "subject_people": [
+    "Prince Raoden",
+    "Princess Sarene",
+    "Hrathen",
+    "Galladon",
+    "Kiin"
+  ],
+  "key": "/works/OL5738147W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394865A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "location": "/works/OL15420038W",
+  "identifiers": {
+    "bookbrainz": [
+      "8dd4dc9c-1dc2-490d-b5a0-d62196ebffee"
+    ],
+    "musicbrainz": [
+      "4d9329e5-12d2-49eb-8ba3-449269accfbf"
+    ],
+    "wikidata": [
+      "Q2464217"
+    ]
+  },
+  "links": [
+    {
+      "title": "\"Taverna dos Livros\" Review",
+      "url": "https://tavernadoslivros.com.br/resenha-do-livro-elantris-analise-da-fantasia-que-iniciou-o-cosmere",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:11:21.289926"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T10:28:56.098107"
+  }
+}

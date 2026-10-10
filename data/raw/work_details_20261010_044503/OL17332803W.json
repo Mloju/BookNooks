@@ -1,0 +1,109 @@
+{
+  "description": "STEP INTO A UNIVERSE OF DARING ADVENTURE, THRILLING POWER, AND MULTIPLE LONDONS.\r\n\r\nKell is one of the last travelers--magicians with a rare, coveted ability to travel between parallel universes connected by one magic city.\r\n\r\nThere's Grey London, dirty and boring, without any magic, and with one mad king--George III. Red London, where life and magic are revered--and where Kell was raised alongside Rhy Maresh, the roguish heir to a flourishing empire. White London--a place where people fight to control magic and the magic fights back, draining the city to its very bones. And once upon a time, there was Black London. But no one speaks of that now.\r\n\r\nOfficially, Kell is the Red Traveler, ambassador of the Maresh Empire, carrying the monthly correspondences between the royals of each London. Unofficially, Kell is a smuggler, servicing people willing to pay for even the smallest glimpses of a world they'll never see. It's a defiant hobby with dangerous consequences, which Kell is now seeing firsthand.\r\n\r\nFleeing into Grey London, Kell runs into Delilah Bard, a cutpurse with lofty aspirations. She first robs him, then saves him from a deadly enemy, and finally forces Kell to spirit  her to another world for a proper adventure.\r\n\r\nNow perilous magic is afoot, and treachery lurks at every turn. To save all of the worlds, they'll first need to stay alive.\r\n\r\nThis description comes from the publisher. *A Darker Shade of Magic* is the first book of the Shades of Magic trilogy.",
+  "covers": [
+    7410930,
+    8790707,
+    9157270,
+    10514985,
+    14286621,
+    14286622,
+    14286623,
+    14286624,
+    13700441,
+    8754323,
+    12219376
+  ],
+  "key": "/works/OL17332803W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6979295A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "A Darker Shade of Magic",
+  "subjects": [
+    "Quantum theory",
+    "Magic",
+    "FICTION / Fantasy / Historical",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "London (England) - Fiction",
+    "Magic - Fiction",
+    "Witches and warlocks - Fiction",
+    "Fantasy",
+    "Quantum theory - Fiction",
+    "London (england), fiction",
+    "Magic -- Fiction",
+    "Smugglers -- Fiction",
+    "Pickpockets -- Fiction",
+    "Quantum theory -- Fiction",
+    "Space and time -- Fiction",
+    "Contrebandiers -- Romans, nouvelles, etc",
+    "Pickpockets -- Romans, nouvelles, etc",
+    "Théorie quantique -- Romans, nouvelles, etc",
+    "FICTION / Fantasy / Action & Adventure",
+    "FICTION / Fantasy / Gaslamp",
+    "Pickpockets",
+    "Smugglers",
+    "Space and time",
+    "London (England) -- Fiction",
+    "England -- London",
+    "Fiction, science fiction, general",
+    "Fiction, romance, fantasy",
+    "Fantasy & Magic",
+    "Blood & magic",
+    "Parallel worlds",
+    "Magic, fiction",
+    "Juvenile Fiction / Science Fiction, Fantasy, Magic",
+    "Young adult fiction",
+    "Young Adult",
+    "Adult",
+    "Adventure",
+    "Historical Fiction",
+    "Urban Fantasy",
+    "Young Adult Fantasy"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "identifiers": {
+    "librarything": [
+      "15027597"
+    ]
+  },
+  "subject_people": [
+    "George III of Britain and Ireland",
+    "Kell Maresh",
+    "Rhy Maresh",
+    "Holland Vosijk",
+    "Maxim Maresh",
+    "Emira Maresh",
+    "Astrid Dane",
+    "Athos Dane",
+    "Tieren Serense",
+    "Delilah \"Lila\" Bard"
+  ],
+  "subject_places": [
+    "London (England)"
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T",
+    "/tags/OL164T",
+    "/tags/OL170T"
+  ],
+  "latest_revision": 26,
+  "revision": 26,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-04-12T15:32:29.747514"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-14T04:29:38.516460"
+  }
+}

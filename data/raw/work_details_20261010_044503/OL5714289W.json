@@ -1,0 +1,68 @@
+{
+  "description": "Fire Alone Can Save Our Clan... \r\n\r\nFireheart is a ThunderClan warrior cat now, but danger still lurks in the forest - and possibly closer than he thinks. With the chill of winter setting in, the cats of rival RiverClan are growing restless, while WindClan turns weak and faces threats from all sides. \r\n\r\nAs tensions build up to an explosive climax, Fireheart faces not only imminent battle, but betrayal from within his own Clan.\r\n\r\n----------\r\n**Books in this arc**\r\n\r\n 1. [Into the Wild][1]\r\n 2. Fire and Ice\r\n 3. [Forest of Secrets][3]\r\n 4. [Rising Storm][4]\r\n 5. [A Dangerous Path][5]\r\n 6. [The Darkest Hour][6]",
+  "covers": [
+    27365,
+    9391485,
+    10828007,
+    10408678,
+    9282715,
+    12007460,
+    12219572
+  ],
+  "key": "/works/OL5714289W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1389873A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Fire and Ice",
+  "subjects": [
+    "Cats",
+    "Fantasy",
+    "Fantasy Fiction",
+    "Feral Cats",
+    "Fiction",
+    "Juvenile Fiction",
+    "Children's fiction",
+    "Cats, fiction",
+    "Young adult fiction",
+    "Animals",
+    "Action & Adventure",
+    "Fantasy & Magic",
+    "series:warriors_the_prophecies_begin",
+    "Adventure and adventurers, fiction",
+    "Fantasy fiction",
+    "Friendship, fiction",
+    "Family, fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL332691L"
+      },
+      "position": "2"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 43,
+  "revision": 43,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:08:02.498184"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-07T15:40:03.766786"
+  }
+}

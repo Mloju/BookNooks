@@ -1,0 +1,67 @@
+{
+  "description": "Sophie is settling in nicely to her new home and her new life in the world of the lost cities. And it helps that living at Havenfield means getting to spend time with rare, precious species—including the first female Alicorn, who shows herself to Sophie and trusts no one but her.\r\n\r\nSophie is tasked with helping to train the magical creature so that the Alicorn can be revealed to the people of the lost cities as a sign of hope, and Sophie wants to believe that the recent drama and anguish is gone for good.\r\n\r\nBut the secrets buried deep in Sophie’s memories remain, and before long before she’s back in incredible danger, risking everything to find the answers to questions that could save not only her life, but the life of someone close to her…\r\n\r\n[Also at archive.org here: https://archive.org/details/exile0000mess]",
+  "covers": [
+    12812591,
+    7984633,
+    8574458,
+    12518626
+  ],
+  "key": "/works/OL17710016W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7051946A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Exile",
+  "subjects": [
+    "Fantasy",
+    "Psychic ability",
+    "Ability",
+    "Memory",
+    "Juvenile fiction",
+    "Elves",
+    "Fiction",
+    "Children's fiction",
+    "Fairies, fiction",
+    "Fantasy fiction",
+    "Parapsychology, fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "Archive.org 14-day Borrow",
+      "url": "https://archive.org/details/exile0000mess",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL330866L"
+      },
+      "position": "2"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-05-07T04:47:23.808310"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T12:25:57.427902"
+  }
+}

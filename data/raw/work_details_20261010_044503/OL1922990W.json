@@ -1,0 +1,84 @@
+{
+  "first_publish_date": "September 1, 1992",
+  "key": "/works/OL1922990W",
+  "title": "Pawn of Prophecy",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL230514A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    1000455,
+    366639,
+    207286,
+    2404642,
+    211381,
+    8111546,
+    366039,
+    4988790,
+    12050284
+  ],
+  "description": "The first book of the Belgariad.A magnificent epic set against a history of seven thousand years of the struggles of Gods and Kings and men - of strange lands and events - of fate and a prophecy that must be fulfilled!THE BELGARIADLong ago, so the Storyteller claimed, the evil God Torak sought dominion and drove men and Gods to war. But Belgarath the Sorcerer led men to reclaim the Orb that protected men of the West. So long as it lay at Riva, the prophecy went, men would be safe.But that was only a story, and Garion did not believe in magic dooms, even though the dark man without a shadow had haunted him for years.Brought up on a quiet farm by his Aunt Pol, how could he know that the Apostate planned to wake dread Torak, or that he would be led on a quest of unparalleled magic and danger by those he loved - but did not know?For a while his dreams of innocence were safe, untroubled by knowledge of his strange heritage. For a little while...THUS BEGINS BOOK ONE OF THE BELGARIAD",
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "THE FIRST THING the boy Garion remembered was the kitchen at Faldor's farm."
+  },
+  "subjects": [
+    "Fiction",
+    "Literature",
+    "High fantasy",
+    "Buildungsroman",
+    "Fantasy fiction",
+    "Juvenile fiction",
+    "Magic",
+    "Heroes",
+    "Good and evil",
+    "Garion (fictitious character), fiction",
+    "Fiction, fantasy, epic",
+    "Fiction, fantasy, general"
+  ],
+  "lc_classifications": [
+    "PS3555.D38 P39 2004"
+  ],
+  "links": [
+    {
+      "title": "Description of plot on Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Belgariad#Pawn_of_Prophecy",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "Sendaria",
+    "Cherek"
+  ],
+  "subject_people": [
+    "David Eddings"
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "genres": [
+    "/tags/OL174T",
+    "/tags/OL169T"
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:34:37.946853"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T09:11:24.917740"
+  }
+}

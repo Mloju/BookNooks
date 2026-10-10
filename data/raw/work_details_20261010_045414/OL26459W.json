@@ -1,0 +1,69 @@
+{
+  "title": "The Last Unicorn",
+  "covers": [
+    294651,
+    5539316,
+    8776761
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The unicorn lived in a lilac wood, and she lived all alone."
+  },
+  "first_publish_date": "1900",
+  "key": "/works/OL26459W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26165A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "The unicorn lived in a lilac wood, and she lived all alone."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Unicorns",
+    "Fiction",
+    "Legends and stories",
+    "Juvenile literature",
+    "American Fantasy fiction",
+    "Large type books",
+    "Fiction, fantasy, general",
+    "Fantasy fiction",
+    "Fiction, general",
+    "Fiction, science fiction, general",
+    "American literature",
+    "Comics & graphic novels, fantasy, general",
+    "Unicornios",
+    "Novelas"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "*The unicorn lived in a lilac wood, and she lived all alone…*\r\n\r\n …so she ventured out from the safety of the enchanted forest on a quest for others of her kind. Joined along the way by the bumbling magician Schmendrick and the indomitable Molly Grue, the unicorn learns all about the joys and sorrows of life and love before meeting her destiny in the castle of a despondent monarch—and confronting the creature that would drive her kind to extinction....\r\n\r\nIn *The Last Unicorn*, renowned and beloved novelist Peter S. Beagle spins a poignant tale of love, loss, and wonder that has resonated with millions of readers around the world."
+  },
+  "dewey_number": [
+    "823/.9/1"
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 26,
+  "revision": 26,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-12T22:31:17.033421"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T09:21:13.526643"
+  }
+}

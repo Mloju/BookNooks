@@ -1,0 +1,76 @@
+{
+  "description": "Celaena has survived deadly contests and shattering heartbreak-but at an unspeakable cost. Now, she must travel to a new land to confront her darkest truth…a truth about her heritage that could change her life-and her future-forever. Meanwhile, brutal and monstrous forces are gathering on the horizon, intent on enslaving her world. Will Celaena find the strength to not only fight her inner demons, but to take on the evil that is about to be unleashed?",
+  "covers": [
+    9318480,
+    7445535,
+    7994584,
+    12450015,
+    10841442,
+    12447632,
+    10851449,
+    11968844,
+    12325101,
+    12202531,
+    13573137,
+    13831572,
+    13802396
+  ],
+  "key": "/works/OL17367560W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7115219A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Heir of Fire",
+  "subjects": [
+    "Magic",
+    "YA",
+    "High Fantasy",
+    "Fiction",
+    "Romance",
+    "Fantasy",
+    "Court",
+    "Assassins",
+    "Identity",
+    "Identity (Psychology)",
+    "Children's fiction",
+    "Kings, queens, rulers, etc., fiction",
+    "Criminals, fiction",
+    "Identity, fiction",
+    "Fantasy fiction",
+    "Young adult fiction",
+    "[series:Throne_of_Glass]",
+    "Young Adult",
+    "Female assassins"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL334582L"
+      },
+      "position": "3"
+    }
+  ],
+  "genres": [
+    "/tags/OL177T",
+    "/tags/OL169T"
+  ],
+  "latest_revision": 24,
+  "revision": 24,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-09-15T06:59:32.449155"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T14:23:07.839965"
+  }
+}

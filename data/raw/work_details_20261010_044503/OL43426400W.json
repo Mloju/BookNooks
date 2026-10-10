@@ -1,0 +1,72 @@
+{
+  "title": "Sunrise on the Reaping",
+  "key": "/works/OL43426400W",
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "As the day dawns on the fiftieth annual Hunger Games, fear grips the districts of Panem. This year, in honor of the Quarter Quell, twice as many tributes will be taken from their homes.\r\n\r\nBack in District 12, Haymitch Abernathy is trying not to think too hard about his chances. All he cares about is making it through the day and being with the girl he loves.\r\n\r\nWhen Haymitch's name is called, he can feel all his dreams break. He's torn from his family and his love, shuttled to the Capitol with the three other District 12 tributes: a young friend who's nearly a sister to him, a compulsive oddsmaker, and the most stuck-up girl in town. As the Games begin, Haymitch understands he's been set up to fail. But there's something in him that wants to fight . . . and have that fight reverberate far beyond the deadly arena."
+  },
+  "subjects": [
+    "Dystopia",
+    "Young Adult",
+    "Fantasy",
+    "Fiction",
+    "Science Fiction",
+    "Romance",
+    "Adventure",
+    "Science Fiction Fantasy",
+    "Juegos del hambre",
+    "Serie:The_Hunger_Games"
+  ],
+  "subject_people": [
+    "Effie Trinket",
+    "Haymitch Abernathy",
+    "Caesar Flickerman",
+    "Beetee Latier",
+    "Wiress",
+    "Mags Flanagan",
+    "Panache Barker",
+    "Silka Sharp",
+    "Wyatt Callow",
+    "Maysilee Donner",
+    "Louella McCoy",
+    "Ampert Latier",
+    "Lenore Dove Baird",
+    "Willamae Abernathy",
+    "Sid Abernathy",
+    "Drusilla Sickle",
+    "Woodbine Chance",
+    "Merrilee Undersee",
+    "Asterid March",
+    "Coriolanus Snow",
+    "Plutarch Heavensbee"
+  ],
+  "subject_places": [
+    "Panem"
+  ],
+  "subject_times": [
+    "Futuro distopico"
+  ],
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394359A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-05-21T18:57:22.340086"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-26T20:08:49.616228"
+  }
+}

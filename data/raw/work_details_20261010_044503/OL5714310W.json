@@ -1,0 +1,65 @@
+{
+  "description": "Fire Alone Can Save Our Clan... \r\nThunderClan's darkest hour is upon them, as Tigerstar's quest for power plunges the forest into terrible danger. In order to save the clans, Firestar must uncover the meaning of a very confusing prophecy from StarClan, \"Four will become two. Lion and tiger will meet in battle, and blood will rule the forest.\" \r\nThe time has come for prophecies to unfold, and for heroes to rise...\r\n\r\n----------\r\n**Books in this arc**\r\n\r\n 1. [Into the Wild][1]\r\n 2. [Fire and Ice][2]\r\n 3. [Forest of Secrets][3]\r\n 4. [Rising Storm][4]\r\n 5. [A Dangerous Path][5]\r\n 6. The Darkest Hour\r\n\r\n  [1]: https://openlibrary.org/works/OL5714317W\r\n  [2]: https://openlibrary.org/works/OL5714289W\r\n  [3]: https://openlibrary.org/works/OL5714292W\r\n  [4]: https://openlibrary.org/works/OL5714301W\r\n  [5]: https://openlibrary.org/works/OL5714284W\r\n\r\n----------\r\n**Arcs in this series**\r\n\r\n 1. The Prophecies Begin\r\n 2. [The New Prophecy][b]\r\n 3. [The Power of Three][c]\r\n 4. [Omen of the Stars][d]\r\n 5. [Dawn of the Clans][e]\r\n 6. [A Vision of Shadows][f]\r\n 7. [The Broken Code][g]\r\n 8. [A Starless Clan][h]\r\n S. [Super Editions][s]\r\n\r\n  [a]: https://openlibrary.org/books/OL9228970M/INTO\r\n  [b]: https://openlibrary.org/books/OL9235572M/Midnight_(Warriors_The_New_Prophecy_Book_1)\r\n  [c]: https://openlibrary.org/books/OL7283723M/The_Sight_(Warriors_Power_of_Three_Book_1)\r\n  [d]: https://openlibrary.org/books/OL24084711M/Warriors_Omen_of_the_Stars_1\r\n  [e]: https://openlibrary.org/books/OL25995097M/Dawn_of_the_Clans\r\n  [f]: https://openlibrary.org/books/OL26884472M/The_apprentice's_quest\r\n  [g]: https://openlibrary.org/books/OL27958224M/Warriors_The_Broken_Code_1\r\n  [h]: https://openlibrary.org/books/OL32444897M/River/\r\n  [s]: https://openlibrary.org/books/OL7288445M/Firestar's_Quest",
+  "covers": [
+    8761300,
+    6484476,
+    10675412,
+    12219573
+  ],
+  "key": "/works/OL5714310W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1389873A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Darkest Hour",
+  "subjects": [
+    "Cats",
+    "Fantasy",
+    "Fantasy Fiction",
+    "Feral Cats",
+    "Fiction",
+    "Juvenile Fiction",
+    "JUVENILE FICTION / Animals / Cats",
+    "JUVENILE FICTION / Action & Adventure / General",
+    "JUVENILE FICTION / Fantasy & Magic",
+    "Children's fantasy fiction",
+    "Children's fiction",
+    "Cats, fiction",
+    "series:warriors_the_prophecies_begin",
+    "Adventure and adventurers, fiction",
+    "Fantasy fiction",
+    "Friendship, fiction",
+    "Family, fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL332691L"
+      },
+      "position": "6"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 41,
+  "revision": 41,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:08:02.498184"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T21:40:06.765593"
+  }
+}

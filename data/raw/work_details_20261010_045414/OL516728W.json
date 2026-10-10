@@ -1,0 +1,139 @@
+{
+  "title": "The Crystal Shard",
+  "covers": [
+    1048109,
+    6621650,
+    676944,
+    10299903,
+    8639024,
+    2127174,
+    12227087,
+    8639025,
+    14096300,
+    14119100
+  ],
+  "key": "/works/OL516728W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL35996A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "Isolated in the barren stretches of Icewind Dale the villages of Ten-Towns come under attack by a tribe of barbarians. In the midst of battle a young barbarian named Wulfgar ends up owing five years of his life to a grizzled dwarf. With the help of Drizzt, a renegade dark elf, the dwarf strives to mold the barbarian into a warrior with both brawn and brains.\r\n\r\nMeanwhile, there is no peace for the people of Ten-Towns. The fractioned tribes of barbarians continue to pose a threat, and Wulfgar may be the only person who can avert a deadly battle. But an even more dire menace appears when a weak-willed apprentice mage stumbles upon a magical crystal shard. The evil shard directs the hapless mage onto a course of destruction that all of Icewind Dale may be powerless to stop.\r\n\r\n*from the paperback*\r\n\r\n\r\n----------\r\n\r\n\r\n**This work is in the following series:**\r\n \r\n - Forgotten Realms\r\n - The Legend Of Drizzt | Book 4\r\n - Icewind Dale Trilogy| Book 1\r\n\r\n----------\r\n\r\n**This work is in the following collections:** \r\n\r\n - [The Icewind Dale Trilogy][1]\r\n - [The Legend of Drizzt Collector's Edition, Book II][2]\r\n\r\n*See also the [Graphic Novel Adaptation][3] of this work*\r\n\r\n----------\r\n\r\n**The following ebook links were found elsewhere online:**\r\n- http://ten-towns.narod.ru/library/fr_iwd_1.pdf\r\n\r\n  [1]: http://openlibrary.org/works/OL516718W/The_Icewind_Dale_Trilogy\r\n  [2]: http://openlibrary.org/works/OL14960754W/The_Legend_of_Drizzt_Collector%27s_Edition_Book_II\r\n  [3]: http://openlibrary.org/works/OL15333836W/The_Crystal_Shard",
+  "links": [
+    {
+      "title": "Shelfari entry of The Crystal Shard",
+      "url": "http://www.shelfari.com/books/26447",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Graphic Novel Adaptation",
+      "url": "http://openlibrary.org/books/OL8811098M/The_Crystal_Shard",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Publisher's Listing || Includes sample chapter",
+      "url": "http://www.wizards.com/default.asp?x=products/frnovel/176770000",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "Icewind Dale",
+    "Ten Towns",
+    "The Spine of the World",
+    "Kelvin's Cairn",
+    "Bryn Shander",
+    "Easthaven",
+    "Good Mead",
+    "Dougan's Hole",
+    "Targos",
+    "Bremen",
+    "Termalain",
+    "Lonelywood",
+    "Caer -Dineval",
+    "Caer-Konig",
+    "Maer Dualdon",
+    "Lac Dinneshere",
+    "Redwaters",
+    "Menzoberranzan",
+    "Forgotten Realms (imaginary place)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Dungeons & Dragons Novel",
+    "Epic",
+    "Elves",
+    "goblins",
+    "Fantasy",
+    "american fantasy",
+    "dwarfs",
+    "american fiction",
+    "war",
+    "Open Library Staff Picks",
+    "sorcery",
+    "american authors",
+    "adventure",
+    "Magical thinking",
+    "magic",
+    "drow",
+    "orcs",
+    "Epic Fantasy",
+    "Wizards",
+    "Epic fiction",
+    "Artemis Entrei (Fictitious character)",
+    "Fiction, fantasy, general",
+    "Comics & graphic novels, fantasy",
+    "Kings and rulers",
+    "Comics & graphic novels, fantasy, general",
+    "collection:Forgotten Realms",
+    "Dwarfs (Persons)",
+    "Forgotten realms (Imaginary place)"
+  ],
+  "subject_people": [
+    "Drizzt Do'Urden (Fictitious character)",
+    "Wulfgar",
+    "Bruenor Battlehammer",
+    "Regis",
+    "Errtu",
+    "Akar Kessell",
+    "Cattie Brie",
+    "Heafstaag",
+    "Cassius",
+    "Kemp"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "When the wizards' caravan from the Hosttower of the Arcane saw the snow-capped peak of Kelvin's Cairn rising from the flat horizon, they were more than a little relieved.",
+      "author": {
+        "key": "/people/jakeges"
+      }
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T04:16:23.271204"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T06:46:54.931824"
+  }
+}

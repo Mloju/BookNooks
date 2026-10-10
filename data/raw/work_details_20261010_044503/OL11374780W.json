@@ -1,0 +1,54 @@
+{
+  "subtitle": "the prequel to the Belgariad",
+  "description": {
+    "type": "/type/text",
+    "value": "Here is the full epic story of Belgarath, the great sorcerer learned in the Will and the Word on whom the fate of the world depends. Only Belgarath can tell of those near-forgotten times when Gods still walked the land: he is the Ancient One, the Old Wolf, his God Aldur's first and most-favoured disciple. Using powers learned over the centuries Belgarath himself records the story of conflict between two mortally opposed Destinies that split the world asunder. A hugely entertaining work of great daring, wit, grandeur and excitement that confirms the role of Belgarath the Sorcerer as one of the mightiest fantasy creations of the century."
+  },
+  "title": "Belgarath the sorcerer",
+  "covers": [
+    6461802,
+    6618025
+  ],
+  "subjects": [
+    "Fantasy",
+    "Fiction",
+    "American Fantasy fiction",
+    "Wizards",
+    "Magic",
+    "Fantasy fiction",
+    "Fiction, fantasy, general",
+    "Economic conditions",
+    "Economic policy"
+  ],
+  "subject_people": [
+    "Belgarath",
+    "Polgara"
+  ],
+  "key": "/works/OL11374780W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL230514A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 24,
+  "revision": 24,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-11T04:32:03.301338"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T14:44:50.622963"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "subjects": [
+    "Fantasy fiction.",
+    "American literature",
+    "Fiction, fantasy, general"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "In a sprawling mansion filled with peculiar treasures, January Scaller is a curiosity herself. As the ward of the wealthy Mr. Locke, she feels little different from the artifacts that decorate the halls: carefully maintained, largely ignored, and utterly out of place.\r\n\r\nThe she finds a strange book. A book that carries the scent of other worlds, and tells a tale of secret doors, of love, adventure, and danger. Each page turn reveals impossible truths about the world, and January discovers a story increasingly entwined with her own.\r\n\r\nThis description comes from the publisher."
+  },
+  "key": "/works/OL20074045W",
+  "title": "The Ten Thousand Doors of January",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7617622A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8753949,
+    8953430,
+    12528347,
+    10584290,
+    12024288
+  ],
+  "genres": [
+    "/tags/OL169T"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-08-01T01:16:06.288281"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T13:41:07.867891"
+  }
+}

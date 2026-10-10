@@ -1,0 +1,39 @@
+{
+  "title": "Powerless",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL11086929A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL34774028W",
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, fantasy, general",
+    "Fiction, romance, general",
+    "Fiction, general"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Only the extraordinary belong in the kingdom of Ilya—the exceptional, the empowered, the Elites.\r\n\r\nThe powers these Elites have possessed for decades were graciously gifted to them by the Plague, though not all were fortunate enough to both survive the sickness and reap the reward. Those born Ordinary are just that—ordinary. And when the king decreed that all Ordinaries be banished in order to preserve his Elite society, lacking an ability suddenly became a crime—making Paedyn Gray a felon by fate and a thief by necessity.\r\n\r\nSurviving in the slums as an Ordinary is no simple task, and Paedyn knows this better than most. Having been trained by her father to be overly observant since she was a child, Paedyn poses as a Psychic in the crowded city, blending in with the Elites as best she can in order to stay alive and out of trouble. Easier said than done.\r\n\r\nWhen Paeydn unsuspectingly saves one of Ilyas princes, she finds herself thrown into the Purging Trials. The brutal competition exists to showcase the Elites’ powers—the very thing Paedyn lacks. If the Trials and the opponents within them don’t kill her, the prince she’s fighting feelings for certainly will if he discovers what she is—completely Ordinary. [Powerless pdf](https://chesserresources.com/doc/powerless-by-lauren-roberts-pdf/)"
+  },
+  "covers": [
+    14567864
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-03-16T14:39:19.812565"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-13T07:28:32.133520"
+  }
+}

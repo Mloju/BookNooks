@@ -1,0 +1,77 @@
+{
+  "first_publish_date": "1995",
+  "title": "Miecz przeznaczenia",
+  "covers": [
+    6757701,
+    -1,
+    10657690,
+    13343291
+  ],
+  "lc_classifications": [
+    "PG7178.A65 M54 1995"
+  ],
+  "key": "/works/OL2577472W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL368638A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, fantasy, general",
+    "New York Times bestseller",
+    "Fiction, fantasy, short stories",
+    "Polish Fantasy fiction",
+    "Assassins",
+    "Monsters",
+    "Fiction",
+    "adventure",
+    "fantasy",
+    "Fiction, fantasy, collections & anthologies",
+    "Action & Adventure",
+    "Epic",
+    "Historical",
+    "Magic"
+  ],
+  "description": "Wiedźmiński kodeks stawia tę sprawę w sposób jednoznaczny: wiedźminowi smoka zabijać się nie godzi.\r\nTo gatunek zagrożony wymarciem. Aczkolwiek w powszechnej opinii to gad najbardziej wredny. Na oszluzgi, widłogony i latawce kodeks polować przyzwala.\r\n\r\nAle na smoki – nie.\r\n\r\nWiedźmin Geralt przyłącza się jednak do zorganizowanej przez króla Niedamira wyprawy na smoka, który skrył się w jaskiniach Gór Pustulskich. Na swej drodze spotyka trubadura Jaskra oraz – jakżeby inaczej – czarodziejkę Yennefer. Wśród zaproszonych przez króla co sławniejszych smokobójców jest Eyck z Denesle, rycerz bez skazy i zmazy, Rębacze z Cinfrid i szóstka krasnoludów pod komendą Yarpena Zigrina. Motywacje są różne, ale cel jeden.\r\nSmok nie ma szans.",
+  "subject_people": [
+    "Dandelion",
+    "Yennefer",
+    "Ciri (Cirilla Fiona Elen Riannon)",
+    "Visenna",
+    "Eithné",
+    "Braenn",
+    "Essi Daven",
+    "Geralt of Rivia"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL329475L"
+      },
+      "position": "0.7"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL164T",
+    "/tags/OL170T"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T23:59:12.155266"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T13:36:10.704592"
+  }
+}

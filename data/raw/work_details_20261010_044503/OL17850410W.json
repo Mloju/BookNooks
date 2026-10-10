@@ -1,0 +1,91 @@
+{
+  "subjects": [
+    "Fairies--Fiction.",
+    "Sisters--Fiction.",
+    "Orphans--Fiction.",
+    "Princes--Fiction.",
+    "Courts and courtiers--Fiction.",
+    "Fantasy",
+    "Princes",
+    "Courts and courtiers",
+    "Orphans",
+    "Fairies",
+    "Fiction",
+    "Sisters",
+    "Juvenile fiction",
+    "Sisters, fiction",
+    "Fairies, fiction",
+    "Orphans, fiction",
+    "Princes, fiction",
+    "Courts and courtiers, fiction",
+    "Fantasy fiction",
+    "Children's fiction",
+    "nyt:young-adult-hardcover=2018-01-21",
+    "New York Times bestseller",
+    "Fiction, romance, paranormal, general",
+    "Young Adult Fiction",
+    "Romance",
+    "Fiction, fantasy, general",
+    "Fiction, general",
+    "Young adult fiction, fantasy, dark fantasy",
+    "Young adult fiction, royalty",
+    "Young adult fiction, social themes, bullying",
+    "Young adult fiction, fantasy, romance"
+  ],
+  "description": "**GUARD YOUR MORTAL HEART.**\r\n\r\nJUDE WAS SEVEN WHEN HER PARENTS were murdered and she and her two sisters were stolen away to live in the treacherous High Court of Faerie. Ten years later, Jude wants nothing more than to belong there, despite her mortality. But many of the fey despise humans. Especially Prince Cardan, the youngest and wickedest son of the High King.\r\n\r\nTo win a place at the Court, she must defy him--and face the consequences.\r\n\r\nAs Jude becomes more deeply embroiled in palace intrigues and deceptions, she discovers her own capacity for tricker and bloodshed. But as betrayal threatens to drown the Courts of Faerie in violence, Jude will need to risk her life in a dangerous alliance to save her sisters, and Faerie itself.\r\n\r\nFrom #1 *New York Times* bestselling author Holly Black comes the first book in a stunning new trilogy filled with twists and enchantment, as one girl learns the meaning of true power when she finds herself caught in a web of royal faerie intrigue.\r\n\r\nThis description comes from the publisher. *The Cruel Prince* is the first book of the Folk of the Air trilogy.",
+  "key": "/works/OL17850410W",
+  "title": "The Cruel Prince",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1430285A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8361789,
+    8435418,
+    8738999,
+    8772072,
+    13275414,
+    10335642,
+    10869164
+  ],
+  "links": [
+    {
+      "title": "Goodreads",
+      "url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince?from_search=true&from_srp=true&qid=yvCfMVIQGK&rank=1",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL330571L"
+      },
+      "position": "1"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL177T"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-03-19T01:19:14.923727"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T15:54:40.277057"
+  }
+}
