@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Notebook runtime state
+.ipynb_checkpoints/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Local logs and operating system files
+logs/*
+!logs/.gitkeep
+.DS_Store
+
+# Open Library monthly source dumps are multi-gigabyte and should stay local
+data/raw/ol_dump_*.txt.gz

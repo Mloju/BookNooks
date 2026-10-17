@@ -1,0 +1,37 @@
+{
+  "target_records": 5000,
+  "saved_records": 5000,
+  "unique_work_ids": 5000,
+  "source_categories_available": {
+    "Nonfiction, arts and sciences": 2240676,
+    "Romance": 257225,
+    "Horror": 45999,
+    "Biography and memoir": 992185,
+    "Mystery and crime": 192836,
+    "Poetry and drama": 572433,
+    "Fantasy": 199810,
+    "Children and young adult": 218127,
+    "Science fiction": 86278,
+    "Adventure and western": 19545,
+    "Historical fiction": 12787
+  },
+  "sample_counts_by_category": {
+    "Fantasy": 455,
+    "Science fiction": 455,
+    "Mystery and crime": 455,
+    "Romance": 455,
+    "Horror": 455,
+    "Historical fiction": 455,
+    "Adventure and western": 454,
+    "Children and young adult": 454,
+    "Biography and memoir": 454,
+    "Nonfiction, arts and sciences": 454,
+    "Poetry and drama": 454
+  },
+  "sample_seed": 42,
+  "source_dump": "ol_dump_works_latest.txt.gz",
+  "source_url": "https://openlibrary.org/data/ol_dump_works_latest.txt.gz",
+  "source_dump_generated_monthly": true,
+  "created_at_utc": "2026-10-17T04:59:45.580818+00:00",
+  "author_names_resolved": 5473
+}

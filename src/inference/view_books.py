@@ -6,9 +6,9 @@ import json
 from pathlib import Path
 
 
-PROJECT_DIR = Path(__file__).resolve().parent.parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
-OUTPUT_FILE = PROJECT_DIR / "books_table.html"
+OUTPUT_FILE = PROJECT_DIR / "results" / "figures" / "books_table.html"
 
 
 def main():
@@ -48,8 +48,3 @@ search.addEventListener('input',render);render();
     document = document.replace("SOURCE", source_name).replace("DATA", payload)
     OUTPUT_FILE.write_text(document, encoding="utf-8")
     print(f"Created {OUTPUT_FILE} with {len(books)} records from {source.name}")
-
-import pandas as pd
-
-df = pd.read_csv("data/processed/books_sample_20261010_044503.csv")
-print(df.head(50))
