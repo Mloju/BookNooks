@@ -42,7 +42,7 @@ Run `python3 -m src.recommendation.terminal` from the repository root. It asks y
 
 ## Chat-style UI
 
-Install requirements, then run `streamlit run src/recommendation/chat_app.py` from the repository root. Choose a reader profile and ranking method in the sidebar, describe what you want to read, and review five recommendations with source links. The app is a local demo of the recommender; it does not use a generative AI chatbot.
+Install requirements, then run `streamlit run src/recommendation/chat_app.py` from the repository root. The guided intake asks three questions: preferred genres, current mood, and favorite author. By default, recommendations search the full 5,000-book catalog. A sidebar option can restrict results to the 42 works whose Open Library subjects explicitly include “Translations into English”; untagged translations may be excluded. When recognized genres are provided, books with matching genre subjects are prioritized over text-only similarity. Changing the profile, ranking method, or catalog scope reranks the current recommendations. Covers use Open Library first, then a cached Google Books lookup for a close English-language title/author match; unmatched records show a local placeholder. Set `GOOGLE_BOOKS_API_KEY` to enable the Google Books fallback. Recommendations include Open Library source links. The guided preference blend uses the answers as text, genre, and heuristic mood clues. Genre-only, TF-IDF, and mood-weighted methods remain available for comparison. The app does not use a generative AI chatbot.
 
 The expanded catalog target is 5,000 records. Recompute saved-record and data-quality counts with `python3 -m src.evaluation.data_quality`. Use the 100-record API collector only for small pilot runs; do not use it to bulk harvest individual records.
 
@@ -50,7 +50,7 @@ The expanded catalog target is 5,000 records. Recompute saved-record and data-qu
 
 Mood tags are heuristic labels derived during exploration. Create a 25-book human review sheet with `python -m src.evaluation.mood_validation`; reviewers should assign zero or more labels from `hopeful`, `dark`, `suspenseful`, `adventurous`, `romantic`, `reflective`, `mysterious`, `humorous`, and `undetermined`, separated by semicolons. Evaluate completed annotations with `python -m src.evaluation.mood_validation --evaluate results/experiments/mood_review_template.csv`. The blank review sheet is not validation evidence.
 
-Compare genre-only, TF-IDF, and mood-weighted rankings on the same user relevance judgments before claiming an improvement. Record the catalog version, split or review set, strategy settings, and metrics in `research_log/research_log.md` and `results/experiments/`. Keep source URLs and rights notes alongside processed records.
+Prepare the paired human-rating packet with `python3 -m src.evaluation.prepare_human_comparison`. It covers all four fixed profiles and all four ranking methods (`genre`, `tfidf`, `mood`, and `guided`), with separate samples for usable descriptions (at least 50 words) and records without them. The generated rating sheet is blank by design; the method key should remain hidden from raters until they finish. See `results/experiments/README.md` for rating instructions, subject-label normalization details, and limitations. Do not claim relevance improvement until independent human judgments are collected and analyzed. Record the catalog version, settings, completed ratings, and interpretation in `research_log/research_log.md` and `results/experiments/`.
 
 ## Data notes
 

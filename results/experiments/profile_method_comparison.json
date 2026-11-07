@@ -1,0 +1,101 @@
+{
+  "protocol": "Same 5,000-row catalog, four fixed profiles, and top-five cutoff, with empty free-text query. One AI-assisted reviewer mapped each recommendation engine genre_match (coverage of profile genre terms) to 1-5 bands: 0=1; <=0.2=2; <=0.4=3; <=0.7=4; >0.7=5. These metadata-fit proxy ratings are not reader/user ratings; nDCG@5 is calculated from them and is exploratory, not independent relevance evidence.",
+  "results": [
+    {
+      "profile": "adventure seeker",
+      "method": "genre",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "adventure seeker",
+      "method": "tfidf",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "adventure seeker",
+      "method": "mood",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "mystery solver",
+      "method": "genre",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "mystery solver",
+      "method": "tfidf",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "mystery solver",
+      "method": "mood",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "romance reader",
+      "method": "genre",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "romance reader",
+      "method": "tfidf",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "romance reader",
+      "method": "mood",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "curious explorer",
+      "method": "genre",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "curious explorer",
+      "method": "tfidf",
+      "n": 5,
+      "mean_rating_at_5": 5.0,
+      "ndcg_at_5_from_reviewer_ratings": 1.0,
+      "unique_recommended_works": 5
+    },
+    {
+      "profile": "curious explorer",
+      "method": "mood",
+      "n": 5,
+      "mean_rating_at_5": 4.8,
+      "ndcg_at_5_from_reviewer_ratings": 0.8849,
+      "unique_recommended_works": 5
+    }
+  ]
+}

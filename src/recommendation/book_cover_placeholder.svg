@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-label="Book cover unavailable">
+  <rect width="240" height="360" rx="12" fill="#f1eee8"/>
+  <rect x="14" y="14" width="212" height="332" rx="8" fill="#faf8f4" stroke="#d8d1c5" stroke-width="2"/>
+  <path d="M35 286c34-25 67-19 99-4 23 11 44 10 71-2v46H35z" fill="#d8e4df"/>
+  <path d="M35 306c33-16 61-13 91-2 28 10 50 8 79-4v26H35z" fill="#a9c1b8"/>
+  <path d="M79 134h82v126H79z" rx="4" fill="#d2a96b"/>
+  <path d="M90 146h60v101H90z" fill="#f4e7cf"/>
+  <path d="M120 174c-15-17-34 4 0 27 34-23 15-44 0-27z" fill="#b56f62"/>
+  <path d="M120 201v28" stroke="#b56f62" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="76" text-anchor="middle" fill="#514b43" font-family="Georgia,serif" font-size="18" letter-spacing="2">BOOKNOOKS</text>
+  <text x="120" y="318" text-anchor="middle" fill="#514b43" font-family="Arial,sans-serif" font-size="13">COVER UNAVAILABLE</text>
+</svg>

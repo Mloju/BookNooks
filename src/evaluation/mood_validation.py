@@ -15,7 +15,7 @@ def make_template(source: Path, output: Path, sample_size: int = 25, seed: int =
     with source.open(encoding="utf-8-sig", newline="") as file:
         rows = list(csv.DictReader(file))
     sample = random.Random(seed).sample(rows, min(sample_size, len(rows)))
-    columns = ["book_id", "title", "description", "model_mood_tags", "human_mood_tags", "reviewer_notes"]
+    columns = ["book_id", "title", "description", "model_mood_tags", "review_mood_tags", "reviewer_notes"]
     output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("w", encoding="utf-8-sig", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=columns)
@@ -26,24 +26,26 @@ def make_template(source: Path, output: Path, sample_size: int = 25, seed: int =
                 "title": row.get("title", ""),
                 "description": row.get("description", ""),
                 "model_mood_tags": row.get("mood_tags", ""),
-                "human_mood_tags": "",
+                "review_mood_tags": "",
                 "reviewer_notes": "",
             })
 
 
 def evaluate(path: Path) -> dict:
     with path.open(encoding="utf-8-sig", newline="") as file:
-        rows = [row for row in csv.DictReader(file) if row.get("human_mood_tags", "").strip()]
+        rows = [row for row in csv.DictReader(file)
+                if (row.get("review_mood_tags") or row.get("human_mood_tags", "")).strip()]
     if not rows:
-        return {"reviewed_books": 0, "status": "pending human annotations", "metrics": None}
+        return {"reviewed_books": 0, "status": "pending review annotations", "metrics": None}
     exact = 0
     true_pos = false_pos = false_neg = 0
     for row in rows:
         predicted = {x.strip().casefold() for x in row.get("model_mood_tags", "").split(";") if x.strip()}
-        human = {x.strip().casefold() for x in row["human_mood_tags"].split(";") if x.strip()}
+        annotations = row.get("review_mood_tags") or row.get("human_mood_tags", "")
+        human = {x.strip().casefold() for x in annotations.split(";") if x.strip()}
         unknown = human - MOODS
         if unknown:
-            raise ValueError(f"Unrecognized human labels: {sorted(unknown)}")
+            raise ValueError(f"Unrecognized review labels: {sorted(unknown)}")
         exact += predicted == human
         true_pos += len(predicted & human)
         false_pos += len(predicted - human)
@@ -51,7 +53,7 @@ def evaluate(path: Path) -> dict:
     precision = true_pos / (true_pos + false_pos) if true_pos + false_pos else 0.0
     recall = true_pos / (true_pos + false_neg) if true_pos + false_neg else 0.0
     f1 = 2 * precision * recall / (precision + recall) if precision + recall else 0.0
-    return {"reviewed_books": len(rows), "status": "human review recorded", "metrics": {
+    return {"reviewed_books": len(rows), "status": "review annotations recorded", "metrics": {
         "exact_set_match": round(exact / len(rows), 4),
         "micro_precision": round(precision, 4),
         "micro_recall": round(recall, 4),

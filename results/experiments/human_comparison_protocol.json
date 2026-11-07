@@ -1,0 +1,33 @@
+{
+  "created_at_utc": "2026-11-07T00:08:04.447184+00:00",
+  "dataset": "data/processed/books_sample_5000_with_moods.csv",
+  "dataset_sha256": "e0c35e5b20c4c91f921ccc1776cfddae5c9e2a98e676f0e57c55480c5cde1459",
+  "sample_seed": 20261023,
+  "per_profile_method_description_group": 3,
+  "profiles": [
+    "adventure seeker",
+    "mystery solver",
+    "romance reader",
+    "curious explorer"
+  ],
+  "methods": [
+    "genre",
+    "tfidf",
+    "mood",
+    "guided"
+  ],
+  "usable_description_threshold_words": 50,
+  "rating_protocol": "For every row, independently rate overall fit to the stated reader profile from 1 (not a fit) to 5 (excellent fit). Judge mood-label accuracy separately as yes/no/uncertain; use uncertain when evidence is insufficient. Treat missing descriptions as unavailable evidence, not negative evidence. Do not infer the hidden method; rate books on their merits.",
+  "rating_rows": 96,
+  "blinded_sheet": "human_comparison_ratings.csv",
+  "method_key": "human_comparison_key.csv",
+  "independent_mood_review": {
+    "rows": 25,
+    "sheet": "human_mood_review.csv",
+    "key": "human_mood_review_key.csv",
+    "description_threshold_words": 50,
+    "instruction": "Annotate zero or more moods from hopeful, dark, suspenseful, adventurous, romantic, reflective, mysterious, humorous. Use semicolon-separated labels; leave blank if no mood can be judged. Do not view the key until annotation is complete."
+  },
+  "status": "Prepared for human ratings; no human judgments are present yet.",
+  "limitations": "Top-ranked items are sampled within each method/profile/description stratum, so this is a top-of-list sample and does not estimate full-catalog relevance. The same title may appear more than once because its presentation and ranking context differ."
+}

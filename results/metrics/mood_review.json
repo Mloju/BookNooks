@@ -1,0 +1,12 @@
+{
+  "reviewed_books": 25,
+  "status": "review annotations recorded",
+  "metrics": {
+    "exact_set_match": 0.12,
+    "micro_precision": 0.5781,
+    "micro_recall": 0.5968,
+    "micro_f1": 0.5873
+  },
+  "reviewer": "AI-assisted single pass; not an independent human review",
+  "limitations": "The sample is only 25 books. Results do not establish quality of the larger 5,000-row catalog."
+}

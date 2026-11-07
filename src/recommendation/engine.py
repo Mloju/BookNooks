@@ -64,15 +64,15 @@ def recommend(
 ) -> list[dict]:
     """Rank books with the genre baseline or an explicitly experimental scorer."""
     catalog = list(books)
-    if strategy not in {"genre", "tfidf", "mood"}:
-        raise ValueError("strategy must be 'genre', 'tfidf', or 'mood'")
+    if strategy not in {"genre", "tfidf", "mood", "guided"}:
+        raise ValueError("strategy must be 'genre', 'tfidf', 'mood', or 'guided'")
     if not catalog or limit <= 0:
         return []
 
     wanted_genres, wanted_moods = tokens(genres), tokens(moods)
     query_terms = " ".join(part for part in (genres, moods, query) if part).strip()
     tfidf_scores = [0.0] * len(catalog)
-    if strategy == "tfidf" and query_terms:
+    if strategy in {"tfidf", "guided"} and query_terms:
         try:
             from sklearn.feature_extraction.text import TfidfVectorizer
             from sklearn.metrics.pairwise import cosine_similarity
@@ -99,9 +99,12 @@ def recommend(
         elif strategy == "tfidf":
             # Experimental hybrid; compare against genre-only before making claims.
             score = 0.5 * genre + 0.5 * tfidf_scores[index]
-        else:
+        elif strategy == "mood":
             # Experimental mood reranking; mood tags have not been human-validated.
             score = 0.7 * genre + 0.3 * mood
+        else:
+            # Experimental guided blend uses questionnaire text as well as genre and mood cues.
+            score = 0.5 * genre + 0.3 * tfidf_scores[index] + 0.2 * mood
         ranked.append((score, genre, mood, index, book))
 
     ranked.sort(
